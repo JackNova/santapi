@@ -5,8 +5,9 @@
 import os
 import os.path
 import re
-from collections import namedtuple
+from collections import defaultdict, namedtuple
 from string import ascii_uppercase
+import json
 
 from helpers import cached_in_db
 from requests_html import HTMLSession
@@ -88,7 +89,28 @@ def scrape_all_name_pages(letter):
 
     return results
 
+
 def scrape_all_names():
+    results = []
     for letter in ascii_uppercase:
-        scrape_all_name_pages(letter=letter)
+        xs = scrape_all_name_pages(letter=letter)
+        results += xs
         print(f"letter {letter} DONE")
+    return results
+
+
+def create_calendar(saint_results_dicts):
+    """
+    takes a list of SaintResult dictionaries and
+    organizes them as a dictionary where the root
+    key is mont-day
+    """
+    saints_calendar = defaultdict(list)
+    for saint in saint_results_dicts:
+        for saint_date in saint.get('dates', []):
+            xs = [str(saint_date.get('month')), str(saint_date.get('day'))]
+            key = '-'.join(xs)
+            saints_calendar[key].append(saint)
+    
+    with open('db/calendar.json', 'w') as calendar_file:
+        calendar_file.write(json.dumps(saints_calendar, indent=4))
