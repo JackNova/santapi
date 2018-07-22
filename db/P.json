@@ -1,0 +1,5766 @@
+[
+    {
+        "full_name": "San Pancrazio Martire",
+        "first_name": "Pancrazio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino di Nola Vescovo",
+        "first_name": "Paolino di Nola",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Apostolo",
+        "first_name": "Paolo",
+        "role": "Apostolo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo della Croce Sacerdote",
+        "first_name": "Paolo della Croce",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 10,
+                "day": 19
+            },
+            {
+                "month": 10,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Miki e compagni Martiri",
+        "first_name": "Paolo Miki e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo VI (Giovanni Battista Montini) Papa",
+        "first_name": "Paolo VI (Giovanni Battista Montini)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Patrizio Vescovo",
+        "first_name": "Patrizio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Perpetua e Felicita Martiri",
+        "first_name": "Perpetua e Felicita",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Pier Damiani Vescovo e dottore della Chiesa",
+        "first_name": "Pier Damiani",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Apostolo",
+        "first_name": "Pietro",
+        "role": "Apostolo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Canisio Sacerdote e dottore della Chiesa",
+        "first_name": "Pietro Canisio",
+        "role": "Sacerdote e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Chanel Sacerdote e martire",
+        "first_name": "Pietro Chanel",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Chanel e Luigi Maria (Grignion) da Montfort",
+        "first_name": "Pietro Chanel e Luigi Maria (Grignion) da Montfort",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Claver Sacerdote",
+        "first_name": "Pietro Claver",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 9,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Crisologo Vescovo e dottore della Chiesa",
+        "first_name": "Pietro Crisologo",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro e Paolo Apostoli",
+        "first_name": "Pietro e Paolo",
+        "role": "Apostoli",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Giuliano Eymard Sacerdote",
+        "first_name": "Pietro Giuliano Eymard",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio da Pietrelcina (Francesco Forgione) Sacerdote cappuccino",
+        "first_name": "Pio da Pietrelcina (Francesco Forgione)",
+        "role": "Sacerdote cappuccino",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio V (Antonio Ghislieri) Papa",
+        "first_name": "Pio V (Antonio Ghislieri)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio X (Giuseppe Sarto) Papa",
+        "first_name": "Pio X (Giuseppe Sarto)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Policarpo Vescovo e martire",
+        "first_name": "Policarpo",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponziano Papa e martire",
+        "first_name": "Ponziano",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beati 10 Padri Mercedari",
+        "first_name": "10 Padri Mercedari",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beati 11 Padri Mercedari",
+        "first_name": "11 Padri Mercedari",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beati 6 Padri Mercedari",
+        "first_name": "6 Padri Mercedari",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pabai Principe .",
+        "first_name": "Pabai",
+        "role": "Principe",
+        "dates": []
+    },
+    {
+        "full_name": "San Pablo di Merida Vescovo",
+        "first_name": "Pablo di Merida",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pablo Segal\u00e1 Sol\u00e9 Sacerdote e martire",
+        "first_name": "Pablo Segal\u00e1 Sol\u00e9",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Pabo Confessore",
+        "first_name": "Pabo",
+        "role": "Confessore",
+        "dates": [
+            {
+                "month": 11,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Paciano di Barcellona Vescovo",
+        "first_name": "Paciano di Barcellona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pacifico",
+        "first_name": "Pacifico",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Pacifico da Sanseverino Marche",
+        "first_name": "Pacifico da Sanseverino Marche",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pacifico da Valencia (Pedro Salcedo Puchades) Religioso e martire",
+        "first_name": "Pacifico da Valencia (Pedro Salcedo Puchades)",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pacifico Ramati da Cerano",
+        "first_name": "Pacifico Ramati da Cerano",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Pacomio Abate",
+        "first_name": "Pacomio",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 5,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Padri Mercedari di Avignone",
+        "first_name": "Padri Mercedari di Avignone",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Pafnuzio Vescovo in Egitto",
+        "first_name": "Pafnuzio",
+        "role": "Vescovo in Egitto",
+        "dates": [
+            {
+                "month": 9,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pagano di Lecco Domenicano",
+        "first_name": "Pagano di Lecco",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Palazia e Laurenzia Martiri",
+        "first_name": "Palazia e Laurenzia",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Palemone Anacoreta in Tebaide",
+        "first_name": "Palemone",
+        "role": "Anacoreta in Tebaide",
+        "dates": [
+            {
+                "month": 1,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Palerio di Telese Vescovo",
+        "first_name": "Palerio di Telese",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Palladio Vescovo degli Scoti",
+        "first_name": "Palladio",
+        "role": "Vescovo degli Scoti",
+        "dates": [
+            {
+                "month": 7,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Palladio di Auxerre Vescovo",
+        "first_name": "Palladio di Auxerre",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Palladio di Saintes Vescovo",
+        "first_name": "Palladio di Saintes",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Palmerio Martire",
+        "first_name": "Palmerio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Pammachio di Roma",
+        "first_name": "Pammachio di Roma",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Panacea De' Muzzi Vergine e martire",
+        "first_name": "Panacea De' Muzzi",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Pancrazio Martire",
+        "first_name": "Pancrazio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Pancrazio di Taormina Vescovo e martire",
+        "first_name": "Pancrazio di Taormina",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Panfilo di Roma Martire",
+        "first_name": "Panfilo di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Panfilo di Sulmona",
+        "first_name": "Panfilo di Sulmona",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Panfilo e compagni Martiri di Cesarea di Palestina",
+        "first_name": "Panfilo e compagni",
+        "role": "Martiri di Cesarea di Palestina",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Pantagato di Vienne Vescovo",
+        "first_name": "Pantagato di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pantaleone Medico e martire",
+        "first_name": "Pantaleone",
+        "role": "Medico e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Panteno",
+        "first_name": "Panteno",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paola (la Barbuta) Venerata ad Avila",
+        "first_name": "Paola (la Barbuta)",
+        "role": "Venerata ad Avila",
+        "dates": [
+            {
+                "month": 2,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paola di S. Giuseppe di Calasanzio (Paola Montal y Fornes) Fondatrice delle Figlie di Maria",
+        "first_name": "Paola di S. Giuseppe di Calasanzio (Paola Montal y Fornes)",
+        "role": "Fondatrice delle Figlie di Maria",
+        "dates": [
+            {
+                "month": 2,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paola Elisabetta (Costanza) Cerioli Vedova e fondatrice",
+        "first_name": "Paola Elisabetta (Costanza) Cerioli",
+        "role": "Vedova e fondatrice",
+        "dates": [
+            {
+                "month": 12,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paola Frassinetti Vergine",
+        "first_name": "Paola Frassinetti",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 6,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Paola Gambara Costa Terziaria francescana",
+        "first_name": "Paola Gambara Costa",
+        "role": "Terziaria francescana",
+        "dates": [
+            {
+                "month": 1,
+                "day": 24
+            },
+            {
+                "month": 3,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Paola Montaldi Vergine",
+        "first_name": "Paola Montaldi",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 8,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paola Romana Vedova",
+        "first_name": "Paola Romana",
+        "role": "Vedova",
+        "dates": [
+            {
+                "month": 1,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paolina Religiosa",
+        "first_name": "Paolina",
+        "role": "Religiosa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paolina del Cuore Agonizzante di Ges\u00f9 (Amabile Visintainer) Religiosa, fondatrice",
+        "first_name": "Paolina del Cuore Agonizzante di Ges\u00f9 (Amabile Visintainer)",
+        "role": "Religiosa, fondatrice",
+        "dates": [
+            {
+                "month": 7,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Paolina e familiari Martiri",
+        "first_name": "Paolina e familiari",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Paolina von Mallinckrodt Fondatrice",
+        "first_name": "Paolina von Mallinckrodt",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino Bigazzini Monaco",
+        "first_name": "Paolino Bigazzini",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 5,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino d'Aquileia Vescovo",
+        "first_name": "Paolino d'Aquileia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino di Lucca Vescovo e martire",
+        "first_name": "Paolino di Lucca",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino di Nola Vescovo",
+        "first_name": "Paolino di Nola",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino di Treviri Vescovo",
+        "first_name": "Paolino di Treviri",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolino di York",
+        "first_name": "Paolino di York",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Apostolo",
+        "first_name": "Paolo",
+        "role": "Apostolo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Patriarca di Costantinopoli, martire",
+        "first_name": "Paolo",
+        "role": "Patriarca di Costantinopoli, martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo (Pablo) Melendez Gonzalo Padre di famiglia, martire",
+        "first_name": "Paolo (Pablo) Melendez Gonzalo",
+        "role": "Padre di famiglia, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo (Pietro) Gojdic",
+        "first_name": "Paolo (Pietro) Gojdic",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Aureliano di Leon Vescovo",
+        "first_name": "Paolo Aureliano di Leon",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Paolo Bori Puig e Vincenzo Sales Genov\u00e9s Gesuiti, martiri",
+        "first_name": "Paolo Bori Puig e Vincenzo Sales Genov\u00e9s",
+        "role": "Gesuiti, martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Burali Cardinale",
+        "first_name": "Paolo Burali",
+        "role": "Cardinale",
+        "dates": [
+            {
+                "month": 6,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Chen Changpin Seminarista e martire",
+        "first_name": "Paolo Chen Changpin",
+        "role": "Seminarista e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Paolo Chong Ha-sang e Agostino Yu Chin-gil Martiri",
+        "first_name": "Paolo Chong Ha-sang e Agostino Yu Chin-gil",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo da Barletta Religioso Agostiniano",
+        "first_name": "Paolo da Barletta",
+        "role": "Religioso Agostiniano",
+        "dates": [
+            {
+                "month": 2,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo De Ambrosis da Cropani Religioso del T.O.R.",
+        "first_name": "Paolo De Ambrosis da Cropani",
+        "role": "Religioso del T.O.R.",
+        "dates": [
+            {
+                "month": 1,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo de Lara Mercedario",
+        "first_name": "Paolo de Lara",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 7,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo della Croce Sacerdote",
+        "first_name": "Paolo della Croce",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 10,
+                "day": 19
+            },
+            {
+                "month": 10,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Denn Sacerdote gesuita, martire",
+        "first_name": "Paolo Denn",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Cipro Monaco e martire",
+        "first_name": "Paolo di Cipro",
+        "role": "Monaco e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Cordova Martire",
+        "first_name": "Paolo di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Narbona Vescovo e martire",
+        "first_name": "Paolo di Narbona",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Plousias Vescovo",
+        "first_name": "Paolo di Plousias",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Tebe Eremita",
+        "first_name": "Paolo di Tebe",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 1,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Trois Chateaux Vescovo",
+        "first_name": "Paolo di Trois Chateaux",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo di Verdun Vescovo",
+        "first_name": "Paolo di Verdun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Paolo e Giacomo Cavalieri mercedari",
+        "first_name": "Paolo e Giacomo",
+        "role": "Cavalieri mercedari",
+        "dates": [
+            {
+                "month": 4,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Paolo e Maria Tanaca Sposi e martiri",
+        "first_name": "Paolo e Maria Tanaca",
+        "role": "Sposi e martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Paolo e Tecla Nangaichi, sposi, ed il figlio Paolo Martiri giapponesi",
+        "first_name": "Paolo e Tecla Nangaichi, sposi, ed il figlio Paolo",
+        "role": "Martiri giapponesi",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Giovanni Charles Sacerdote e martire",
+        "first_name": "Paolo Giovanni Charles",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Giuseppe Nardini Sacerdote, fondatore",
+        "first_name": "Paolo Giuseppe Nardini",
+        "role": "Sacerdote, fondatore",
+        "dates": [
+            {
+                "month": 1,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Giustiniani Eremita camaldolese",
+        "first_name": "Paolo Giustiniani",
+        "role": "Eremita camaldolese",
+        "dates": [
+            {
+                "month": 6,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Gracia Sanchez Coadiutore salesiano, martire",
+        "first_name": "Paolo Gracia Sanchez",
+        "role": "Coadiutore salesiano, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Hanh Martire",
+        "first_name": "Paolo Hanh",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Ho Hyob Martire",
+        "first_name": "Paolo Ho Hyob",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Paolo Hong Yong-ju, Giovanni Yi Mun-u e Barbara Ch'oe Yong-i Martiri",
+        "first_name": "Paolo Hong Yong-ju, Giovanni Yi Mun-u e Barbara Ch'oe Yong-i",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo I Papa",
+        "first_name": "Paolo I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 6,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo I (o Paolino) di Brescia Vescovo",
+        "first_name": "Paolo I (o Paolino) di Brescia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo II di Brescia Vescovo",
+        "first_name": "Paolo II di Brescia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo III di Brescia Vescovo",
+        "first_name": "Paolo III di Brescia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo il Semplice Monaco",
+        "first_name": "Paolo il Semplice",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 3,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Ke Tingzhu Martire",
+        "first_name": "Paolo Ke Tingzhu",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Le Bao Tinh Sacerdote e martire",
+        "first_name": "Paolo Le Bao Tinh",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Le-Van-Loc Martire",
+        "first_name": "Paolo Le-Van-Loc",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Liu Hanzuo Sacerdote e martire",
+        "first_name": "Paolo Liu Hanzuo",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Liu Jinde Martire",
+        "first_name": "Paolo Liu Jinde",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Manna Missionario",
+        "first_name": "Paolo Manna",
+        "role": "Missionario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            },
+            {
+                "month": 1,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Miki e compagni Martiri",
+        "first_name": "Paolo Miki e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Paolo Nguyen Van My, Pietro Truong Van Duong e Pietro Vu Van Truat Martiri",
+        "first_name": "Paolo Nguyen Van My, Pietro Truong Van Duong e Pietro Vu Van Truat",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Noguera Trias Religioso e martire",
+        "first_name": "Paolo Noguera Trias",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Paolo Pham Khac Khoan, Giovanni Battista Dinh Van Than e Pietro Nguyen Van Hieu Martiri",
+        "first_name": "Paolo Pham Khac Khoan, Giovanni Battista Dinh Van Than e Pietro Nguyen Van Hieu",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Sanson Martire mercedario 27 sttembre",
+        "first_name": "Paolo Sanson",
+        "role": "Martire mercedario",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Paolo Shinsuke Martire in Giappone",
+        "first_name": "Paolo Shinsuke",
+        "role": "Martire in Giappone",
+        "dates": [
+            {
+                "month": 6,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Thoj Xyooj Catechista e martire",
+        "first_name": "Paolo Thoj Xyooj",
+        "role": "Catechista e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Tong Viet Buong Martire",
+        "first_name": "Paolo Tong Viet Buong",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Trinci da Foligno Senza data",
+        "first_name": "Paolo Trinci da Foligno",
+        "role": "Senza data",
+        "dates": []
+    },
+    {
+        "full_name": "San Paolo VI (Giovanni Battista Montini) Papa",
+        "first_name": "Paolo VI (Giovanni Battista Montini)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Wu Yan, Giovan Battista Wu Mantang e Paolo Wu Wanshu Martiri cinesi",
+        "first_name": "Paolo Wu Yan, Giovan Battista Wu Mantang e Paolo Wu Wanshu",
+        "role": "Martiri cinesi",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Yi Do-gi Martire",
+        "first_name": "Paolo Yi Do-gi",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Yi Guk-seung Celibe e martire .",
+        "first_name": "Paolo Yi Guk-seung",
+        "role": "Celibe e martire",
+        "dates": []
+    },
+    {
+        "full_name": "Servi di Dio Paolo Yun Ji-chung e Giacomo Kwon Sang-yeon Martiri",
+        "first_name": "Paolo Yun Ji-chung e Giacomo Kwon Sang-yeon",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Paolo, Cirillo, Eugenio e compagni Martiri",
+        "first_name": "Paolo, Cirillo, Eugenio e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Paolo, Tatta e figli Sposi e martiri",
+        "first_name": "Paolo, Tatta e figli",
+        "role": "Sposi e martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Papas Martire in Licaonia",
+        "first_name": "Papas",
+        "role": "Martire in Licaonia",
+        "dates": [
+            {
+                "month": 3,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Papia di Gerapoli Vescovo",
+        "first_name": "Papia di Gerapoli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Papia e Mauro Soldati, martiri",
+        "first_name": "Papia e Mauro",
+        "role": "Soldati, martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Papia, Diodoro e Claudiano Martiri",
+        "first_name": "Papia, Diodoro e Claudiano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Papiniano di Vita, Mansueto di Uruci e compagni Martiri",
+        "first_name": "Papiniano di Vita, Mansueto di Uruci e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Pappio (o Pappia, Pappiano, Papino) Martire",
+        "first_name": "Pappio (o Pappia, Pappiano, Papino)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Pappolo di Metz Vescovo",
+        "first_name": "Pappolo di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Papulo Martire",
+        "first_name": "Papulo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Paracoda di Vienne Vescovo",
+        "first_name": "Paracoda di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Paragorio e compagni Martiri di Noli",
+        "first_name": "Paragorio e compagni",
+        "role": "Martiri di Noli",
+        "dates": [
+            {
+                "month": 9,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Parasceve la Giovane Eremita",
+        "first_name": "Parasceve la Giovane",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 10,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Pardo Vescovo di Larino o di Mira",
+        "first_name": "Pardo",
+        "role": "Vescovo di Larino o di Mira",
+        "dates": [
+            {
+                "month": 5,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Pardulfo (Pardolfo) Abate di Gueret",
+        "first_name": "Pardulfo (Pardolfo)",
+        "role": "Abate di Gueret",
+        "dates": [
+            {
+                "month": 10,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Paride Vescovo di Teano",
+        "first_name": "Paride",
+        "role": "Vescovo di Teano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Parisio Sacerdote camaldolese",
+        "first_name": "Parisio",
+        "role": "Sacerdote camaldolese",
+        "dates": [
+            {
+                "month": 6,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Partenio Vescovo di Lampsaco",
+        "first_name": "Partenio",
+        "role": "Vescovo di Lampsaco",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Partenio e Calogero Martiri",
+        "first_name": "Partenio e Calogero",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 5,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pascario di Nantes Vescovo",
+        "first_name": "Pascario di Nantes",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pascasio da Lione Vescovo",
+        "first_name": "Pascasio da Lione",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pascasio di Vienne Vescovo",
+        "first_name": "Pascasio di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Pascasio Radberto Abate di Corbie",
+        "first_name": "Pascasio Radberto",
+        "role": "Abate di Corbie",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pascual Roda D\u00edaz Laico e martire",
+        "first_name": "Pascual Roda D\u00edaz",
+        "role": "Laico e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pascuccio degli Atti Venerato a Guardea Seconda domenica di giugno",
+        "first_name": "Pascuccio degli Atti",
+        "role": "Venerato a Guardea",
+        "dates": []
+    },
+    {
+        "full_name": "San Pasicrate e Valenzio Martiri",
+        "first_name": "Pasicrate e Valenzio",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pasquale (Pascual) Fortuno Almela Sacerdote e martire",
+        "first_name": "Pasquale (Pascual) Fortuno Almela",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pasquale Alaez Medina Religioso e martire",
+        "first_name": "Pasquale Alaez Medina",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Pasquale Baylon Religioso dei Frati Minori",
+        "first_name": "Pasquale Baylon",
+        "role": "Religioso dei Frati Minori",
+        "dates": [
+            {
+                "month": 5,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pasquale I Papa",
+        "first_name": "Pasquale I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pasquale Penades Jornet Sacerdote e martire",
+        "first_name": "Pasquale Penades Jornet",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pasquale Torres Lloret Padre di famiglia, martire",
+        "first_name": "Pasquale Torres Lloret",
+        "role": "Padre di famiglia, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Passivo di Se\u00e9z Vescovo",
+        "first_name": "Passivo di Se\u00e9z",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pastore, Vittorino e compagni Martiri di Nicomedia",
+        "first_name": "Pastore, Vittorino e compagni",
+        "role": "Martiri di Nicomedia",
+        "dates": [
+            {
+                "month": 3,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Patario (Patapio) Eremita a Costantinopoli",
+        "first_name": "Patario (Patapio)",
+        "role": "Eremita a Costantinopoli",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Patendo Vescovo",
+        "first_name": "Patendo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Paterio di Brescia Vescovo",
+        "first_name": "Paterio di Brescia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Paterniano Vescovo",
+        "first_name": "Paterniano",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Paterno di Avranches Vescovo",
+        "first_name": "Paterno di Avranches",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Paterno di Vannes Vescovo",
+        "first_name": "Paterno di Vannes",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Patrizia di Costantinopoli Vergine",
+        "first_name": "Patrizia di Costantinopoli",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Patrizio Vescovo",
+        "first_name": "Patrizio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Patrizio Dong Bodi Seminarista cinese, martire",
+        "first_name": "Patrizio Dong Bodi",
+        "role": "Seminarista cinese, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Patrizio O\u2019Healy e Conn O\u2019Rourke Martiri",
+        "first_name": "Patrizio O\u2019Healy e Conn O\u2019Rourke",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Patroclo Martire",
+        "first_name": "Patroclo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Patroclo di Colombier Eremita",
+        "first_name": "Patroclo di Colombier",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pavel Djidjov Sacerdote e martire",
+        "first_name": "Pavel Djidjov",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Paziente di Lione Vescovo",
+        "first_name": "Paziente di Lione",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Paziente di Metz Vescovo",
+        "first_name": "Paziente di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Antonio Alm\u00e9cija Morales Sacerdote e martire",
+        "first_name": "Pedro Antonio Alm\u00e9cija Morales",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pedro De Jesus Maldonado Lucero Sacerdote e martire",
+        "first_name": "Pedro De Jesus Maldonado Lucero",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Mar\u00eda Ram\u00edrez Ramos Sacerdote e martire",
+        "first_name": "Pedro Mar\u00eda Ram\u00edrez Ramos",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Mart\u00edn Abad Sacerdote e martire",
+        "first_name": "Pedro Mart\u00edn Abad",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Meca Moreno Sacerdote e martire",
+        "first_name": "Pedro Meca Moreno",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Roca Toscas Chierico e martire",
+        "first_name": "Pedro Roca Toscas",
+        "role": "Chierico e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Ruiz Ortega Chierico e martire",
+        "first_name": "Pedro Ruiz Ortega",
+        "role": "Chierico e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Sadurn\u00ed Ravent\u00f3s Sacerdote e martire",
+        "first_name": "Pedro Sadurn\u00ed Ravent\u00f3s",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Verdaguer Saurina Sacerdote e martire",
+        "first_name": "Pedro Verdaguer Saurina",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Pelagia",
+        "first_name": "Pelagia",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Pelagio Martire venerato a Costanza",
+        "first_name": "Pelagio",
+        "role": "Martire venerato a Costanza",
+        "dates": [
+            {
+                "month": 8,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Pelagio di Cordova Martire",
+        "first_name": "Pelagio di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Pelagio di Laodicea Vescovo",
+        "first_name": "Pelagio di Laodicea",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Peleo, Nilo, Elia, Patermuzio e compagni Martiri",
+        "first_name": "Peleo, Nilo, Elia, Patermuzio e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pelino Vescovo di Brindisi",
+        "first_name": "Pelino",
+        "role": "Vescovo di Brindisi",
+        "dates": [
+            {
+                "month": 12,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Pellegrino Martire",
+        "first_name": "Pellegrino",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pellegrino Vescovo di Triocala",
+        "first_name": "Pellegrino",
+        "role": "Vescovo di Triocala",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pellegrino d'Auxerre Vescovo e martire",
+        "first_name": "Pellegrino d'Auxerre",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pellegrino da Falerone Sacerdote",
+        "first_name": "Pellegrino da Falerone",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 3,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pellegrino e Bianco Pellegrini",
+        "first_name": "Pellegrino e Bianco",
+        "role": "Pellegrini",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Pellegrino Laziosi Religioso",
+        "first_name": "Pellegrino Laziosi",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 5,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Pelusio Sacerdote e martire",
+        "first_name": "Pelusio",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pere Tarres i Claret Sacerdote",
+        "first_name": "Pere Tarres i Claret",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Perfecto Carrascosa Santos Sacerdote francescano, martire",
+        "first_name": "Perfecto Carrascosa Santos",
+        "role": "Sacerdote francescano, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Perfetto di Cordova Martire",
+        "first_name": "Perfetto di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Perpetua e Felicita Martiri",
+        "first_name": "Perpetua e Felicita",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Perpetuo di Maastricht Vescovo",
+        "first_name": "Perpetuo di Maastricht",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Perpetuo di Tours Vescovo",
+        "first_name": "Perpetuo di Tours",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Petroc Abate",
+        "first_name": "Petroc",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Petronilla Martire",
+        "first_name": "Petronilla",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Petronilla da Troyes Badessa di Moncel",
+        "first_name": "Petronilla da Troyes",
+        "role": "Badessa di Moncel",
+        "dates": [
+            {
+                "month": 5,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Petronilla e Ponzia Badesse premostratensi",
+        "first_name": "Petronilla e Ponzia",
+        "role": "Badesse premostratensi",
+        "dates": [
+            {
+                "month": 10,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Petronio di Bologna Vescovo",
+        "first_name": "Petronio di Bologna",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Petronio di Die Vescovo",
+        "first_name": "Petronio di Die",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Piamun Vergine in Egitto",
+        "first_name": "Piamun",
+        "role": "Vergine in Egitto",
+        "dates": [
+            {
+                "month": 3,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Piatone (Piato) di Tournai Sacerdote e martire",
+        "first_name": "Piatone (Piato) di Tournai",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Pienzio di Poitiers Vescovo",
+        "first_name": "Pienzio di Poitiers",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Pienzo di Poitiers Vescovo",
+        "first_name": "Pienzo di Poitiers",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pier (Pietro) Pettinaio Terziario francescano",
+        "first_name": "Pier (Pietro) Pettinaio",
+        "role": "Terziario francescano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Pier Damiani Vescovo e dottore della Chiesa",
+        "first_name": "Pier Damiani",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pier Francesco Jamet Fondatore francese",
+        "first_name": "Pier Francesco Jamet",
+        "role": "Fondatore francese",
+        "dates": [
+            {
+                "month": 1,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pier Luigi Gervais Sacerdote martire",
+        "first_name": "Pier Luigi Gervais",
+        "role": "Sacerdote martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pier Renato (Pierre-Ren\u00e9) Rogue Sacerdote vincenziano, martire",
+        "first_name": "Pier Renato (Pierre-Ren\u00e9) Rogue",
+        "role": "Sacerdote vincenziano, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Pier Tommaso Patriarca latino di Costantinopoli",
+        "first_name": "Pier Tommaso",
+        "role": "Patriarca latino di Costantinopoli",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Piergiorgio Frassati Terziario domenicano",
+        "first_name": "Piergiorgio Frassati",
+        "role": "Terziario domenicano",
+        "dates": [
+            {
+                "month": 7,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Pierina Morosini Vergine e martire",
+        "first_name": "Pierina Morosini",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Pierio Prete",
+        "first_name": "Pierio",
+        "role": "Prete",
+        "dates": [
+            {
+                "month": 11,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Piero Capucci Domenicano",
+        "first_name": "Piero Capucci",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pierre (Pietro) Vigne Sacerdote, fondatore",
+        "first_name": "Pierre (Pietro) Vigne",
+        "role": "Sacerdote, fondatore",
+        "dates": [
+            {
+                "month": 7,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pierre Bonhomme Sacerdote, Fondatore",
+        "first_name": "Pierre Bonhomme",
+        "role": "Sacerdote, Fondatore",
+        "dates": [
+            {
+                "month": 9,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pierre-Louis de La Rouchefoucauld-Bayers Vescovo e martire",
+        "first_name": "Pierre-Louis de La Rouchefoucauld-Bayers",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pierre-Lucien Claverie Vescovo domenicano, martire",
+        "first_name": "Pierre-Lucien Claverie",
+        "role": "Vescovo domenicano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Piet\u00e0 della Croce Ortiz Real",
+        "first_name": "Piet\u00e0 della Croce Ortiz Real",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Pietra di San Giuseppe P\u00e9rez Florido (Ana Josefa) Fondatrice",
+        "first_name": "Pietra di San Giuseppe P\u00e9rez Florido (Ana Josefa)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Apostolo",
+        "first_name": "Pietro",
+        "role": "Apostolo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Mercedario, martire",
+        "first_name": "Pietro",
+        "role": "Mercedario, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro (David) e Febronia (Eufrosina) Sposi e monaci",
+        "first_name": "Pietro (David) e Febronia (Eufrosina)",
+        "role": "Sposi e monaci",
+        "dates": [
+            {
+                "month": 6,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro (detto Cubicolario), Doroteo e Gorgonio Martiri di Nicomedia",
+        "first_name": "Pietro (detto Cubicolario), Doroteo e Gorgonio",
+        "role": "Martiri di Nicomedia",
+        "dates": [
+            {
+                "month": 3,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro (Petro) Verhun Sacerdote e martire",
+        "first_name": "Pietro (Petro) Verhun",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro (Pietrillo) Crisci da Foligno",
+        "first_name": "Pietro (Pietrillo) Crisci da Foligno",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro (Vincioli) da Perugia Monaco",
+        "first_name": "Pietro (Vincioli) da Perugia",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 7,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Acotanto Monaco",
+        "first_name": "Pietro Acotanto",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Adriano Toulorge Sacerdote premostratense, martire",
+        "first_name": "Pietro Adriano Toulorge",
+        "role": "Sacerdote premostratense, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Amelio Mercedario",
+        "first_name": "Pietro Amelio",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 11,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Andador Mercedario",
+        "first_name": "Pietro Andador",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 11,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Armengol Mercedario",
+        "first_name": "Pietro Armengol",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 4,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Asua Mendia Sacerdote e martire",
+        "first_name": "Pietro Asua Mendia",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Aymillo Vescovo",
+        "first_name": "Pietro Aymillo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Baietta Martire mercedario",
+        "first_name": "Pietro Baietta",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Battista Blasquez Francescano martire a Nagasaki (Giappone)",
+        "first_name": "Pietro Battista Blasquez",
+        "role": "Francescano martire a Nagasaki (Giappone)",
+        "dates": [
+            {
+                "month": 2,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Becchetti da Fabriano Sacerdote agostiniano",
+        "first_name": "Pietro Becchetti da Fabriano",
+        "role": "Sacerdote agostiniano",
+        "dates": [
+            {
+                "month": 7,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Berno da Ascona Martire",
+        "first_name": "Pietro Berno da Ascona",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Boffet Martire mercedario",
+        "first_name": "Pietro Boffet",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Bonilli Sacerdote e fondatore",
+        "first_name": "Pietro Bonilli",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 1,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Buitrago Morales Sacerdote e martire",
+        "first_name": "Pietro Buitrago Morales",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Calungsod Catechista filippino, martire",
+        "first_name": "Pietro Calungsod",
+        "role": "Catechista filippino, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Cambiani da Ruffia Sacerdote domenicano, martire",
+        "first_name": "Pietro Cambiani da Ruffia",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Camino Mercedario, martire",
+        "first_name": "Pietro Camino",
+        "role": "Mercedario, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Canisio Sacerdote e dottore della Chiesa",
+        "first_name": "Pietro Canisio",
+        "role": "Sacerdote e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Casani (Pietro della Nativit\u00e0 di Maria) Scolopio",
+        "first_name": "Pietro Casani (Pietro della Nativit\u00e0 di Maria)",
+        "role": "Scolopio",
+        "dates": [
+            {
+                "month": 10,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Chanel Sacerdote e martire",
+        "first_name": "Pietro Chanel",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Chanel e Luigi Maria (Grignion) da Montfort",
+        "first_name": "Pietro Chanel e Luigi Maria (Grignion) da Montfort",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Cho Hwa-so e cinque compagni Martiri",
+        "first_name": "Pietro Cho Hwa-so e cinque compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Ch\u2019oe Hyong e Giovanni Battista Chon Chang-un Martiri",
+        "first_name": "Pietro Ch\u2019oe Hyong e Giovanni Battista Chon Chang-un",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Claver Sacerdote",
+        "first_name": "Pietro Claver",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 9,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Crisologo Vescovo e dottore della Chiesa",
+        "first_name": "Pietro Crisologo",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro d'Alcantara",
+        "first_name": "Pietro d'Alcantara",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Da Martire",
+        "first_name": "Pietro Da",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro da Bearn Mercedario, martire",
+        "first_name": "Pietro da Bearn",
+        "role": "Mercedario, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Benisa (Alejandro Mas Ginestar) Sacerdote e martire",
+        "first_name": "Pietro da Benisa (Alejandro Mas Ginestar)",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Cordova Mercedario",
+        "first_name": "Pietro da Cordova",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 5,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Cuneo Francescano, martire",
+        "first_name": "Pietro da Cuneo",
+        "role": "Francescano, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Gubbio Agostiniano",
+        "first_name": "Pietro da Gubbio",
+        "role": "Agostiniano",
+        "dates": [
+            {
+                "month": 3,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Imola Cavaliere di Malta",
+        "first_name": "Pietro da Imola",
+        "role": "Cavaliere di Malta",
+        "dates": [
+            {
+                "month": 10,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Mogliano",
+        "first_name": "Pietro da Mogliano",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro da Treja",
+        "first_name": "Pietro da Treja",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro da Verona Sacerdote e martire",
+        "first_name": "Pietro da Verona",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Alcantara (Lorenzo) Villanueva Larrayoz Religioso e martire",
+        "first_name": "Pietro de Alcantara (Lorenzo) Villanueva Larrayoz",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro de Amer Mercedario",
+        "first_name": "Pietro de Amer",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Avedano Martire mercedario",
+        "first_name": "Pietro de Avedano",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 7,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Barellis Cardinale",
+        "first_name": "Pietro de Barellis",
+        "role": "Cardinale",
+        "dates": [
+            {
+                "month": 7,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Bustamante Vescovo",
+        "first_name": "Pietro de Bustamante",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Calidis Mercedario",
+        "first_name": "Pietro de Calidis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro de Cervis Martire mercedario",
+        "first_name": "Pietro de Cervis",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Haro Mercedario",
+        "first_name": "Pietro de Haro",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Lauro Mercedario",
+        "first_name": "Pietro de Lauro",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Oriona Mercedario",
+        "first_name": "Pietro de Oriona",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Pazzis Mercedario",
+        "first_name": "Pietro de Pazzis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Solanes Mercedario",
+        "first_name": "Pietro de Solanes",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro de Tornamira e Guglielmo Tandi Mercedari",
+        "first_name": "Pietro de Tornamira e Guglielmo Tandi",
+        "role": "Mercedari",
+        "dates": [
+            {
+                "month": 5,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Delepine, Giovanni Menard e ventiquattro compagne Martiri",
+        "first_name": "Pietro Delepine, Giovanni Menard e ventiquattro compagne",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro dell\u2019Assunzione e Giovanni Battista Machado Martiri",
+        "first_name": "Pietro dell\u2019Assunzione e Giovanni Battista Machado",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 5,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro detto Compadre Francescano",
+        "first_name": "Pietro detto Compadre",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 6,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro di Alcobaca Monaco",
+        "first_name": "Pietro di Alcobaca",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 5,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Anagni Vescovo",
+        "first_name": "Pietro di Anagni",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Arbues (Pedro Arbu\u00e8s) Martire",
+        "first_name": "Pietro di Arbues (Pedro Arbu\u00e8s)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Argo Vescovo",
+        "first_name": "Pietro di Argo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Asti Contadino",
+        "first_name": "Pietro di Asti",
+        "role": "Contadino",
+        "dates": [
+            {
+                "month": 6,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro di Avrances Monaco",
+        "first_name": "Pietro di Avrances",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 12,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Capitolias Martire",
+        "first_name": "Pietro di Capitolias",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro di Castelnau Sacerdote cistercense, martire",
+        "first_name": "Pietro di Castelnau",
+        "role": "Sacerdote cistercense, martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Chavanon Sacerdote",
+        "first_name": "Pietro di Chavanon",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 9,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro di Lussemburgo Vescovo di Metz",
+        "first_name": "Pietro di Lussemburgo",
+        "role": "Vescovo di Metz",
+        "dates": [
+            {
+                "month": 7,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Osma Vescovo",
+        "first_name": "Pietro di Osma",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Poitiers Vescovo",
+        "first_name": "Pietro di Poitiers",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di San Dionigi Sacerdote mercedario, martire",
+        "first_name": "Pietro di San Dionigi",
+        "role": "Sacerdote mercedario, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro di San Giacomo Merceario",
+        "first_name": "Pietro di San Giacomo",
+        "role": "Merceario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di San Giuseppe di Betancur Terziario francescano, fondatore",
+        "first_name": "Pietro di San Giuseppe di Betancur",
+        "role": "Terziario francescano, fondatore",
+        "dates": [
+            {
+                "month": 4,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro di Santa Maria e Simone de Lara Martiri mercedari",
+        "first_name": "Pietro di Santa Maria e Simone de Lara",
+        "role": "Martiri mercedari",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Siviglia Martire",
+        "first_name": "Pietro di Siviglia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro di Spagna Martire mercedario",
+        "first_name": "Pietro di Spagna",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Trevi Eremita",
+        "first_name": "Pietro di Trevi",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Diacono (Levita)",
+        "first_name": "Pietro Diacono (Levita)",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Doan Cong Quy e Emanuele Phung Martiri",
+        "first_name": "Pietro Doan Cong Quy e Emanuele Phung",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Doan Van Van Martire",
+        "first_name": "Pietro Doan Van Van",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Donders Redentorista",
+        "first_name": "Pietro Donders",
+        "role": "Redentorista",
+        "dates": [
+            {
+                "month": 1,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Dong Martire",
+        "first_name": "Pietro Dong",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Dumoulin-Borie, Pietro Vo Dang Khoa e Vincenzo Nguyen The Diem Sacerdoti e martiri",
+        "first_name": "Pietro Dumoulin-Borie, Pietro Vo Dang Khoa e Vincenzo Nguyen The Diem",
+        "role": "Sacerdoti e martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Dung, Pietro Thuan e Vincenzo Duong Martiri",
+        "first_name": "Pietro Dung, Pietro Thuan e Vincenzo Duong",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro d\u2019Alessandria, Esichio, Pacomio e Teodoro e compagni Martiri",
+        "first_name": "Pietro d\u2019Alessandria, Esichio, Pacomio e Teodoro e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro e Paolo Apostoli",
+        "first_name": "Pietro e Paolo",
+        "role": "Apostoli",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro ed Ermogene Martiri",
+        "first_name": "Pietro ed Ermogene",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Edoardo (Piotr Edward) Dankowski Sacerdote e martire",
+        "first_name": "Pietro Edoardo (Piotr Edward) Dankowski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Ernandez Mercedario, martire",
+        "first_name": "Pietro Ernandez",
+        "role": "Mercedario, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Esqueda Ramirez Sacerdote e martire",
+        "first_name": "Pietro Esqueda Ramirez",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Favre Sacerdote gesuita",
+        "first_name": "Pietro Favre",
+        "role": "Sacerdote gesuita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Formica Mercedario",
+        "first_name": "Pietro Formica",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Fourier Sacerdote",
+        "first_name": "Pietro Fourier",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 12,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Francesco Neron Sacerdote e martire",
+        "first_name": "Pietro Francesco Neron",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Fremond e 5 compagne Martiri",
+        "first_name": "Pietro Fremond e 5 compagne",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Friedhofen Religioso e fondatore",
+        "first_name": "Pietro Friedhofen",
+        "role": "Religioso e fondatore",
+        "dates": [
+            {
+                "month": 12,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Gabilhaud Martire",
+        "first_name": "Pietro Gabilhaud",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Gabrielli Monaco",
+        "first_name": "Pietro Gabrielli",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 7,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Gambacorta",
+        "first_name": "Pietro Gambacorta",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Geremia Sacerdote domenicano",
+        "first_name": "Pietro Geremia",
+        "role": "Sacerdote domenicano",
+        "dates": [
+            {
+                "month": 3,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Giacomo da Pesaro Sacerdote Agostiniano",
+        "first_name": "Pietro Giacomo da Pesaro",
+        "role": "Sacerdote Agostiniano",
+        "dates": [
+            {
+                "month": 6,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Giacomo Maria Vitalis e 20 compagni Martiri della Rivoluzione francese",
+        "first_name": "Pietro Giacomo Maria Vitalis e 20 compagni",
+        "role": "Martiri della Rivoluzione francese",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Giovanni Garrigues Martire",
+        "first_name": "Pietro Giovanni Garrigues",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Giuliano Eymard Sacerdote",
+        "first_name": "Pietro Giuliano Eymard",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Gonzales (detto S. Telmo) Domenicano",
+        "first_name": "Pietro Gonzales (detto S. Telmo)",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 4,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Higgins Sacerdote domenicano, martire",
+        "first_name": "Pietro Higgins",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro I Zar dei Bulgari",
+        "first_name": "Pietro I",
+        "role": "Zar dei Bulgari",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro I (Pappacarbone) Abate di Cava",
+        "first_name": "Pietro I (Pappacarbone)",
+        "role": "Abate di Cava",
+        "dates": [
+            {
+                "month": 3,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro I di Sebaste Vescovo",
+        "first_name": "Pietro I di Sebaste",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro I di Tarantasia Vescovo",
+        "first_name": "Pietro I di Tarantasia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro I di Vercelli Vescovo e martire",
+        "first_name": "Pietro I di Vercelli",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Igneo Monaco",
+        "first_name": "Pietro Igneo",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 2,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro II Abate di Cava",
+        "first_name": "Pietro II",
+        "role": "Abate di Cava",
+        "dates": [
+            {
+                "month": 3,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro II di Tarantasia Vescovo",
+        "first_name": "Pietro II di Tarantasia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro il Venerabile Abate di Cluny",
+        "first_name": "Pietro il Venerabile",
+        "role": "Abate di Cluny",
+        "dates": [
+            {
+                "month": 12,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro in Vincoli I sec.",
+        "first_name": "Pietro in Vincoli",
+        "role": "I sec.",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Jarrige de la Mor\u00e9lie de Puyredon Martire",
+        "first_name": "Pietro Jarrige de la Mor\u00e9lie de Puyredon",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Jeong San-pil Catechista e martire .",
+        "first_name": "Pietro Jeong San-pil",
+        "role": "Catechista e martire",
+        "dates": []
+    },
+    {
+        "full_name": "Beati Pietro Jo Suk e Teresa Kwon Cheon-rye Sposi e martiri",
+        "first_name": "Pietro Jo Suk e Teresa Kwon Cheon-rye",
+        "role": "Sposi e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Khanh Martire",
+        "first_name": "Pietro Khanh",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Kibe Kasui Sacerdote gesuita, martire",
+        "first_name": "Pietro Kibe Kasui",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro l'Athonita Senza data",
+        "first_name": "Pietro l'Athonita",
+        "role": "Senza data",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Pietro Landry Sacerdote e martire",
+        "first_name": "Pietro Landry",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Largo Redondo, Felice Ugalde Irurzun e Benedetto Solano Ruiz Religiosi passionisti, martiri",
+        "first_name": "Pietro Largo Redondo, Felice Ugalde Irurzun e Benedetto Solano Ruiz",
+        "role": "Religiosi passionisti, martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Le Tuy Martire",
+        "first_name": "Pietro Le Tuy",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Liu Wenyuan Catechista e martire",
+        "first_name": "Pietro Liu Wenyuan",
+        "role": "Catechista e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Liu Ziyu Martire",
+        "first_name": "Pietro Liu Ziyu",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro l\u2019Eremita Benedettino",
+        "first_name": "Pietro l\u2019Eremita",
+        "role": "Benedettino",
+        "dates": [
+            {
+                "month": 7,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Malasanch Martire mercedario",
+        "first_name": "Pietro Malasanch",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 5,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Maubant Sacerdote e martire",
+        "first_name": "Pietro Maubant",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Michele No\u00ebl Martire",
+        "first_name": "Pietro Michele No\u00ebl",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Nguyen Ba Tuan Martire",
+        "first_name": "Pietro Nguyen Ba Tuan",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Nguyen Van Luu Sacerdote e martire",
+        "first_name": "Pietro Nguyen Van Luu",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Nguyen Van Tu e Giuseppe Ho\u00e0ng Luong Canh Martiri",
+        "first_name": "Pietro Nguyen Van Tu e Giuseppe Ho\u00e0ng Luong Canh",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Nolasco Fondatore dei Mercedari",
+        "first_name": "Pietro Nolasco",
+        "role": "Fondatore dei Mercedari",
+        "dates": [
+            {
+                "month": 5,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Nolasco Mercedario",
+        "first_name": "Pietro Nolasco",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 11,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Nolasco Perra Sacerdote mercedario",
+        "first_name": "Pietro Nolasco Perra",
+        "role": "Sacerdote mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Orseolo (Urseolo) Monaco",
+        "first_name": "Pietro Orseolo (Urseolo)",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 1,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Paolo Navarro, Dionigi Fujishima, Pietro Onizuka Sandayu e Clemente Kyuemon Martiri",
+        "first_name": "Pietro Paolo Navarro, Dionigi Fujishima, Pietro Onizuka Sandayu e Clemente Kyuemon",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Parenzo Podest\u00e0 e martire",
+        "first_name": "Pietro Parenzo",
+        "role": "Podest\u00e0 e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Pascasio (Pedro Pascual) Vescovo mercedario, martire",
+        "first_name": "Pietro Pascasio (Pedro Pascual)",
+        "role": "Vescovo mercedario, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Pasquale Mercedario",
+        "first_name": "Pietro Pasquale",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Petroni Certosino",
+        "first_name": "Pietro Petroni",
+        "role": "Certosino",
+        "dates": [
+            {
+                "month": 5,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Ploquin Scerdote e martire",
+        "first_name": "Pietro Ploquin",
+        "role": "Scerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Poveda Castroverde Sacerdote, fondatore, martire",
+        "first_name": "Pietro Poveda Castroverde",
+        "role": "Sacerdote, fondatore, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Regalado da Valladolid Francescano",
+        "first_name": "Pietro Regalado da Valladolid",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 3,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Rivera Rivera Sacerdote e martire",
+        "first_name": "Pietro Rivera Rivera",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Romero e Ferdinando de Incapi\u00e9 Mercedari",
+        "first_name": "Pietro Romero e Ferdinando de Incapi\u00e9",
+        "role": "Mercedari",
+        "dates": [
+            {
+                "month": 8,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Ruiz de los Pa\u00f1os y \u00c1ngel Sacerdote e martire",
+        "first_name": "Pietro Ruiz de los Pa\u00f1os y \u00c1ngel",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Saint-James Sacerdote e martire",
+        "first_name": "Pietro Saint-James",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Sanchez Mercedario",
+        "first_name": "Pietro Sanchez",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Sans i Jord\u00e1 Vescovo domenicano, martire",
+        "first_name": "Pietro Sans i Jord\u00e1",
+        "role": "Vescovo domenicano, martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Pietro Snow e Rodolfo Grimston Martiri",
+        "first_name": "Pietro Snow e Rodolfo Grimston",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Span\u00f2 (Spina) Eremita",
+        "first_name": "Pietro Span\u00f2 (Spina)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 6,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Sulpizio Cristoforo Faverge Religioso e martire",
+        "first_name": "Pietro Sulpizio Cristoforo Faverge",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro To Rot Martire della Papuasia",
+        "first_name": "Pietro To Rot",
+        "role": "Martire della Papuasia",
+        "dates": [
+            {
+                "month": 7,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Truong Van Thi Sacerdote e martire",
+        "first_name": "Pietro Truong Van Thi",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Vazquez Martire",
+        "first_name": "Pietro Vazquez",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Wang Zuolong Martire",
+        "first_name": "Pietro Wang Zuolong",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Wong Si-jang Martire",
+        "first_name": "Pietro Wong Si-jang",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Wright Martire",
+        "first_name": "Pietro Wright",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Wu Guosheng Martire",
+        "first_name": "Pietro Wu Guosheng",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Yi Ho-yong Martire",
+        "first_name": "Pietro Yi Ho-yong",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Yu Chong-nyul Martire",
+        "first_name": "Pietro Yu Chong-nyul",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Yu Tae-ch\u2019ol Adolescente, martire",
+        "first_name": "Pietro Yu Tae-ch\u2019ol",
+        "role": "Adolescente, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro Zhao Mingzhen e Giovan Battista Zhao Mingxi Martiri",
+        "first_name": "Pietro Zhao Mingzhen e Giovan Battista Zhao Mingxi",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Zhou Rixin Martire",
+        "first_name": "Pietro Zhou Rixin",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro, Andrea, Paolo e Dionisia Martiri",
+        "first_name": "Pietro, Andrea, Paolo e Dionisia",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 5,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro, detto Apselamo o Balsamo Martire",
+        "first_name": "Pietro, detto Apselamo o Balsamo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro, Successo, Bassiano, Primitivo e compagni Martiri in Africa",
+        "first_name": "Pietro, Successo, Bassiano, Primitivo e compagni",
+        "role": "Martiri in Africa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Pietro, Valabonso, Sabiniano, Vistremondo, Abenzio e Geremia Martiri a Cordova",
+        "first_name": "Pietro, Valabonso, Sabiniano, Vistremondo, Abenzio e Geremia",
+        "role": "Martiri a Cordova",
+        "dates": [
+            {
+                "month": 6,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Pimenio di Roma Martire",
+        "first_name": "Pimenio di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Pina Suriano",
+        "first_name": "Pina Suriano",
+        "role": null,
+        "dates": [
+            {
+                "month": 5,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Pinito di Cnosso Vescovo",
+        "first_name": "Pinito di Cnosso",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pio (Ludwik) Bartosik Sacerdote dei Frati Minori Conventuali, martire",
+        "first_name": "Pio (Ludwik) Bartosik",
+        "role": "Sacerdote dei Frati Minori Conventuali, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pio Alberto Del Corona Domenicano .",
+        "first_name": "Pio Alberto Del Corona",
+        "role": "Domenicano",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Pio Conde Conde Sacerdote salesiano, martire",
+        "first_name": "Pio Conde Conde",
+        "role": "Sacerdote salesiano, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio da Pietrelcina (Francesco Forgione) Sacerdote cappuccino",
+        "first_name": "Pio da Pietrelcina (Francesco Forgione)",
+        "role": "Sacerdote cappuccino",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pio di San Luigi (Luigi Campidelli) Religioso passionista",
+        "first_name": "Pio di San Luigi (Luigi Campidelli)",
+        "role": "Religioso passionista",
+        "dates": [
+            {
+                "month": 11,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio I Papa e martire",
+        "first_name": "Pio I",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pio IX (Giovanni Maria Mastai Ferretti) Papa",
+        "first_name": "Pio IX (Giovanni Maria Mastai Ferretti)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato P\u00edo Navarro Moreno Sacerdote e martire",
+        "first_name": "P\u00edo Navarro Moreno",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio V (Antonio Ghislieri) Papa",
+        "first_name": "Pio V (Antonio Ghislieri)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio X (Giuseppe Sarto) Papa",
+        "first_name": "Pio X (Giuseppe Sarto)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pionio (o Pione) di Smirne Martire",
+        "first_name": "Pionio (o Pione) di Smirne",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Pipino il Vecchio (o di Landen)",
+        "first_name": "Pipino il Vecchio (o di Landen)",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pirmino Abate",
+        "first_name": "Pirmino",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Placida Viel Vergine",
+        "first_name": "Placida Viel",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 3,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Placido Monaco",
+        "first_name": "Placido",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 10,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Placido di Autun Abate",
+        "first_name": "Placido di Autun",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 5,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Placido di Ocre Abate",
+        "first_name": "Placido di Ocre",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 6,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Placido Garcia Gilabert Sacerdote e martire",
+        "first_name": "Placido Garcia Gilabert",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Placido Riccardi Benedettino",
+        "first_name": "Placido Riccardi",
+        "role": "Benedettino",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Placilla (\u00c6lia Flaccilla) Imperatrice",
+        "first_name": "Placilla (\u00c6lia Flaccilla)",
+        "role": "Imperatrice",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Platone Abate in Bitinia",
+        "first_name": "Platone",
+        "role": "Abate in Bitinia",
+        "dates": [
+            {
+                "month": 4,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Platone di Ancira Martire",
+        "first_name": "Platone di Ancira",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Platonide",
+        "first_name": "Platonide",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Plechelmo Vescovo missionario",
+        "first_name": "Plechelmo",
+        "role": "Vescovo missionario",
+        "dates": [
+            {
+                "month": 7,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Plettrude VII-VIII secolo",
+        "first_name": "Plettrude",
+        "role": "VII-VIII secolo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Poemen Abate",
+        "first_name": "Poemen",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Policarpo Vescovo e martire",
+        "first_name": "Policarpo",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Polidoro Plasden ed Eustazio White Sacerdoti e martiri",
+        "first_name": "Polidoro Plasden ed Eustazio White",
+        "role": "Sacerdoti e martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Polieuto Martire",
+        "first_name": "Polieuto",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Polieuto (Polieutto) Martire",
+        "first_name": "Polieuto (Polieutto)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pollione di Cibali Martire",
+        "first_name": "Pollione di Cibali",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Pompeo di Pavia Vescovo",
+        "first_name": "Pompeo di Pavia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Pompilio Maria Pirrotti Padre Scolopio",
+        "first_name": "Pompilio Maria Pirrotti",
+        "role": "Padre Scolopio",
+        "dates": [
+            {
+                "month": 7,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Pomponio di Napoli Vescovo",
+        "first_name": "Pomponio di Napoli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Pomposa di Cordova Martire",
+        "first_name": "Pomposa di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponziano Papa e martire",
+        "first_name": "Ponziano",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponziano di Spoleto Martire",
+        "first_name": "Ponziano di Spoleto",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponziano Ngondwe Martire",
+        "first_name": "Ponziano Ngondwe",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ponzio de Barellis Mercedario",
+        "first_name": "Ponzio de Barellis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 5,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ponzio de Barellis Mercedario",
+        "first_name": "Ponzio de Barellis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ponzio de Clariana Mercedario",
+        "first_name": "Ponzio de Clariana",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponzio di Cartagine Diacono",
+        "first_name": "Ponzio di Cartagine",
+        "role": "Diacono",
+        "dates": [
+            {
+                "month": 3,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponzio di Cimiez Martire",
+        "first_name": "Ponzio di Cimiez",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponzio di Condat Monaco",
+        "first_name": "Ponzio di Condat",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 5,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ponzio di Faucigny Abate",
+        "first_name": "Ponzio di Faucigny",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ponzio di Polignac Vescovo di Clermont",
+        "first_name": "Ponzio di Polignac",
+        "role": "Vescovo di Clermont",
+        "dates": [
+            {
+                "month": 3,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Ponzio di Pradleves Martire tebeo",
+        "first_name": "Ponzio di Pradleves",
+        "role": "Martire tebeo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Poppone Abate",
+        "first_name": "Poppone",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Porcario abate e compagni Monaci martiri a L\u00e9rins",
+        "first_name": "Porcario abate e compagni",
+        "role": "Monaci martiri a L\u00e9rins",
+        "dates": [
+            {
+                "month": 8,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Porfirio di Gaza Vescovo",
+        "first_name": "Porfirio di Gaza",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Porziano Abate in Alvernia",
+        "first_name": "Porziano",
+        "role": "Abate in Alvernia",
+        "dates": [
+            {
+                "month": 11,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Possessore di Verdun Vescovo",
+        "first_name": "Possessore di Verdun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Possidio",
+        "first_name": "Possidio",
+        "role": null,
+        "dates": [
+            {
+                "month": 5,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Possidonio (Possidio) Venerato a Mirandola",
+        "first_name": "Possidonio (Possidio)",
+        "role": "Venerato a Mirandola",
+        "dates": [
+            {
+                "month": 5,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Potamiena d\u2019Alessandria",
+        "first_name": "Potamiena d\u2019Alessandria",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Potamione (Potamio) di Agrigento Vescovo",
+        "first_name": "Potamione (Potamio) di Agrigento",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Potamone Vescovo di Eracleopoli",
+        "first_name": "Potamone",
+        "role": "Vescovo di Eracleopoli",
+        "dates": [
+            {
+                "month": 5,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Potino, Blandina e compagni Martiri di Lione",
+        "first_name": "Potino, Blandina e compagni",
+        "role": "Martiri di Lione",
+        "dates": [
+            {
+                "month": 6,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Potito Adolescente martire",
+        "first_name": "Potito",
+        "role": "Adolescente martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Prammazio (Pragmazio) di Autun Vescovo",
+        "first_name": "Prammazio (Pragmazio) di Autun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Prassede di Roma Vergine e martire",
+        "first_name": "Prassede di Roma",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Preietto (Proietto) ed Amarino Martiri",
+        "first_name": "Preietto (Proietto) ed Amarino",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Il santo Presepio .",
+        "first_name": "Presepio",
+        "role": ".",
+        "dates": []
+    },
+    {
+        "full_name": "Beata Pribyslava Sorella di San Venceslao",
+        "first_name": "Pribyslava",
+        "role": "Sorella di San Venceslao",
+        "dates": [
+            {
+                "month": 12,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Primiano Martire di Larino",
+        "first_name": "Primiano",
+        "role": "Martire di Larino",
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Primiano di Ancona Vescovo e martire",
+        "first_name": "Primiano di Ancona",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Primitivo Martire",
+        "first_name": "Primitivo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Primo Martire Seconda domenica di agosto",
+        "first_name": "Primo",
+        "role": "Martire",
+        "dates": []
+    },
+    {
+        "full_name": "Santi Primo e Donato Martiri",
+        "first_name": "Primo e Donato",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Primo e Feliciano Martiri",
+        "first_name": "Primo e Feliciano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Principio di Soissons Vescovo",
+        "first_name": "Principio di Soissons",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Prisca Martire",
+        "first_name": "Prisca",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Prisca Vergine e martire, venerata a San Sperate",
+        "first_name": "Prisca",
+        "role": "Vergine e martire, venerata a San Sperate",
+        "dates": [
+            {
+                "month": 5,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Priscilla di Roma Matrona",
+        "first_name": "Priscilla di Roma",
+        "role": "Matrona",
+        "dates": [
+            {
+                "month": 1,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Prisco Martire",
+        "first_name": "Prisco",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Prisco Eremita Senza data",
+        "first_name": "Prisco",
+        "role": "Eremita",
+        "dates": []
+    },
+    {
+        "full_name": "San Prisco di Capua Vescovo",
+        "first_name": "Prisco di Capua",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Prisco di Nocera Vescovo",
+        "first_name": "Prisco di Nocera",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Prisco, Malco e Alessandro Martiri",
+        "first_name": "Prisco, Malco e Alessandro",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Privato di Mende Vescovo e martire",
+        "first_name": "Privato di Mende",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Probino di Como Vescovo",
+        "first_name": "Probino di Como",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Probo di Ravenna Vescovo",
+        "first_name": "Probo di Ravenna",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Probo di Rieti Vescovo",
+        "first_name": "Probo di Rieti",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Probo e Grazia .",
+        "first_name": "Probo e Grazia",
+        "role": ".",
+        "dates": []
+    },
+    {
+        "full_name": "Santi Processo e Martiniano Martiri",
+        "first_name": "Processo e Martiniano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Proclo (Prodo) di Bisignano",
+        "first_name": "Proclo (Prodo) di Bisignano",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Proclo di Costantinopoli Vescovo",
+        "first_name": "Proclo di Costantinopoli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Proclo ed Ilarione Martiri",
+        "first_name": "Proclo ed Ilarione",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Procolo Martire",
+        "first_name": "Procolo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Procolo, Eutiche e Acuzio Martiri di Pozzuoli",
+        "first_name": "Procolo, Eutiche e Acuzio",
+        "role": "Martiri di Pozzuoli",
+        "dates": [
+            {
+                "month": 10,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Procopio di Cesarea di Palestina Martire",
+        "first_name": "Procopio di Cesarea di Palestina",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Procopio di Sazava Abate",
+        "first_name": "Procopio di Sazava",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Procoro, Nicanore, Timone, Parmenas e Nicola Diaconi",
+        "first_name": "Procoro, Nicanore, Timone, Parmenas e Nicola",
+        "role": "Diaconi",
+        "dates": [
+            {
+                "month": 7,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Proietto Diacono e martire",
+        "first_name": "Proietto",
+        "role": "Diacono e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Prosdocimo di Padova Protovescovo",
+        "first_name": "Prosdocimo di Padova",
+        "role": "Protovescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Prosdocimo di Rieti",
+        "first_name": "Prosdocimo di Rieti",
+        "role": null,
+        "dates": [
+            {
+                "month": 11,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Prospero d'Aquitania Monaco e teologo",
+        "first_name": "Prospero d'Aquitania",
+        "role": "Monaco e teologo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Prospero di Como Vescovo",
+        "first_name": "Prospero di Como",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Prospero di Orleans Vescovo",
+        "first_name": "Prospero di Orleans",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Prospero di Reggio Emilia Vescovo",
+        "first_name": "Prospero di Reggio Emilia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Prospero di Tarragona Vescovo venerato a Camogli",
+        "first_name": "Prospero di Tarragona",
+        "role": "Vescovo venerato a Camogli",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Protadio di Besancon Vescovo",
+        "first_name": "Protadio di Besancon",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Protasio Vescovo di Milano",
+        "first_name": "Protasio",
+        "role": "Vescovo di Milano",
+        "dates": [
+            {
+                "month": 11,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Protasio (Antonio) Cubells Minguell Religioso e martire",
+        "first_name": "Protasio (Antonio) Cubells Minguell",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Protasio Chong Kuk-bo Martire",
+        "first_name": "Protasio Chong Kuk-bo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Protasio di Losanna Vescovo",
+        "first_name": "Protasio di Losanna",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Proterio Patriarca di Alessandria",
+        "first_name": "Proterio",
+        "role": "Patriarca di Alessandria",
+        "dates": [
+            {
+                "month": 3,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Proto di Aquileia Martire",
+        "first_name": "Proto di Aquileia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Proto e Giacinto Martiri di Roma",
+        "first_name": "Proto e Giacinto",
+        "role": "Martiri di Roma",
+        "dates": [
+            {
+                "month": 9,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Protogene di Harran Vescovo",
+        "first_name": "Protogene di Harran",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Prudenza Canyelles Ginesta Martire",
+        "first_name": "Prudenza Canyelles Ginesta",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Prudenzio della Croce (Prudencio Guer\u00e9quiz y Guezuraga) e Secondo di Santa Teresa (Segundo Garc\u00eda y Sacerdoti trinitari, martiri",
+        "first_name": "Prudenzio della Croce (Prudencio Guer\u00e9quiz y Guezuraga) e Secondo di Santa Teresa (Segundo Garc\u00eda y",
+        "role": "Sacerdoti trinitari, martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "San Prudenzio di Atina Vescovo e martire",
+        "first_name": "Prudenzio di Atina",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Prudenzio di Tarazona Vescovo",
+        "first_name": "Prudenzio di Tarazona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Prudenzio di Troyes Vescovo",
+        "first_name": "Prudenzio di Troyes",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Publia di Antiochia",
+        "first_name": "Publia di Antiochia",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Publio di Atene Vescovo",
+        "first_name": "Publio di Atene",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Publio Rodr\u00edguez Moslares Religioso e martire",
+        "first_name": "Publio Rodr\u00edguez Moslares",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Pudenziana di Roma Vergine e martire",
+        "first_name": "Pudenziana di Roma",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Pulcheria Imperatrice",
+        "first_name": "Pulcheria",
+        "role": "Imperatrice",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beate Purificazione di San Giuseppe Ximenez Ximenez e Maria Giuseppa di Santa Sofia Del Rio Messa Vergini e martiri",
+        "first_name": "Purificazione di San Giuseppe Ximenez Ximenez e Maria Giuseppa di Santa Sofia Del Rio Messa",
+        "role": "Vergini e martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Pusicio Martire",
+        "first_name": "Pusicio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 18
+            }
+        ]
+    }
+]

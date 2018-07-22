@@ -1,0 +1,57 @@
+[
+    {
+        "full_name": "Santa Lucia Yi Zhenmei Catechista cinese, martire",
+        "first_name": "Lucia Yi Zhenmei",
+        "role": "Catechista cinese, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Vincenzo Do Yen Sacerdote domenicano, martire",
+        "first_name": "Vincenzo Do Yen",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Yoshida Xoum (Giovanni) Laico giapponese, martire",
+        "first_name": "Yoshida Xoum (Giovanni)",
+        "role": "Laico giapponese, martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Yves (Ivo) H\u00e9lory de Kermartin Sacerdote in Bretagna",
+        "first_name": "Yves (Ivo) H\u00e9lory de Kermartin",
+        "role": "Sacerdote in Bretagna",
+        "dates": [
+            {
+                "month": 5,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ywi Monaco in Britannia",
+        "first_name": "Ywi",
+        "role": "Monaco in Britannia",
+        "dates": [
+            {
+                "month": 10,
+                "day": 6
+            }
+        ]
+    }
+]

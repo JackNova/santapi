@@ -1,0 +1,145 @@
+[
+    {
+        "full_name": "San Walhero (Walh\u00e8re) Martire",
+        "first_name": "Walhero (Walh\u00e8re)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Walter (Gualtiero, Gualterio) di S. Martino di Pontoise Abate",
+        "first_name": "Walter (Gualtiero, Gualterio) di S. Martino di Pontoise",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Wando (Vandone) Abate",
+        "first_name": "Wando (Vandone)",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Wilbirg (Vilburga) Reclusa di S. Florian",
+        "first_name": "Wilbirg (Vilburga)",
+        "role": "Reclusa di S. Florian",
+        "dates": [
+            {
+                "month": 12,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Wilfrido (Walfredo) della Gherardesca Abate fondatore di Palazzolo",
+        "first_name": "Wilfrido (Walfredo) della Gherardesca",
+        "role": "Abate fondatore di Palazzolo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Wincenty Stefan Frelichowski Sacerdote, martire",
+        "first_name": "Wincenty Stefan Frelichowski",
+        "role": "Sacerdote, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Wirone (Wiro) Vescovo missionario",
+        "first_name": "Wirone (Wiro)",
+        "role": "Vescovo missionario",
+        "dates": [
+            {
+                "month": 5,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Witesindo di Cordova Martire",
+        "first_name": "Witesindo di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Witta (o Vitta o Albino) Vescovo",
+        "first_name": "Witta (o Vitta o Albino)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Wivine (Vivina) Badessa benedettina",
+        "first_name": "Wivine (Vivina)",
+        "role": "Badessa benedettina",
+        "dates": [
+            {
+                "month": 12,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Wolbodo di Liegi Vescovo",
+        "first_name": "Wolbodo di Liegi",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Wolfango da Steinkirchen Martire",
+        "first_name": "Wolfango da Steinkirchen",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Wunibald di Heidenheim (Vunibaldo) Abate",
+        "first_name": "Wunibald di Heidenheim (Vunibaldo)",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 18
+            }
+        ]
+    }
+]

@@ -1,0 +1,4438 @@
+[
+    {
+        "full_name": "Santa Sara Moglie di Abramo",
+        "first_name": "Sara",
+        "role": "Moglie di Abramo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Scolastica Vergine",
+        "first_name": "Scolastica",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 2,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebastiano Martire",
+        "first_name": "Sebastiano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sette Fondatori dell'Ordine dei Servi della Beata Vergine Maria",
+        "first_name": "Sette Fondatori dell'Ordine dei Servi della Beata Vergine Maria",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvestro I Papa",
+        "first_name": "Silvestro I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone Apostolo",
+        "first_name": "Simone",
+        "role": "Apostolo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simone e Giuda Apostoli",
+        "first_name": "Simone e Giuda",
+        "role": "Apostoli",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisto II e compagni Papa e martiri",
+        "first_name": "Sisto II e compagni",
+        "role": "Papa e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stanislao Vescovo e martire",
+        "first_name": "Stanislao",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Primo martire",
+        "first_name": "Stefano",
+        "role": "Primo martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Ungheria Re",
+        "first_name": "Stefano di Ungheria",
+        "role": "Re",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Saba Archimandrita Abate",
+        "first_name": "Saba Archimandrita",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Saba il Giovane Monaco",
+        "first_name": "Saba il Giovane",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 2,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Saba il Goto Martire",
+        "first_name": "Saba il Goto",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Saba Ji Hwang Martire",
+        "first_name": "Saba Ji Hwang",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabas Reyes Salazar Martire Messicano",
+        "first_name": "Sabas Reyes Salazar",
+        "role": "Martire Messicano",
+        "dates": [
+            {
+                "month": 4,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sabina Martire",
+        "first_name": "Sabina",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sabina di Jouarre Vergine",
+        "first_name": "Sabina di Jouarre",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sabina e sorelle Martiri nelle Fiandre",
+        "first_name": "Sabina e sorelle",
+        "role": "Martiri nelle Fiandre",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabiniano Martire",
+        "first_name": "Sabiniano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sabiniano e Potenziano Martiri",
+        "first_name": "Sabiniano e Potenziano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabino Eremita",
+        "first_name": "Sabino",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 10,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabino Martire in Egitto",
+        "first_name": "Sabino",
+        "role": "Martire in Egitto",
+        "dates": [
+            {
+                "month": 3,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabino di Avellino Vescovo",
+        "first_name": "Sabino di Avellino",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabino di Canosa Vescovo",
+        "first_name": "Sabino di Canosa",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Sabino di Spoleto Vescovo e martire",
+        "first_name": "Sabino di Spoleto",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sabino Hernandez Laso Sacerdote salesiano, martire",
+        "first_name": "Sabino Hernandez Laso",
+        "role": "Sacerdote salesiano, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sabrina (Savina, Sabina) Vergine di Troyes",
+        "first_name": "Sabrina (Savina, Sabina)",
+        "role": "Vergine di Troyes",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Sacerdote di Limoges Vescovo",
+        "first_name": "Sacerdote di Limoges",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Sacerdote di Lione Vescovo",
+        "first_name": "Sacerdote di Lione",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sadoc e 48 compagni Martiri domenicani",
+        "first_name": "Sadoc e 48 compagni",
+        "role": "Martiri domenicani",
+        "dates": [
+            {
+                "month": 6,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sadoth e centoventotto compagni Martiri",
+        "first_name": "Sadoth e centoventotto compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Sagaris (Sagaro, Sagara) Vescovo e martire",
+        "first_name": "Sagaris (Sagaro, Sagara)",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Salaberga Badessa",
+        "first_name": "Salaberga",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Salmodio (o Psalmodio) Eremita",
+        "first_name": "Salmodio (o Psalmodio)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 6,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Salom\u00e8 Madre degli apostoli Giacomo e Giovanni",
+        "first_name": "Salom\u00e8",
+        "role": "Madre degli apostoli Giacomo e Giovanni",
+        "dates": [
+            {
+                "month": 4,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Salome di Niederaltaich Reclusa",
+        "first_name": "Salome di Niederaltaich",
+        "role": "Reclusa",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Salomea da Cracovia Regina d\u2019Ungheria, badessa",
+        "first_name": "Salomea da Cracovia",
+        "role": "Regina d\u2019Ungheria, badessa",
+        "dates": [
+            {
+                "month": 11,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Salomone Re di Bretagna",
+        "first_name": "Salomone",
+        "role": "Re di Bretagna",
+        "dates": [
+            {
+                "month": 6,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Salomone (Guillaume-Nicolas-Louis) Leclerq Religioso e martire",
+        "first_name": "Salomone (Guillaume-Nicolas-Louis) Leclerq",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Salomone di Cordova Martire",
+        "first_name": "Salomone di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salomone d\u2019Ungheria Re .",
+        "first_name": "Salomone d\u2019Ungheria",
+        "role": "Re",
+        "dates": []
+    },
+    {
+        "full_name": "San Salonio di Ginevra Vescovo",
+        "first_name": "Salonio di Ginevra",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvatore (Salvador) Mollar Ventura Religioso e martire",
+        "first_name": "Salvatore (Salvador) Mollar Ventura",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvatore Damiano (Salvador Damian) Enguix Gar\u00e8s Martire",
+        "first_name": "Salvatore Damiano (Salvador Damian) Enguix Gar\u00e8s",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvatore Estrugo Solves Sacerdote e martire",
+        "first_name": "Salvatore Estrugo Solves",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvatore Fernandez Perez Sacerdote salesiano, martire",
+        "first_name": "Salvatore Fernandez Perez",
+        "role": "Sacerdote salesiano, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvatore Ferrandis Segu\u00ec Sacerdote e martire",
+        "first_name": "Salvatore Ferrandis Segu\u00ec",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Salvatore Grionesos da Horta Religioso dei Frati Minori",
+        "first_name": "Salvatore Grionesos da Horta",
+        "role": "Religioso dei Frati Minori",
+        "dates": [
+            {
+                "month": 3,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Salvatore Lara Puente Giovane laico, martire",
+        "first_name": "Salvatore Lara Puente",
+        "role": "Giovane laico, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Salvatore Lilli e 7 compagni laici armeni Martiri",
+        "first_name": "Salvatore Lilli e 7 compagni laici armeni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Salvio Martire in Africa",
+        "first_name": "Salvio",
+        "role": "Martire in Africa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Salvio di Albi Vescovo",
+        "first_name": "Salvio di Albi",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Salvio di Amiens Vescovo",
+        "first_name": "Salvio di Amiens",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Salvio e Superio Martiri",
+        "first_name": "Salvio e Superio",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvio Huix Miralpeix Vescovo e martire",
+        "first_name": "Salvio Huix Miralpeix",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Samuele Giudice e profeta d\u2019Israele",
+        "first_name": "Samuele",
+        "role": "Giudice e profeta d\u2019Israele",
+        "dates": [
+            {
+                "month": 8,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Samuele Marzorati e compagni Sacerdote e martire",
+        "first_name": "Samuele Marzorati e compagni",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sancia del Portogallo Principessa, vergine",
+        "first_name": "Sancia del Portogallo",
+        "role": "Principessa, vergine",
+        "dates": [
+            {
+                "month": 4,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sancia di Leon Sposa, religiosa",
+        "first_name": "Sancia di Leon",
+        "role": "Sposa, religiosa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sancia d\u2019Aragona Vergine mercedaria",
+        "first_name": "Sancia d\u2019Aragona",
+        "role": "Vergine mercedaria",
+        "dates": [
+            {
+                "month": 10,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sancia Szymkowiak",
+        "first_name": "Sancia Szymkowiak",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Sancio Martire di Cordova",
+        "first_name": "Sancio",
+        "role": "Martire di Cordova",
+        "dates": [
+            {
+                "month": 6,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sancio da Soria Mercedario",
+        "first_name": "Sancio da Soria",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sancio de Sant'Arago Mercedario",
+        "first_name": "Sancio de Sant'Arago",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 11,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sancio d\u2019Aragona Arcivescovo di Toledo, martire",
+        "first_name": "Sancio d\u2019Aragona",
+        "role": "Arcivescovo di Toledo, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Sandalio di Cordova Martire",
+        "first_name": "Sandalio di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Sansone Abate e vescovo di Dol",
+        "first_name": "Sansone",
+        "role": "Abate e vescovo di Dol",
+        "dates": [
+            {
+                "month": 7,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Sansone Sacerdote",
+        "first_name": "Sansone",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 6,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Sant Re di Ceredigion .",
+        "first_name": "Sant",
+        "role": "Re di Ceredigion",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Sante Brancorsini da Urbino Francescano",
+        "first_name": "Sante Brancorsini da Urbino",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sante da Cori Sacerdote, eremita agostiniano",
+        "first_name": "Sante da Cori",
+        "role": "Sacerdote, eremita agostiniano",
+        "dates": [
+            {
+                "month": 10,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Santiago Mesa Leyva Sacerdote e martire",
+        "first_name": "Santiago Mesa Leyva",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Santino di Verdun Vescovo",
+        "first_name": "Santino di Verdun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Santos Alvaro Cejudo Padre di famiglia, martire",
+        "first_name": "Santos Alvaro Cejudo",
+        "role": "Padre di famiglia, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Sapiente di Condat Abate .",
+        "first_name": "Sapiente di Condat",
+        "role": "Abate",
+        "dates": []
+    },
+    {
+        "full_name": "Santa Sara Moglie di Abramo",
+        "first_name": "Sara",
+        "role": "Moglie di Abramo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sara di Antiochia Martire",
+        "first_name": "Sara di Antiochia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sara Salkahazi Vergine e martire",
+        "first_name": "Sara Salkahazi",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sarbelio e Bebaia Martire",
+        "first_name": "Sarbelio e Bebaia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Sarmatas Martire in Egitto",
+        "first_name": "Sarmatas",
+        "role": "Martire in Egitto",
+        "dates": [
+            {
+                "month": 10,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Satiro Fratello dei Ss. Ambrogio e Marcellina",
+        "first_name": "Satiro",
+        "role": "Fratello dei Ss. Ambrogio e Marcellina",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Saturnino di Cagliari",
+        "first_name": "Saturnino di Cagliari",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Saturnino di Cartagine Martire",
+        "first_name": "Saturnino di Cartagine",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Saturnino di Tolosa Vescovo e martire",
+        "first_name": "Saturnino di Tolosa",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Saturnino di Verona Vescovo",
+        "first_name": "Saturnino di Verona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Saturo, Saturnino, Revocato e Secondino Martiri",
+        "first_name": "Saturo, Saturnino, Revocato e Secondino",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Saverio (Javier) Bordas Piferer Sacerdote salesiano e martire",
+        "first_name": "Saverio (Javier) Bordas Piferer",
+        "role": "Sacerdote salesiano e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Savina Matrona",
+        "first_name": "Savina",
+        "role": "Matrona",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Savina Petrilli",
+        "first_name": "Savina Petrilli",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Savino Venerato ad Antigny",
+        "first_name": "Savino",
+        "role": "Venerato ad Antigny",
+        "dates": [
+            {
+                "month": 7,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Savino (Sabino) di Piacenza Vescovo",
+        "first_name": "Savino (Sabino) di Piacenza",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Savino di Assisi Vescovo",
+        "first_name": "Savino di Assisi",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Sawyl Bennuchel .",
+        "first_name": "Sawyl Bennuchel",
+        "role": ".",
+        "dates": []
+    },
+    {
+        "full_name": "San Sawyl Bennuchel .",
+        "first_name": "Sawyl Bennuchel",
+        "role": ".",
+        "dates": []
+    },
+    {
+        "full_name": "San Sawyl Felyn Re di Dyfed",
+        "first_name": "Sawyl Felyn",
+        "role": "Re di Dyfed",
+        "dates": [
+            {
+                "month": 1,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sciath Vergine irlandese",
+        "first_name": "Sciath",
+        "role": "Vergine irlandese",
+        "dates": [
+            {
+                "month": 9,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Scipione Gerolamo Brigeat de Lambert Martire",
+        "first_name": "Scipione Gerolamo Brigeat de Lambert",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Scolastica Vergine",
+        "first_name": "Scolastica",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 2,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebaldo (Sinibaldo) Eremita",
+        "first_name": "Sebaldo (Sinibaldo)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebaldo di Treviri Vescovo",
+        "first_name": "Sebaldo di Treviri",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebasti\u00e1n Llorens Telarroja Martire",
+        "first_name": "Sebasti\u00e1n Llorens Telarroja",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebastiano Martire",
+        "first_name": "Sebastiano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Sebastiano Calvo Martinez e 5 compagni Martiri clarettiani",
+        "first_name": "Sebastiano Calvo Martinez e 5 compagni",
+        "role": "Martiri clarettiani",
+        "dates": [
+            {
+                "month": 8,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano de Burgherre Mercedario",
+        "first_name": "Sebastiano de Burgherre",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano de Riccafont Mercedario",
+        "first_name": "Sebastiano de Riccafont",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 4,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano dello Spirito Santo Mercedario",
+        "first_name": "Sebastiano dello Spirito Santo",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 7,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano dell\u2019Apparizione Francescano",
+        "first_name": "Sebastiano dell\u2019Apparizione",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 2,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano Maggi Sacerdote",
+        "first_name": "Sebastiano Maggi",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sebastiano Nam I-gwan e compagni, Lucia Kim, Caterina Yi e Maddalena Cho Martiri",
+        "first_name": "Sebastiano Nam I-gwan e compagni, Lucia Kim, Caterina Yi e Maddalena Cho",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Sebastiano Newdigate, Umfrido Middlemore e Guglielmo Exmew Sacerdoti certosini, martiri",
+        "first_name": "Sebastiano Newdigate, Umfrido Middlemore e Guglielmo Exmew",
+        "role": "Sacerdoti certosini, martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano Valfr\u00e8 Sacerdote oratoriano",
+        "first_name": "Sebastiano Valfr\u00e8",
+        "role": "Sacerdote oratoriano",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebbi Re della Sassonia Orientale",
+        "first_name": "Sebbi",
+        "role": "Re della Sassonia Orientale",
+        "dates": [
+            {
+                "month": 8,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Secondiano, Marcelliano e Veriano Martiri",
+        "first_name": "Secondiano, Marcelliano e Veriano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Secondina di Anagni Martire",
+        "first_name": "Secondina di Anagni",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondino Vescovo",
+        "first_name": "Secondino",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondino Martire in Mauritania",
+        "first_name": "Secondino",
+        "role": "Martire in Mauritania",
+        "dates": [
+            {
+                "month": 3,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondino Martire venerato a Capua",
+        "first_name": "Secondino",
+        "role": "Martire venerato a Capua",
+        "dates": [
+            {
+                "month": 5,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondino Martire a Roma",
+        "first_name": "Secondino",
+        "role": "Martire a Roma",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondino di Cordova Martire",
+        "first_name": "Secondino di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Secondino Maria Ortega Garcia e 19 compagni Martiri clarettiani",
+        "first_name": "Secondino Maria Ortega Garcia e 19 compagni",
+        "role": "Martiri clarettiani",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondo Martire",
+        "first_name": "Secondo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondo di Amelia Martire",
+        "first_name": "Secondo di Amelia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Secondo di Asti Martire",
+        "first_name": "Secondo di Asti",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Secondo Pollo Sacerdote e martire",
+        "first_name": "Secondo Pollo",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Segismundo Sagal\u00e9s Vil\u00e0 Religioso e martire",
+        "first_name": "Segismundo Sagal\u00e9s Vil\u00e0",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Segnano (Sequano) Abate",
+        "first_name": "Segnano (Sequano)",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 9,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Segundo Alonso Gonz\u00e1lez Padre di famiglia, martire",
+        "first_name": "Segundo Alonso Gonz\u00e1lez",
+        "role": "Padre di famiglia, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Segundo Arce Maj\u00f3n Sacerdote e martire",
+        "first_name": "Segundo Arce Maj\u00f3n",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Selyf (Selevan, Solomon) Re di Cornovaglia",
+        "first_name": "Selyf (Selevan, Solomon)",
+        "role": "Re di Cornovaglia",
+        "dates": [
+            {
+                "month": 10,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Semeia Profeta",
+        "first_name": "Semeia",
+        "role": "Profeta",
+        "dates": [
+            {
+                "month": 10,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Senano Abate",
+        "first_name": "Senano",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Senatore di Milano Vescovo",
+        "first_name": "Senatore di Milano",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Senatore d\u2019Albano Martire",
+        "first_name": "Senatore d\u2019Albano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Senatro Monaco, venerato a Missanello",
+        "first_name": "Senatro",
+        "role": "Monaco, venerato a Missanello",
+        "dates": [
+            {
+                "month": 1,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sennara Vedova gallese",
+        "first_name": "Sennara",
+        "role": "Vedova gallese",
+        "dates": [
+            {
+                "month": 5,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Senoco Sacerdote",
+        "first_name": "Senoco",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 10,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Senofonte, Maria e figli Martiri",
+        "first_name": "Senofonte, Maria e figli",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Senorina di Vieira Badessa",
+        "first_name": "Senorina di Vieira",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 4,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Senzio di Bieda Martire",
+        "first_name": "Senzio di Bieda",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Serafina di Mamie Vergine",
+        "first_name": "Serafina di Mamie",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 7,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Serafina Sforza (Sveva Feltria) Clarissa",
+        "first_name": "Serafina Sforza (Sveva Feltria)",
+        "role": "Clarissa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Serafino (Gjon) Koda Sacerdote francescano, martire",
+        "first_name": "Serafino (Gjon) Koda",
+        "role": "Sacerdote francescano, martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Serafino da Montegranaro Religioso",
+        "first_name": "Serafino da Montegranaro",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 10,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Serafino Morazzone Sacerdote",
+        "first_name": "Serafino Morazzone",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 4,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Serapio Martire mercedario",
+        "first_name": "Serapio",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 11,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Serapione Martire",
+        "first_name": "Serapione",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Serapione di Alessandria Martire",
+        "first_name": "Serapione di Alessandria",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Serapione di Antiochia Vescovo",
+        "first_name": "Serapione di Antiochia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Serapione di Catania Vescovo",
+        "first_name": "Serapione di Catania",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Serapione di Thmuis Vescovo",
+        "first_name": "Serapione di Thmuis",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Serena di Roma Imperatrice",
+        "first_name": "Serena di Roma",
+        "role": "Imperatrice",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Serena di Spoleto Vedova e martire",
+        "first_name": "Serena di Spoleto",
+        "role": "Vedova e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Sereno (o Sireno o Sinero) di Sirmio Martire",
+        "first_name": "Sereno (o Sireno o Sinero) di Sirmio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Sereno di Marsiglia Vescovo",
+        "first_name": "Sereno di Marsiglia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sergio Cid Pazo Sacerdote salesiano e martire",
+        "first_name": "Sergio Cid Pazo",
+        "role": "Sacerdote salesiano e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Sergio di Cesarea Martire",
+        "first_name": "Sergio di Cesarea",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Sergio di Radonez Eremita, egumeno",
+        "first_name": "Sergio di Radonez",
+        "role": "Eremita, egumeno",
+        "dates": [
+            {
+                "month": 9,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sergio e Bacco Martiri in Siria",
+        "first_name": "Sergio e Bacco",
+        "role": "Martiri in Siria",
+        "dates": [
+            {
+                "month": 10,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Sergio I Papa",
+        "first_name": "Sergio I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Serigi Wyddel Martire .",
+        "first_name": "Serigi Wyddel",
+        "role": "Martire",
+        "dates": []
+    },
+    {
+        "full_name": "Santi Servando e Germano Martiri",
+        "first_name": "Servando e Germano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Servazio Vescovo",
+        "first_name": "Servazio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Serviliano Riano Herrero Religioso e martire",
+        "first_name": "Serviliano Riano Herrero",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Servolo (Servulo) Martire",
+        "first_name": "Servolo (Servulo)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Servolo di Verona Vescovo",
+        "first_name": "Servolo di Verona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Servolo il Paralitico Mendicante",
+        "first_name": "Servolo il Paralitico",
+        "role": "Mendicante",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Seth Patriarca",
+        "first_name": "Seth",
+        "role": "Patriarca",
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sette Dormienti di Efeso",
+        "first_name": "Sette Dormienti di Efeso",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sette Fondatori dell'Ordine dei Servi della Beata Vergine Maria",
+        "first_name": "Sette Fondatori dell'Ordine dei Servi della Beata Vergine Maria",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Settimio di Jesi Vescovo e martire",
+        "first_name": "Settimio di Jesi",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Seustio e compagni Martiri di Todi",
+        "first_name": "Seustio e compagni",
+        "role": "Martiri di Todi",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Severiano Martire ad Albano",
+        "first_name": "Severiano",
+        "role": "Martire ad Albano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Severiano (Severijan) Baranyk e Gioacchino (Jakym) Senkivskyj Sacerdoti e martiri",
+        "first_name": "Severiano (Severijan) Baranyk e Gioacchino (Jakym) Senkivskyj",
+        "role": "Sacerdoti e martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Severiano e Aquila Sposi, martiri",
+        "first_name": "Severiano e Aquila",
+        "role": "Sposi, martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino Abate",
+        "first_name": "Severino",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino Monaco nel Berry",
+        "first_name": "Severino",
+        "role": "Monaco nel Berry",
+        "dates": [
+            {
+                "month": 11,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino di Agaune Abate",
+        "first_name": "Severino di Agaune",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino di Bordeaux Vescovo",
+        "first_name": "Severino di Bordeaux",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino di Colonia Vescovo",
+        "first_name": "Severino di Colonia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino di Parigi Eremita",
+        "first_name": "Severino di Parigi",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 11,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino di Settempeda (di San Severino Marche) Vescovo",
+        "first_name": "Severino di Settempeda (di San Severino Marche)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino di Tivoli Monaco",
+        "first_name": "Severino di Tivoli",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 11,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino Gallo Martire mercedario",
+        "first_name": "Severino Gallo",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Severino Manlio Boezio Filosofo e martire",
+        "first_name": "Severino Manlio Boezio",
+        "role": "Filosofo e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Severino, Essuperio e Feliciano Martiri",
+        "first_name": "Severino, Essuperio e Feliciano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo Prete in Abruzzo",
+        "first_name": "Severo",
+        "role": "Prete in Abruzzo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo Martire",
+        "first_name": "Severo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo Venerato presso Auch",
+        "first_name": "Severo",
+        "role": "Venerato presso Auch",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo Venerato a Vienne",
+        "first_name": "Severo",
+        "role": "Venerato a Vienne",
+        "dates": [
+            {
+                "month": 8,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Agde Abate",
+        "first_name": "Severo di Agde",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Avranches Vescovo",
+        "first_name": "Severo di Avranches",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Barcellona Vescovo e martire",
+        "first_name": "Severo di Barcellona",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Cagliari Vescovo e martire",
+        "first_name": "Severo di Cagliari",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Catania Vescovo",
+        "first_name": "Severo di Catania",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Napoli Vescovo",
+        "first_name": "Severo di Napoli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Ravenna Vescovo",
+        "first_name": "Severo di Ravenna",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Treviri Vescovo",
+        "first_name": "Severo di Treviri",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sexburga Regina del Kent, badessa",
+        "first_name": "Sexburga",
+        "role": "Regina del Kent, badessa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Siagrio di Autun Vescovo",
+        "first_name": "Siagrio di Autun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Siagrio di Nizza Vescovo",
+        "first_name": "Siagrio di Nizza",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Siardo Abate",
+        "first_name": "Siardo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sibillina Biscossi Domenicana",
+        "first_name": "Sibillina Biscossi",
+        "role": "Domenicana",
+        "dates": [
+            {
+                "month": 3,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sicaria di Orl\u00e9ans Vergine",
+        "first_name": "Sicaria di Orl\u00e9ans",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 2,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Sidonio Abate in Normandia",
+        "first_name": "Sidonio",
+        "role": "Abate in Normandia",
+        "dates": [
+            {
+                "month": 11,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Sidonio Apollinare Vescovo di Clermont",
+        "first_name": "Sidonio Apollinare",
+        "role": "Vescovo di Clermont",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Siffredo di Carpentras Vescovo",
+        "first_name": "Siffredo di Carpentras",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigebaldo di Metz Vescovo",
+        "first_name": "Sigebaldo di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigeberto II Re dell'Est Anglia",
+        "first_name": "Sigeberto II",
+        "role": "Re dell'Est Anglia",
+        "dates": [
+            {
+                "month": 9,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigfrido di Vaxjo Vescovo",
+        "first_name": "Sigfrido di Vaxjo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigiberto III il Giovane (Sigisberto) Re d\u2019Austrasia",
+        "first_name": "Sigiberto III il Giovane (Sigisberto)",
+        "role": "Re d\u2019Austrasia",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigiranno (Cirano) Abate nel Berry",
+        "first_name": "Sigiranno (Cirano)",
+        "role": "Abate nel Berry",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sigisberto e Placido",
+        "first_name": "Sigisberto e Placido",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigismondo Re dei Burgundi e martire",
+        "first_name": "Sigismondo",
+        "role": "Re dei Burgundi e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigismondo (Zygmunt) Gorazdowski Sacerdote",
+        "first_name": "Sigismondo (Zygmunt) Gorazdowski",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 1,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sigismondo (Zygmunt) Pisarski Sacerdote e martire",
+        "first_name": "Sigismondo (Zygmunt) Pisarski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sigismondo (Zygmunt) Sajna Sacerdote e martire",
+        "first_name": "Sigismondo (Zygmunt) Sajna",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigismondo Felice Felinski Vescovo di Varsavia",
+        "first_name": "Sigismondo Felice Felinski",
+        "role": "Vescovo di Varsavia",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sigolena Religiosa",
+        "first_name": "Sigolena",
+        "role": "Religiosa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Sila - Silvano Discepolo degli Apostoli",
+        "first_name": "Sila - Silvano",
+        "role": "Discepolo degli Apostoli",
+        "dates": [
+            {
+                "month": 7,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Silao Vescovo e abate",
+        "first_name": "Silao",
+        "role": "Vescovo e abate",
+        "dates": [
+            {
+                "month": 5,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvano (Silano) Martire",
+        "first_name": "Silvano (Silano)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvano di Emesa Vescovo e martire",
+        "first_name": "Silvano di Emesa",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvano di Gaza e 39 compagni Vescovo e martiri",
+        "first_name": "Silvano di Gaza e 39 compagni",
+        "role": "Vescovo e martiri",
+        "dates": [
+            {
+                "month": 5,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvano di Levroux Eremita",
+        "first_name": "Silvano di Levroux",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 9,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvano di Terracina Vescovo",
+        "first_name": "Silvano di Terracina",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Silverio Papa e martire",
+        "first_name": "Silverio",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvestro di Chalon-sur-Saone Vescovo",
+        "first_name": "Silvestro di Chalon-sur-Saone",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvestro di Troina Abate",
+        "first_name": "Silvestro di Troina",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvestro Guzzolini Abate",
+        "first_name": "Silvestro Guzzolini",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvestro I Papa",
+        "first_name": "Silvestro I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Silvia Madre di S. Gregorio Magno",
+        "first_name": "Silvia",
+        "role": "Madre di S. Gregorio Magno",
+        "dates": [
+            {
+                "month": 11,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvino di Therouanne Vescovo",
+        "first_name": "Silvino di Therouanne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvino di Verona Vescovo",
+        "first_name": "Silvino di Verona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvio Eremita in Normandia",
+        "first_name": "Silvio",
+        "role": "Eremita in Normandia",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            },
+            {
+                "month": 5,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvio di Tolosa Vescovo",
+        "first_name": "Silvio di Tolosa",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "San Silvio e compagni Martiri venerati ad Anversa",
+        "first_name": "Silvio e compagni",
+        "role": "Martiri venerati ad Anversa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simeone Abate di Cava",
+        "first_name": "Simeone",
+        "role": "Abate di Cava",
+        "dates": [
+            {
+                "month": 11,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone 'Salos'",
+        "first_name": "Simeone 'Salos'",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simeone (Symeon) Lukac Vescovo e martire",
+        "first_name": "Simeone (Symeon) Lukac",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simeone Bar Sabba\u2019e, Usthazade e compagni Martiri in Persia",
+        "first_name": "Simeone Bar Sabba\u2019e, Usthazade e compagni",
+        "role": "Martiri in Persia",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simeone Berneux, Giusto Ranfer de Breteni\u00e8res, Ludovico Beaulieu e Pietro Enrico Dorie Missionari, martiri",
+        "first_name": "Simeone Berneux, Giusto Ranfer de Breteni\u00e8res, Ludovico Beaulieu e Pietro Enrico Dorie",
+        "role": "Missionari, martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone di Egee Diacono e stilita",
+        "first_name": "Simeone di Egee",
+        "role": "Diacono e stilita",
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone di Gerusalemme Vescovo e martire",
+        "first_name": "Simeone di Gerusalemme",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone di Metz Vescovo",
+        "first_name": "Simeone di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone di Polirone Eremita",
+        "first_name": "Simeone di Polirone",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 7,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone di Siracusa Eremita",
+        "first_name": "Simeone di Siracusa",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 6,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone il Nuovo Teologo Abate",
+        "first_name": "Simeone il Nuovo Teologo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone il Vecchio",
+        "first_name": "Simeone il Vecchio",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone Stefano Nemanja Re serbo",
+        "first_name": "Simeone Stefano Nemanja",
+        "role": "Re serbo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone Stilita il Giovane Anacoreta",
+        "first_name": "Simeone Stilita il Giovane",
+        "role": "Anacoreta",
+        "dates": [
+            {
+                "month": 5,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone Stilita il Vecchio",
+        "first_name": "Simeone Stilita il Vecchio",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Similiano di Nantes Vescovo",
+        "first_name": "Similiano di Nantes",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Simitrio (Simetrio) di Roma Martire",
+        "first_name": "Simitrio (Simetrio) di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Simmaco Papa",
+        "first_name": "Simmaco",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Simmaco di Capua Vescovo",
+        "first_name": "Simmaco di Capua",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Simon de Rojas Religioso Trinitario",
+        "first_name": "Simon de Rojas",
+        "role": "Religioso Trinitario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simon Miguel Rodriguez Religioso francescano, martire",
+        "first_name": "Simon Miguel Rodriguez",
+        "role": "Religioso francescano, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone Apostolo",
+        "first_name": "Simone",
+        "role": "Apostolo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone Abate in Calabria",
+        "first_name": "Simone",
+        "role": "Abate in Calabria",
+        "dates": [
+            {
+                "month": 11,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone Ballacchi Domenicano",
+        "first_name": "Simone Ballacchi",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 11,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone Chen Catechista cinese, martire",
+        "first_name": "Simone Chen",
+        "role": "Catechista cinese, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone da Costa Religioso gesuita, martire",
+        "first_name": "Simone da Costa",
+        "role": "Religioso gesuita, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone da Lipnica Sacerdote",
+        "first_name": "Simone da Lipnica",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 7,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone da Todi",
+        "first_name": "Simone da Todi",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone di Crepy Monaco",
+        "first_name": "Simone di Crepy",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 9,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simone e Giuda Apostoli",
+        "first_name": "Simone e Giuda",
+        "role": "Apostoli",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Simone e Maddalena Bokusai Kyota, Tommaso e Maria Gengoro, e Giacomo Gengoro Martiri",
+        "first_name": "Simone e Maddalena Bokusai Kyota, Tommaso e Maria Gengoro, e Giacomo Gengoro",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone Fernandez Mercedario",
+        "first_name": "Simone Fernandez",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone Fidati da Cascia",
+        "first_name": "Simone Fidati da Cascia",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone Hoa Medico, sindaco, martire",
+        "first_name": "Simone Hoa",
+        "role": "Medico, sindaco, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone Kim Gye-wan Ministrante, martire",
+        "first_name": "Simone Kim Gye-wan",
+        "role": "Ministrante, martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone Ponce Mercedario",
+        "first_name": "Simone Ponce",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Simone Reynes Solivellas, Michele Pons Ramis e Francesco Mayol Oliver Religiosi e martiri",
+        "first_name": "Simone Reynes Solivellas, Michele Pons Ramis e Francesco Mayol Oliver",
+        "role": "Religiosi e martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Simone Stock",
+        "first_name": "Simone Stock",
+        "role": null,
+        "dates": [
+            {
+                "month": 5,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simone Yempo Religioso gesuita, martire",
+        "first_name": "Simone Yempo",
+        "role": "Religioso gesuita, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Simonino (Simone) di Trento Fanciullo",
+        "first_name": "Simonino (Simone) di Trento",
+        "role": "Fanciullo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Simperto (Simberto) Vescovo",
+        "first_name": "Simperto (Simberto)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Simpliciano",
+        "first_name": "Simpliciano",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio Papa",
+        "first_name": "Simplicio",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio VIII Vescovo di Vercelli",
+        "first_name": "Simplicio",
+        "role": "VIII Vescovo di Vercelli",
+        "dates": [
+            {
+                "month": 8,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio di Autun Vescovo",
+        "first_name": "Simplicio di Autun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio di Bourges Vescovo",
+        "first_name": "Simplicio di Bourges",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio di Fausania Vescovo e martire",
+        "first_name": "Simplicio di Fausania",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio di Verona Vescovo",
+        "first_name": "Simplicio di Verona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio di Vienne Vescovo",
+        "first_name": "Simplicio di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simplicio e Costantino Abati di Montecassino",
+        "first_name": "Simplicio e Costantino",
+        "role": "Abati di Montecassino",
+        "dates": [
+            {
+                "month": 3,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Simplicio e familiari Eremiti",
+        "first_name": "Simplicio e familiari",
+        "role": "Eremiti",
+        "dates": [
+            {
+                "month": 6,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simplicio, Costanzo e Vittoriano Martiri a Celano",
+        "first_name": "Simplicio, Costanzo e Vittoriano",
+        "role": "Martiri a Celano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Simplicio, Faustino, Viatrice e Rufo Martiri",
+        "first_name": "Simplicio, Faustino, Viatrice e Rufo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sincletica Monaca in Egitto",
+        "first_name": "Sincletica",
+        "role": "Monaca in Egitto",
+        "dates": [
+            {
+                "month": 1,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Sindulfo (Sindolfo) Eremita",
+        "first_name": "Sindulfo (Sindolfo)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Sindulfo di Vienne Vescovo",
+        "first_name": "Sindulfo di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Sinerio (Senario) d'Avranches Vescovo",
+        "first_name": "Sinerio (Senario) d'Avranches",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sinforiano (Feliks) Ducki Religioso cappuccino, martire",
+        "first_name": "Sinforiano (Feliks) Ducki",
+        "role": "Religioso cappuccino, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Sinforiano di Autun Giovane martire",
+        "first_name": "Sinforiano di Autun",
+        "role": "Giovane martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sinforosa e sette figli Martire",
+        "first_name": "Sinforosa e sette figli",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Siricio Papa",
+        "first_name": "Siricio",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 11,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Siro di Genova Vescovo",
+        "first_name": "Siro di Genova",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Siro di Pavia Vescovo",
+        "first_name": "Siro di Pavia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisebuto Abate",
+        "first_name": "Sisebuto",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisenando di Cordova Martire",
+        "first_name": "Sisenando di Cordova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisinnio Protomartire trentino",
+        "first_name": "Sisinnio",
+        "role": "Protomartire trentino",
+        "dates": [
+            {
+                "month": 5,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisinno (Sisinio) di Cizico Vescovo e martire",
+        "first_name": "Sisinno (Sisinio) di Cizico",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisoes il Grande Eremita",
+        "first_name": "Sisoes il Grande",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 7,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisto di Reims Vescovo",
+        "first_name": "Sisto di Reims",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisto I Papa",
+        "first_name": "Sisto I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 4,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisto II e compagni Papa e martiri",
+        "first_name": "Sisto II e compagni",
+        "role": "Papa e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisto III Papa",
+        "first_name": "Sisto III",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sisto Locatelli Francescano",
+        "first_name": "Sisto Locatelli",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 11,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Siviardo Abate di Anille",
+        "first_name": "Siviardo",
+        "role": "Abate di Anille",
+        "dates": [
+            {
+                "month": 3,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sofia Martire",
+        "first_name": "Sofia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sofia (o Suia o Suina) Vergine e martire",
+        "first_name": "Sofia (o Suia o Suina)",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sofia (Sonia) Martire",
+        "first_name": "Sofia (Sonia)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sofia Czeska-Maciejowska Fondatrice",
+        "first_name": "Sofia Czeska-Maciejowska",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 4,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sofia di Fermo Vergine e martire",
+        "first_name": "Sofia di Fermo",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sofia Ximenez Ximenez Madre di famiglia, martire",
+        "first_name": "Sofia Ximenez Ximenez",
+        "role": "Madre di famiglia, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Sofonia Profeta",
+        "first_name": "Sofonia",
+        "role": "Profeta",
+        "dates": [
+            {
+                "month": 12,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Sofronio di Cipro Vescovo",
+        "first_name": "Sofronio di Cipro",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Sofronio di Gerusalemme Patriarca",
+        "first_name": "Sofronio di Gerusalemme",
+        "role": "Patriarca",
+        "dates": [
+            {
+                "month": 3,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Sola (Sualo) Eremita a Eichstatt",
+        "first_name": "Sola (Sualo)",
+        "role": "Eremita a Eichstatt",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Solangia Vergine e martire",
+        "first_name": "Solangia",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Solennio (Solenne) di Chartres Vescovo",
+        "first_name": "Solennio (Solenne) di Chartres",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Solutore Martire",
+        "first_name": "Solutore",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Sosso (Sossio, Sosio) di Miseno Martire",
+        "first_name": "Sosso (Sossio, Sosio) di Miseno",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Sostene Discepolo di Paolo",
+        "first_name": "Sostene",
+        "role": "Discepolo di Paolo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Sostene di Calcedonia Martire",
+        "first_name": "Sostene di Calcedonia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sotere Vergine e Martire",
+        "first_name": "Sotere",
+        "role": "Vergine e Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Sotere (o Sotero) Papa",
+        "first_name": "Sotere (o Sotero)",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 4,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Sozonte di Pompeiopoli Martire",
+        "first_name": "Sozonte di Pompeiopoli",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Speciosa di Pavia Vergine",
+        "first_name": "Speciosa di Pavia",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sperandea (Sperandia) Religiosa",
+        "first_name": "Sperandea (Sperandia)",
+        "role": "Religiosa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Speranza della Croce (Teresa Subir\u00e1 Sanjaume) Vergine e martire",
+        "first_name": "Speranza della Croce (Teresa Subir\u00e1 Sanjaume)",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Speranza di Ges\u00f9 (Maria Josefa Alhama Valera) Fondatrice",
+        "first_name": "Speranza di Ges\u00f9 (Maria Josefa Alhama Valera)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 2,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Spes",
+        "first_name": "Spes",
+        "role": null,
+        "dates": [
+            {
+                "month": 5,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Spes di Spoleto Vescovo",
+        "first_name": "Spes di Spoleto",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Speusippo, Elasippo, Melesippo e Leonilla Martiri",
+        "first_name": "Speusippo, Elasippo, Melesippo e Leonilla",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Spiridione di Trimithonte Vescovo",
+        "first_name": "Spiridione di Trimithonte",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sposi .",
+        "first_name": "Sposi",
+        "role": ".",
+        "dates": []
+    },
+    {
+        "full_name": "San Stachys Discepolo di s. Paolo, vescovo di Costantinopoli",
+        "first_name": "Stachys",
+        "role": "Discepolo di s. Paolo, vescovo di Costantinopoli",
+        "dates": [
+            {
+                "month": 10,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stanislao Vescovo e martire",
+        "first_name": "Stanislao",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stanislao (Stanislaw) Kubski Sacerdote e martire",
+        "first_name": "Stanislao (Stanislaw) Kubski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Stanislao di Ges\u00f9 Maria (Jan Papczynski) Sacerdote, fondatore",
+        "first_name": "Stanislao di Ges\u00f9 Maria (Jan Papczynski)",
+        "role": "Sacerdote, fondatore",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Stanislao Kazimierczyk Sacerdote",
+        "first_name": "Stanislao Kazimierczyk",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 5,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Stanislao Kostka Novizio gesuita",
+        "first_name": "Stanislao Kostka",
+        "role": "Novizio gesuita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Stanislao Mysakowski e Francesco Roslaniec Sacerdoti e martiri",
+        "first_name": "Stanislao Mysakowski e Francesco Roslaniec",
+        "role": "Sacerdoti e martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stanislao V\u00edctor (Augusto Cordero Fernandez) Religioso lasalliano, martire",
+        "first_name": "Stanislao V\u00edctor (Augusto Cordero Fernandez)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stanislaw Kubista Sacerdote e martire",
+        "first_name": "Stanislaw Kubista",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stanley Francis Rother Sacerdote missionario, martire",
+        "first_name": "Stanley Francis Rother",
+        "role": "Sacerdote missionario, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Stefana Quinzani Domenicana",
+        "first_name": "Stefana Quinzani",
+        "role": "Domenicana",
+        "dates": [
+            {
+                "month": 1,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Primo martire",
+        "first_name": "Stefano",
+        "role": "Primo martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano (Istvan) Sandor Salesiano, martire",
+        "first_name": "Stefano (Istvan) Sandor",
+        "role": "Salesiano, martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano (Stefan) Grelewski Sacerdote e martire",
+        "first_name": "Stefano (Stefan) Grelewski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Bandelli Domenicano",
+        "first_name": "Stefano Bandelli",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 6,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Bellesini",
+        "first_name": "Stefano Bellesini",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano d'Obazine Abate",
+        "first_name": "Stefano d'Obazine",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano de Fontsanta Patriarca di Gerusalemme",
+        "first_name": "Stefano de Fontsanta",
+        "role": "Patriarca di Gerusalemme",
+        "dates": [
+            {
+                "month": 8,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Antiochia Vescovo e martire",
+        "first_name": "Stefano di Antiochia",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Bourg-en-Bresse Certosino",
+        "first_name": "Stefano di Bourg-en-Bresse",
+        "role": "Certosino",
+        "dates": [
+            {
+                "month": 1,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Chatillon Certosino, vescovo",
+        "first_name": "Stefano di Chatillon",
+        "role": "Certosino, vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Grandmont o di Muret Eremita",
+        "first_name": "Stefano di Grandmont o di Muret",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 2,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Lione Vescovo",
+        "first_name": "Stefano di Lione",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Nicea Vescovo e martire",
+        "first_name": "Stefano di Nicea",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Perm Vescovo",
+        "first_name": "Stefano di Perm",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Rieti Abate",
+        "first_name": "Stefano di Rieti",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 2,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano di Rossano Calabro",
+        "first_name": "Stefano di Rossano Calabro",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano di Ungheria Re",
+        "first_name": "Stefano di Ungheria",
+        "role": "Re",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano d\u2019Apt Vescovo",
+        "first_name": "Stefano d\u2019Apt",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano d\u2019Ungheria Martire",
+        "first_name": "Stefano d\u2019Ungheria",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Harding Abate",
+        "first_name": "Stefano Harding",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano I Papa",
+        "first_name": "Stefano I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano il Giovane Monaco orientale, martire",
+        "first_name": "Stefano il Giovane",
+        "role": "Monaco orientale, martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Kurti Sacerdote e martire",
+        "first_name": "Stefano Kurti",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Maconi Certosino",
+        "first_name": "Stefano Maconi",
+        "role": "Certosino",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Michele Gillet Martire",
+        "first_name": "Stefano Michele Gillet",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Min Kuk-ka Catechista e martire",
+        "first_name": "Stefano Min Kuk-ka",
+        "role": "Catechista e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Minicillo Vescovo e confessore",
+        "first_name": "Stefano Minicillo",
+        "role": "Vescovo e confessore",
+        "dates": [
+            {
+                "month": 10,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Nehm\u00e9 Monaco maronita",
+        "first_name": "Stefano Nehm\u00e9",
+        "role": "Monaco maronita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Pina Mercedario",
+        "first_name": "Stefano Pina",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Pongracz Martire di Kosice",
+        "first_name": "Stefano Pongracz",
+        "role": "Martire di Kosice",
+        "dates": [
+            {
+                "month": 9,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Teodoro Cu\u00e9not Vescovo e martire",
+        "first_name": "Stefano Teodoro Cu\u00e9not",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Vazquez Alonso Coadiutore salesiano, martire",
+        "first_name": "Stefano Vazquez Alonso",
+        "role": "Coadiutore salesiano, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Stella (Eustella) Martire",
+        "first_name": "Stella (Eustella)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Stellan Santo irlandese",
+        "first_name": "Stellan",
+        "role": "Santo irlandese",
+        "dates": [
+            {
+                "month": 5,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Stilla di Abenberg Vergine",
+        "first_name": "Stilla di Abenberg",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 7,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Stratone, Filippo ed Eutichiano Martiri",
+        "first_name": "Stratone, Filippo ed Eutichiano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Stratone, Valerio, Macrobio e Gordiano Martiri",
+        "first_name": "Stratone, Valerio, Macrobio e Gordiano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Sturmio di Fulda Abate",
+        "first_name": "Sturmio di Fulda",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Suaibsech Vergine irlandese",
+        "first_name": "Suaibsech",
+        "role": "Vergine irlandese",
+        "dates": [
+            {
+                "month": 1,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Suairlech Abate irlandese",
+        "first_name": "Suairlech",
+        "role": "Abate irlandese",
+        "dates": [
+            {
+                "month": 4,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Suairlech Vescovo irlandese",
+        "first_name": "Suairlech",
+        "role": "Vescovo irlandese",
+        "dates": [
+            {
+                "month": 3,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Suairlech Abate",
+        "first_name": "Suairlech",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Successo, Paolo e Lucio Vescovi e martiri",
+        "first_name": "Successo, Paolo e Lucio",
+        "role": "Vescovi e martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Suitberto di Kaiserswerth",
+        "first_name": "Suitberto di Kaiserswerth",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Sulpicio e Serviziano Martiri",
+        "first_name": "Sulpicio e Serviziano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Sulpizio il Pio Vescovo di Bourges",
+        "first_name": "Sulpizio il Pio",
+        "role": "Vescovo di Bourges",
+        "dates": [
+            {
+                "month": 1,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Sulpizio Severo Vescovo di Bourges",
+        "first_name": "Sulpizio Severo",
+        "role": "Vescovo di Bourges",
+        "dates": [
+            {
+                "month": 1,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Supplica di Pompei Prima domenica di ottobre",
+        "first_name": "Prima domenica di ottobre",
+        "role": null,
+        "dates": []
+    },
+    {
+        "full_name": "San Surano Abate di Sora",
+        "first_name": "Surano",
+        "role": "Abate di Sora",
+        "dates": [
+            {
+                "month": 1,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Susanna Martire",
+        "first_name": "Susanna",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Susanna Sorella di San Lorenzo Siro Senza data",
+        "first_name": "Susanna",
+        "role": "Sorella di San Lorenzo Siro",
+        "dates": []
+    },
+    {
+        "full_name": "Santa Susanna di Eleuteropoli Monaca e martire",
+        "first_name": "Susanna di Eleuteropoli",
+        "role": "Monaca e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Susanna di Roma Martire",
+        "first_name": "Susanna di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Susanna Kang Gyeong-bok Vergine e martire",
+        "first_name": "Susanna Kang Gyeong-bok",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Sventiboldo Re di Lorena",
+        "first_name": "Sventiboldo",
+        "role": "Re di Lorena",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Swithun di Winchester Vescovo",
+        "first_name": "Swithun di Winchester",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Szil\u00e1rd Istv\u00e1n Bogd\u00e1nffy Vescovo e martire",
+        "first_name": "Szil\u00e1rd Istv\u00e1n Bogd\u00e1nffy",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 2
+            }
+        ]
+    }
+]

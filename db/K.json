@@ -1,0 +1,101 @@
+[
+    {
+        "full_name": "Santa Caterina Tekakwitha Vergine",
+        "first_name": "Caterina Tekakwitha",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Kamen Vitchev Sacerdote e martire",
+        "first_name": "Kamen Vitchev",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Kevin (Coemgen) Abate di Glendalough",
+        "first_name": "Kevin (Coemgen)",
+        "role": "Abate di Glendalough",
+        "dates": [
+            {
+                "month": 6,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Kilian (Chiliano) Vescovo e martire",
+        "first_name": "Kilian (Chiliano)",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Kinga (Cunegonda) Regina di Polonia",
+        "first_name": "Kinga (Cunegonda)",
+        "role": "Regina di Polonia",
+        "dates": [
+            {
+                "month": 7,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Koloman (Colman) Pellegrino",
+        "first_name": "Koloman (Colman)",
+        "role": "Pellegrino",
+        "dates": [
+            {
+                "month": 7,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Kragon (Cragon) Martire in Egitto",
+        "first_name": "Kragon (Cragon)",
+        "role": "Martire in Egitto",
+        "dates": [
+            {
+                "month": 7,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano Kimura Primo sacerdote giapponese, martire",
+        "first_name": "Sebastiano Kimura",
+        "role": "Primo sacerdote giapponese, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Tommaso Khuong Sacerdote, martire nel Tonchino",
+        "first_name": "Tommaso Khuong",
+        "role": "Sacerdote, martire nel Tonchino",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    }
+]

@@ -1,0 +1,1030 @@
+[
+    {
+        "full_name": "Sant' Oscar (Ansgario) Vescovo",
+        "first_name": "Oscar (Ansgario)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Obizio da Niardo",
+        "first_name": "Obizio da Niardo",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oceano Martire",
+        "first_name": "Oceano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Oda Monaca premostratense",
+        "first_name": "Oda",
+        "role": "Monaca premostratense",
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Oddino Barotti",
+        "first_name": "Oddino Barotti",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Oddone (Oddo) di Novara Monaco",
+        "first_name": "Oddone (Oddo) di Novara",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 1,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oddone di Cluny Abate",
+        "first_name": "Oddone di Cluny",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oddone di Urgel Vescovo",
+        "first_name": "Oddone di Urgel",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odegonda Regina di Lorena .",
+        "first_name": "Odegonda",
+        "role": "Regina di Lorena",
+        "dates": []
+    },
+    {
+        "full_name": "Sant' Odgero Diacono missionario",
+        "first_name": "Odgero",
+        "role": "Diacono missionario",
+        "dates": [
+            {
+                "month": 5,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odilia Martire",
+        "first_name": "Odilia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odilia (Ottilia) di Hohenbourg Badessa",
+        "first_name": "Odilia (Ottilia) di Hohenbourg",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odilone di Cluny Abate",
+        "first_name": "Odilone di Cluny",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Odoardo Focherini Padre di famiglia, martire",
+        "first_name": "Odoardo Focherini",
+        "role": "Padre di famiglia, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odolfo",
+        "first_name": "Odolfo",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Odorico da Pordenone Sacerdote",
+        "first_name": "Odorico da Pordenone",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 1,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odorisio I (Oderisio) di Montecassino Abate",
+        "first_name": "Odorisio I (Oderisio) di Montecassino",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Odrada",
+        "first_name": "Odrada",
+        "role": null,
+        "dates": [
+            {
+                "month": 11,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odran (Otterano) di Iona Monaco",
+        "first_name": "Odran (Otterano) di Iona",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odulfo di Utrecht Monaco",
+        "first_name": "Odulfo di Utrecht",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 6,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oengus il Culdeo",
+        "first_name": "Oengus il Culdeo",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Oglerio Abate di Lucedio",
+        "first_name": "Oglerio",
+        "role": "Abate di Lucedio",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Olav (Olaf) Re di Norvegia, martire",
+        "first_name": "Olav (Olaf)",
+        "role": "Re di Norvegia, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Olav di Svezia Re e martire",
+        "first_name": "Olav di Svezia",
+        "role": "Re e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Olcese (Ursicino) Vescovo",
+        "first_name": "Olcese (Ursicino)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Olga di Kiev Granduchessa",
+        "first_name": "Olga di Kiev",
+        "role": "Granduchessa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Olimpia (Olha Bid\u00e0) Religiosa e martire ucraina",
+        "first_name": "Olimpia (Olha Bid\u00e0)",
+        "role": "Religiosa e martire ucraina",
+        "dates": [
+            {
+                "month": 1,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Olimpia (Olimpiade) Vedova",
+        "first_name": "Olimpia (Olimpiade)",
+        "role": "Vedova",
+        "dates": [
+            {
+                "month": 7,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Olimpiade di Amelia Martire",
+        "first_name": "Olimpiade di Amelia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Oliva di Anagni Eremita",
+        "first_name": "Oliva di Anagni",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 6,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oliva di Palermo Vergine e martire",
+        "first_name": "Oliva di Palermo",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Oliviero Lefevre Sacerdote e martire",
+        "first_name": "Oliviero Lefevre",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oliviero Plunkett Vescovo e martire",
+        "first_name": "Oliviero Plunkett",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ollegario di Tarragona Vescovo",
+        "first_name": "Ollegario di Tarragona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Ombelina Badessa",
+        "first_name": "Ombelina",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Omeljan (Emilian) Kovc Parroco",
+        "first_name": "Omeljan (Emilian) Kovc",
+        "role": "Parroco",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Omobono di Cremona Laico",
+        "first_name": "Omobono di Cremona",
+        "role": "Laico",
+        "dates": [
+            {
+                "month": 11,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onesiforo Discepolo di san Paolo, martire",
+        "first_name": "Onesiforo",
+        "role": "Discepolo di san Paolo, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onesimo Martire",
+        "first_name": "Onesimo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onofrio Eremita",
+        "first_name": "Onofrio",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 6,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onofrio Eremita",
+        "first_name": "Onofrio",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorata di Pavia Vergine",
+        "first_name": "Onorata di Pavia",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Onorato (Venceslao) Kazminsky Cappuccino",
+        "first_name": "Onorato (Venceslao) Kazminsky",
+        "role": "Cappuccino",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Amiens Vescovo",
+        "first_name": "Onorato di Amiens",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Arles Vescovo",
+        "first_name": "Onorato di Arles",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Buzan\u00e7ais",
+        "first_name": "Onorato di Buzan\u00e7ais",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Fondi Abate",
+        "first_name": "Onorato di Fondi",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Milano Vescovo",
+        "first_name": "Onorato di Milano",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Subiaco Abate",
+        "first_name": "Onorato di Subiaco",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 5,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Tolosa Vescovo",
+        "first_name": "Onorato di Tolosa",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorato di Vercelli Vescovo",
+        "first_name": "Onorato di Vercelli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorina Martire",
+        "first_name": "Onorina",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Onorio di Canterbury Vescovo",
+        "first_name": "Onorio di Canterbury",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Opilio (Opilione) di Piacenza Diacono",
+        "first_name": "Opilio (Opilione) di Piacenza",
+        "role": "Diacono",
+        "dates": [
+            {
+                "month": 10,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Opportuna di Seez Badessa",
+        "first_name": "Opportuna di Seez",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 4,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orenzio (o Orienzo) di Auch Vescovo",
+        "first_name": "Orenzio (o Orienzo) di Auch",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orenzio e fratelli Martiri di Satala in Armenia",
+        "first_name": "Orenzio e fratelli",
+        "role": "Martiri di Satala in Armenia",
+        "dates": [
+            {
+                "month": 6,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Orenzio e Pazienza Sposi e martiri",
+        "first_name": "Orenzio e Pazienza",
+        "role": "Sposi e martiri",
+        "dates": [
+            {
+                "month": 5,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oreste di Tiana in Cappadocia Martire",
+        "first_name": "Oreste di Tiana in Cappadocia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Orlando Eremita",
+        "first_name": "Orlando",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ormisda Papa",
+        "first_name": "Ormisda",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oronzo (Oronzio) Vescovo",
+        "first_name": "Oronzo (Oronzio)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orso Abate",
+        "first_name": "Orso",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orso di Aosta Sacerdote",
+        "first_name": "Orso di Aosta",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orso di Auxerre Vescovo",
+        "first_name": "Orso di Auxerre",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orso di Ravenna Vescovo",
+        "first_name": "Orso di Ravenna",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orsola e compagne Martiri",
+        "first_name": "Orsola e compagne",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Orsolina (Veneri) di Parma Vergine",
+        "first_name": "Orsolina (Veneri) di Parma",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 4,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ortario Abate di Landelles",
+        "first_name": "Ortario",
+        "role": "Abate di Landelles",
+        "dates": [
+            {
+                "month": 4,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Osanna Andreasi da Mantova Vergine domenicana",
+        "first_name": "Osanna Andreasi da Mantova",
+        "role": "Vergine domenicana",
+        "dates": [
+            {
+                "month": 6,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osburga di Coventry Badessa",
+        "first_name": "Osburga di Coventry",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oscar (Ansgario) Vescovo",
+        "first_name": "Oscar (Ansgario)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oscar Arnulfo Romero Gald\u00e1mez Vescovo e martire",
+        "first_name": "Oscar Arnulfo Romero Gald\u00e1mez",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osea Profeta",
+        "first_name": "Osea",
+        "role": "Profeta",
+        "dates": [
+            {
+                "month": 10,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osmund di Salisbury Vescovo",
+        "first_name": "Osmund di Salisbury",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osnat Vergine irlandese",
+        "first_name": "Osnat",
+        "role": "Vergine irlandese",
+        "dates": [
+            {
+                "month": 11,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ospizio (Ospicio) Eremita",
+        "first_name": "Ospizio (Ospicio)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 5,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osvaldo di Northumbria Re e martire",
+        "first_name": "Osvaldo di Northumbria",
+        "role": "Re e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osvaldo di Worcester Vescovo",
+        "first_name": "Osvaldo di Worcester",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            },
+            {
+                "month": 2,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Oswin Re di Deira in Northumbria",
+        "first_name": "Oswin",
+        "role": "Re di Deira in Northumbria",
+        "dates": [
+            {
+                "month": 8,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Otmaro di San Gallo Abate",
+        "first_name": "Otmaro di San Gallo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottato di Milevi Vescovo",
+        "first_name": "Ottato di Milevi",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Ottato, Engrazia, Caio, Crescenzio e compagni Martiri di Saragozza",
+        "first_name": "Ottato, Engrazia, Caio, Crescenzio e compagni",
+        "role": "Martiri di Saragozza",
+        "dates": [
+            {
+                "month": 4,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottaviano di Cartagine e compagni Martiri",
+        "first_name": "Ottaviano di Cartagine e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ottaviano di Savona Vescovo",
+        "first_name": "Ottaviano di Savona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottavio Martire",
+        "first_name": "Ottavio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottaziano di Brescia Vescovo",
+        "first_name": "Ottaziano di Brescia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Otto Neururer Sacerdote e martire",
+        "first_name": "Otto Neururer",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ottone da Pola Religioso francescano senza data",
+        "first_name": "Ottone da Pola",
+        "role": "Religioso francescano",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Ottone da Tolosa Martire mercedario",
+        "first_name": "Ottone da Tolosa",
+        "role": "Martire mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottone di Bamberga Vescovo",
+        "first_name": "Ottone di Bamberga",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ottone di Frisinga Vescovo",
+        "first_name": "Ottone di Frisinga",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottone Frangipane Eremita",
+        "first_name": "Ottone Frangipane",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 3,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ovidio Beltran (Esteban Anuncibay Letona) Religioso lasalliano, martire",
+        "first_name": "Ovidio Beltran (Esteban Anuncibay Letona)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    }
+]

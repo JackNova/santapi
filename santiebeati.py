@@ -87,3 +87,8 @@ def scrape_all_name_pages(letter):
         print(f"page {page} done")
 
     return results
+
+def scrape_all_names():
+    for letter in ascii_uppercase:
+        scrape_all_name_pages(letter=letter)
+        print(f"letter {letter} DONE")

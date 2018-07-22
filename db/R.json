@@ -1,0 +1,2695 @@
+[
+    {
+        "full_name": "San Raffaele Arcangelo",
+        "first_name": "Raffaele",
+        "role": "Arcangelo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo de Penafort Sacerdote",
+        "first_name": "Raimondo de Penafort",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 1,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rita da Cascia Vedova e religiosa",
+        "first_name": "Rita da Cascia",
+        "role": "Vedova e religiosa",
+        "dates": [
+            {
+                "month": 5,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto Bellarmino Vescovo e dottore della Chiesa",
+        "first_name": "Roberto Bellarmino",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Rocco Terziario francescano, Pellegrino e Taumaturgo",
+        "first_name": "Rocco",
+        "role": "Terziario francescano, Pellegrino e Taumaturgo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Romualdo Abate",
+        "first_name": "Romualdo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 6,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosa da Lima Vergine",
+        "first_name": "Rosa da Lima",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 8,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beati 6 Redentori Mercedari",
+        "first_name": "6 Redentori Mercedari",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bartolomeo Blanco Marquez Martire",
+        "first_name": "Bartolomeo Blanco Marquez",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria Raffaella (Santina) Cimatti Vergine",
+        "first_name": "Maria Raffaella (Santina) Cimatti",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 6,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Rabano Mauro Abate di Fulda",
+        "first_name": "Rabano Mauro",
+        "role": "Abate di Fulda",
+        "dates": [
+            {
+                "month": 2,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Radbodo di Utrecht Vescovo",
+        "first_name": "Radbodo di Utrecht",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Radegonda Regina di Francia",
+        "first_name": "Radegonda",
+        "role": "Regina di Francia",
+        "dates": [
+            {
+                "month": 8,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Radulfo (Rodolfo) di Bourges Vescovo",
+        "first_name": "Radulfo (Rodolfo) di Bourges",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Radulfo (Rodolfo) di La Fustaie",
+        "first_name": "Radulfo (Rodolfo) di La Fustaie",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Radulfo di Sisteron Vescovo",
+        "first_name": "Radulfo di Sisteron",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rafael Calatrava Ros Padre di famiglia e martire",
+        "first_name": "Rafael Calatrava Ros",
+        "role": "Padre di famiglia e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rafael Garc\u00eda Torres Laico e martire",
+        "first_name": "Rafael Garc\u00eda Torres",
+        "role": "Laico e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Raffaele Arcangelo",
+        "first_name": "Raffaele",
+        "role": "Arcangelo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raffaele Alcocer Mart\u00ednez Sacerdote benedettino, martire",
+        "first_name": "Raffaele Alcocer Mart\u00ednez",
+        "role": "Sacerdote benedettino, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Raffaele Arnaiz Baron Religioso trappista",
+        "first_name": "Raffaele Arnaiz Baron",
+        "role": "Religioso trappista",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raffaele Chylinski Francescano",
+        "first_name": "Raffaele Chylinski",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raffaele di Barletta",
+        "first_name": "Raffaele di Barletta",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Raffaele di San Giuseppe (Josef Kalinowski)",
+        "first_name": "Raffaele di San Giuseppe (Josef Kalinowski)",
+        "role": null,
+        "dates": [
+            {
+                "month": 11,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Raffaele Guizar Valencia Vescovo",
+        "first_name": "Raffaele Guizar Valencia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raffaele Luigi Rafiringa Lasalliano",
+        "first_name": "Raffaele Luigi Rafiringa",
+        "role": "Lasalliano",
+        "dates": [
+            {
+                "month": 5,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Raffaele Pardo Molina e Giuseppe Maria Vidal Segu Domenicani, martiri",
+        "first_name": "Raffaele Pardo Molina e Giuseppe Maria Vidal Segu",
+        "role": "Domenicani, martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Raffaella Maria del Sacro Cuore (Rafaela Porras y Aill\u00f3n) Fondatrice",
+        "first_name": "Raffaella Maria del Sacro Cuore (Rafaela Porras y Aill\u00f3n)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Raffaella Ybarra Fondatrice",
+        "first_name": "Raffaella Ybarra",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Raffale Alonso Gutierrez e Carlo Diaz Gandia Padri di famiglia, martiri",
+        "first_name": "Raffale Alonso Gutierrez e Carlo Diaz Gandia",
+        "role": "Padri di famiglia, martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Ragenfreda (Ragenfrida) Badessa",
+        "first_name": "Ragenfreda (Ragenfrida)",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 10,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo Vescovo di Roda-Barbastro",
+        "first_name": "Raimondo",
+        "role": "Vescovo di Roda-Barbastro",
+        "dates": [
+            {
+                "month": 6,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo Albert Cardinale",
+        "first_name": "Raimondo Albert",
+        "role": "Cardinale",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo da Capua (delle Vigne) Domenicano",
+        "first_name": "Raimondo da Capua (delle Vigne)",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 10,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo da Cardona Mercedario",
+        "first_name": "Raimondo da Cardona",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo da Moncada Mercedario",
+        "first_name": "Raimondo da Moncada",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo da Tolosa Cardinale",
+        "first_name": "Raimondo da Tolosa",
+        "role": "Cardinale",
+        "dates": [
+            {
+                "month": 5,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo de Barellis Mercedario",
+        "first_name": "Raimondo de Barellis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo de Blanes Protomartire mercedario",
+        "first_name": "Raimondo de Blanes",
+        "role": "Protomartire mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo de Cayuela Mercedario",
+        "first_name": "Raimondo de Cayuela",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 11,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo de Fosso Mercedario",
+        "first_name": "Raimondo de Fosso",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo de Penafort Sacerdote",
+        "first_name": "Raimondo de Penafort",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 1,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo de Pirrariis Mercedario",
+        "first_name": "Raimondo de Pirrariis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo di Fitero Abate",
+        "first_name": "Raimondo di Fitero",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo di Monteolivo Cavaliere mercedario",
+        "first_name": "Raimondo di Monteolivo",
+        "role": "Cavaliere mercedario",
+        "dates": [
+            {
+                "month": 4,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Raimondo di San Vittore e Guglielmo di San Leonardo Martiri mercedari",
+        "first_name": "Raimondo di San Vittore e Guglielmo di San Leonardo",
+        "role": "Martiri mercedari",
+        "dates": [
+            {
+                "month": 12,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo di Santa Grazia Mercedario",
+        "first_name": "Raimondo di Santa Grazia",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo du Puy 2\u00b0 gran maestro dell'Ordine di Malta",
+        "first_name": "Raimondo du Puy",
+        "role": "2\u00b0 gran maestro dell'Ordine di Malta",
+        "dates": [
+            {
+                "month": 11,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Raimondo e Guglielmo da Granada Mercedari",
+        "first_name": "Raimondo e Guglielmo da Granada",
+        "role": "Mercedari",
+        "dates": [
+            {
+                "month": 10,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Eirin Mayo Coadiutore salesiano, martire",
+        "first_name": "Raimondo Eirin Mayo",
+        "role": "Coadiutore salesiano, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Folch Vescovo",
+        "first_name": "Raimondo Folch",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Raimondo Li Quanzhen e Pietro Li Quanhui Martiri",
+        "first_name": "Raimondo Li Quanzhen e Pietro Li Quanhui",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Lullo Terziario francescano, martire",
+        "first_name": "Raimondo Lullo",
+        "role": "Terziario francescano, martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Mart\u00ec Soriano Sacerdote e martire",
+        "first_name": "Raimondo Mart\u00ec Soriano",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo Nonnato Religioso",
+        "first_name": "Raimondo Nonnato",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 8,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Peiro Victori Sacerdote domenicano, martire",
+        "first_name": "Raimondo Peiro Victori",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Petiniaud de Jourgnac Martire",
+        "first_name": "Raimondo Petiniaud de Jourgnac",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Stefano Bou Pascual Sacerdote e martire",
+        "first_name": "Raimondo Stefano Bou Pascual",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo Vincenzo Vargas Gonz\u00e1lez Giovane laico, martire",
+        "first_name": "Raimondo Vincenzo Vargas Gonz\u00e1lez",
+        "role": "Giovane laico, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo Zanfogni, detto Palmerio Laico",
+        "first_name": "Raimondo Zanfogni, detto Palmerio",
+        "role": "Laico",
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimundo Casta\u00f1o Gonz\u00e1lez Sacerdote domenicano, martire",
+        "first_name": "Raimundo Casta\u00f1o Gonz\u00e1lez",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Rainerio (Raniero) di Cagli Vescovo",
+        "first_name": "Rainerio (Raniero) di Cagli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Ramberto (o Ragneberto) Martire",
+        "first_name": "Ramberto (o Ragneberto)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ramiro Arg\u00fcelles Hevia Sacerdote e martire",
+        "first_name": "Ramiro Arg\u00fcelles Hevia",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ram\u00f3n Cabanach Majem Sacerdote e martire",
+        "first_name": "Ram\u00f3n Cabanach Majem",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ram\u00f3n Emiliano Hortelano G\u00f3mez Martire",
+        "first_name": "Ram\u00f3n Emiliano Hortelano G\u00f3mez",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ram\u00f3n Llach Candell Sacerdote e martire",
+        "first_name": "Ram\u00f3n Llach Candell",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ram\u00f3n Orom\u00ed Sull\u00e0 Sacerdote e martire",
+        "first_name": "Ram\u00f3n Orom\u00ed Sull\u00e0",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Randolfo Ashley Religioso gesuita, martire",
+        "first_name": "Randolfo Ashley",
+        "role": "Religioso gesuita, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Ranieri di Pisa",
+        "first_name": "Ranieri di Pisa",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Raniero Vescovo",
+        "first_name": "Raniero",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raniero da Borgo Sansepolcro Francescano",
+        "first_name": "Raniero da Borgo Sansepolcro",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 11,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Raymond Gayrard Canonico di Tolosa",
+        "first_name": "Raymond Gayrard",
+        "role": "Canonico di Tolosa",
+        "dates": [
+            {
+                "month": 7,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rebecca ar-Rayyas da Himl\u00e1ya (Rafqa Pietra Choboq) Vergine",
+        "first_name": "Rebecca ar-Rayyas da Himl\u00e1ya (Rafqa Pietra Choboq)",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 3,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Regina di Alise Vergine e martire",
+        "first_name": "Regina di Alise",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Regina di Denain",
+        "first_name": "Regina di Denain",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Regina Maria (Mariam) Vattalil Vergine e martire",
+        "first_name": "Regina Maria (Mariam) Vattalil",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Regina Protmann Fondatrice",
+        "first_name": "Regina Protmann",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Reginaldo Eremita",
+        "first_name": "Reginaldo",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Reginaldo di Orleans Domenicano",
+        "first_name": "Reginaldo di Orleans",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 2,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Regintrude di Nonnberg Badessa",
+        "first_name": "Regintrude di Nonnberg",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 5,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Regolo Vescovo",
+        "first_name": "Regolo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Reinilde, Grimoaldo e Gondolfo Martiri",
+        "first_name": "Reinilde, Grimoaldo e Gondolfo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Remaclo (Rimagilo) di Stavelot Abate",
+        "first_name": "Remaclo (Rimagilo) di Stavelot",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Remberto Vescovo di Amburgo e Brema",
+        "first_name": "Remberto",
+        "role": "Vescovo di Amburgo e Brema",
+        "dates": [
+            {
+                "month": 6,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Remedio di Gap Vescovo",
+        "first_name": "Remedio di Gap",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Remigio Arcivescovo di Rouen",
+        "first_name": "Remigio",
+        "role": "Arcivescovo di Rouen",
+        "dates": [
+            {
+                "month": 1,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Remigio di Reims Vescovo",
+        "first_name": "Remigio di Reims",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Remigio Isor\u00e9 Sacerdote gesuita, martire",
+        "first_name": "Remigio Isor\u00e9",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Renata Maria Feillatreau Martire",
+        "first_name": "Renata Maria Feillatreau",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Renato di Angers Vescovo",
+        "first_name": "Renato di Angers",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Renato di Sorrento Vescovo",
+        "first_name": "Renato di Sorrento",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Renato Dubroux Sacerdote e martire",
+        "first_name": "Renato Dubroux",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Renato Giuseppe Urvoy Sacerdote e martire",
+        "first_name": "Renato Giuseppe Urvoy",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Renato Goupil Martire",
+        "first_name": "Renato Goupil",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Renato Maria Andrieux Sacerdote gesuita, martire",
+        "first_name": "Renato Maria Andrieux",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Renilde Badessa",
+        "first_name": "Renilde",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Reparata di Cesarea di Palestina Martire",
+        "first_name": "Reparata di Cesarea di Palestina",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Restituta Madre di S. Eusebio di Vercelli",
+        "first_name": "Restituta",
+        "role": "Madre di S. Eusebio di Vercelli",
+        "dates": [
+            {
+                "month": 5,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Restituta d'Africa (o di Teniza) Martire",
+        "first_name": "Restituta d'Africa (o di Teniza)",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Restituta Kafka Vergine e martire",
+        "first_name": "Restituta Kafka",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Restituto di Cagliari Vescovo e martire",
+        "first_name": "Restituto di Cagliari",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Restituto di Cartagine Vescovo e martire",
+        "first_name": "Restituto di Cartagine",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Restituto di Roma Martire",
+        "first_name": "Restituto di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Restituto di Saint-Paul Trois Chateaux Vescovo Senza data",
+        "first_name": "Restituto di Saint-Paul Trois Chateaux",
+        "role": "Vescovo",
+        "dates": []
+    },
+    {
+        "full_name": "Santi Restituto, Donato, Valeriano, Fruttuosa e XII compagni Martiri di Antiochia Senza data",
+        "first_name": "Restituto, Donato, Valeriano, Fruttuosa e XII compagni",
+        "role": "Martiri di Antiochia",
+        "dates": []
+    },
+    {
+        "full_name": "San Reticio Vescovo",
+        "first_name": "Reticio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 5,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Rhain Dremrudd Re gallese Senza data",
+        "first_name": "Rhain Dremrudd",
+        "role": "Re gallese",
+        "dates": []
+    },
+    {
+        "full_name": "San Rhydderch Hael Re .",
+        "first_name": "Rhydderch Hael",
+        "role": "Re",
+        "dates": []
+    },
+    {
+        "full_name": "San Ricario di Celles Sacerdote",
+        "first_name": "Ricario di Celles",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 4,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Riccarda Imperatrice",
+        "first_name": "Riccarda",
+        "role": "Imperatrice",
+        "dates": [
+            {
+                "month": 9,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo Re degli Inglesi",
+        "first_name": "Riccardo",
+        "role": "Re degli Inglesi",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Premostratense",
+        "first_name": "Riccardo",
+        "role": "Premostratense",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo (Erminio Filippo) Pampuri Religioso",
+        "first_name": "Riccardo (Erminio Filippo) Pampuri",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 5,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Bere Sacerdote certosino, martire",
+        "first_name": "Riccardo Bere",
+        "role": "Sacerdote certosino, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Centelles Abad Sacerdote e martire",
+        "first_name": "Riccardo Centelles Abad",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Riccardo de los Rios Fabregat, Giuliano Rodriguez Sanchez e Giuseppe Gimene Sacerdoti salesiani e martiri",
+        "first_name": "Riccardo de los Rios Fabregat, Giuliano Rodriguez Sanchez e Giuseppe Gimene",
+        "role": "Sacerdoti salesiani e martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo di Andria Vescovo",
+        "first_name": "Riccardo di Andria",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo di Chichester Vescovo",
+        "first_name": "Riccardo di Chichester",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 4,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo di Pontoise Martire",
+        "first_name": "Riccardo di Pontoise",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo di Sant'Anna Francescano, martire",
+        "first_name": "Riccardo di Sant'Anna",
+        "role": "Francescano, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Gil Barcelon Sacerdote e martire",
+        "first_name": "Riccardo Gil Barcelon",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo Gwyn Martire",
+        "first_name": "Riccardo Gwyn",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Herst Martire",
+        "first_name": "Riccardo Herst",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Langhorne Avvocato, martire",
+        "first_name": "Riccardo Langhorne",
+        "role": "Avvocato, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Langley Martire",
+        "first_name": "Riccardo Langley",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Riccardo Leigh, Edoardo Shelley, Riccardo Martin e Giovanni Roche Martiri",
+        "first_name": "Riccardo Leigh, Edoardo Shelley, Riccardo Martin e Giovanni Roche",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Lloyd Giovane laico, martire",
+        "first_name": "Riccardo Lloyd",
+        "role": "Giovane laico, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Riccardo Sargeant e Guglielmo Thomson Martiri",
+        "first_name": "Riccardo Sargeant e Guglielmo Thomson",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Thirkeld Sacerdote e martire",
+        "first_name": "Riccardo Thirkeld",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 5,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Riccardo Whiting, Roger James e Giovanni Thorne Martiri",
+        "first_name": "Riccardo Whiting, Roger James e Giovanni Thorne",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rictrude Sposa, badessa",
+        "first_name": "Rictrude",
+        "role": "Sposa, badessa",
+        "dates": [
+            {
+                "month": 5,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Rigaldo Martire benedettino ?",
+        "first_name": "Rigaldo",
+        "role": "Martire benedettino ?",
+        "dates": [
+            {
+                "month": 10,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Rigoberto di Reims Vescovo",
+        "first_name": "Rigoberto di Reims",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Rigomero Vescovo",
+        "first_name": "Rigomero",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rinaldo da Concorezzo Vescovo",
+        "first_name": "Rinaldo da Concorezzo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Rinaldo di Colonia Monaco",
+        "first_name": "Rinaldo di Colonia",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 1,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Rinaldo di Nocera Umbra Vescovo",
+        "first_name": "Rinaldo di Nocera Umbra",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Ripsima, Gaiana e compagne Martiri in Armenia",
+        "first_name": "Ripsima, Gaiana e compagne",
+        "role": "Martiri in Armenia",
+        "dates": [
+            {
+                "month": 9,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rita Amata di Ges\u00f9 (Rita L\u00f3pez de Almeida) Fondatrice",
+        "first_name": "Rita Amata di Ges\u00f9 (Rita L\u00f3pez de Almeida)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rita da Cascia Vedova e religiosa",
+        "first_name": "Rita da Cascia",
+        "role": "Vedova e religiosa",
+        "dates": [
+            {
+                "month": 5,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rita Dolores Pujalte Sanchez Suora, martire in Spagna",
+        "first_name": "Rita Dolores Pujalte Sanchez",
+        "role": "Suora, martire in Spagna",
+        "dates": [
+            {
+                "month": 7,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rizziero della Muccia",
+        "first_name": "Rizziero della Muccia",
+        "role": null,
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Robaldo Rambaudi Domenicano",
+        "first_name": "Robaldo Rambaudi",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Robert Thorpe e Tommaso Watkinson Martiri",
+        "first_name": "Robert Thorpe e Tommaso Watkinson",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 5,
+                "day": 31
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Roberto Anderton e Guglielmo Marsden Martiri",
+        "first_name": "Roberto Anderton e Guglielmo Marsden",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto Bellarmino Vescovo e dottore della Chiesa",
+        "first_name": "Roberto Bellarmino",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto d'Arbrissel Sacerdote",
+        "first_name": "Roberto d'Arbrissel",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 2,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto da Salle (di Sala)",
+        "first_name": "Roberto da Salle (di Sala)",
+        "role": null,
+        "dates": [
+            {
+                "month": 7,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto di Bury St. Edmund\u2019s Fanciullo, martire",
+        "first_name": "Roberto di Bury St. Edmund\u2019s",
+        "role": "Fanciullo, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto di La Chaise-Dieu Abate",
+        "first_name": "Roberto di La Chaise-Dieu",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto di Matallana Abate cistercense",
+        "first_name": "Roberto di Matallana",
+        "role": "Abate cistercense",
+        "dates": [
+            {
+                "month": 12,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto di Molesme Abate di Citeaux",
+        "first_name": "Roberto di Molesme",
+        "role": "Abate di Citeaux",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto di Newminster Abate cistercense",
+        "first_name": "Roberto di Newminster",
+        "role": "Abate cistercense",
+        "dates": [
+            {
+                "month": 6,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto Drury Martire",
+        "first_name": "Roberto Drury",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Roberto Middleton e Thurston Hunt Martiri",
+        "first_name": "Roberto Middleton e Thurston Hunt",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 4,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto Montserrat Beliart Sacerdote e martire",
+        "first_name": "Roberto Montserrat Beliart",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto Nutter Sacerdote domenicano, martire",
+        "first_name": "Roberto Nutter",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto Salt Monaco certosino, martire",
+        "first_name": "Roberto Salt",
+        "role": "Monaco certosino, martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto Southwell Sacerdote gesuita, martire",
+        "first_name": "Roberto Southwell",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto Sutton Martire",
+        "first_name": "Roberto Sutton",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Roberto Watkinson Sacerdote, martire",
+        "first_name": "Roberto Watkinson",
+        "role": "Sacerdote, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Rocco Terziario francescano, Pellegrino e Taumaturgo",
+        "first_name": "Rocco",
+        "role": "Terziario francescano, Pellegrino e Taumaturgo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Rocco Gonz\u00e1lez de Santa Cruz Sacerdote gesuita, martire",
+        "first_name": "Rocco Gonz\u00e1lez de Santa Cruz",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Rodingo di Beaulieu Abate",
+        "first_name": "Rodingo di Beaulieu",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 9,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Rodobaldo II (Cipolla) di Pavia Vescovo",
+        "first_name": "Rodobaldo II (Cipolla) di Pavia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Rodolfo Vescovo",
+        "first_name": "Rodolfo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rodolfo Abate Senza data",
+        "first_name": "Rodolfo",
+        "role": "Abate",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Rodolfo Monaco vallombrosano",
+        "first_name": "Rodolfo",
+        "role": "Monaco vallombrosano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rodolfo Acquaviva Gesuita, martire",
+        "first_name": "Rodolfo Acquaviva",
+        "role": "Gesuita, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Rodolfo Corby e Giovanni Duckett Martiri",
+        "first_name": "Rodolfo Corby e Giovanni Duckett",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Rodolfo Crockett ed Edoardo James Martiri",
+        "first_name": "Rodolfo Crockett ed Edoardo James",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rodolfo di Berna Martire",
+        "first_name": "Rodolfo di Berna",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rodolfo Sanz Mercedario",
+        "first_name": "Rodolfo Sanz",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 6,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "San Rodolfo Sherwin Sacerdote e martire",
+        "first_name": "Rodolfo Sherwin",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Rodrigo Aguilar Alem\u00e1n Sacerdote e martire",
+        "first_name": "Rodrigo Aguilar Alem\u00e1n",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Rodrigo di Cordova Sacerdote e martire",
+        "first_name": "Rodrigo di Cordova",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Rogaziano Martire a Nantes",
+        "first_name": "Rogaziano",
+        "role": "Martire a Nantes",
+        "dates": [
+            {
+                "month": 5,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Rogaziano e Felicissimo Martiri",
+        "first_name": "Rogaziano e Felicissimo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Rogelio e Serviodeo di Cordova Martiri",
+        "first_name": "Rogelio e Serviodeo di Cordova",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rolando (Orlando) de' Medici Eremita",
+        "first_name": "Rolando (Orlando) de' Medici",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rolando Rivi Seminarista, martire",
+        "first_name": "Rolando Rivi",
+        "role": "Seminarista, martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Rolando, Oliviero e compagni Paladini di Francia, martiri .",
+        "first_name": "Rolando, Oliviero e compagni",
+        "role": "Paladini di Francia, martiri",
+        "dates": []
+    },
+    {
+        "full_name": "Santa Rolenda (Rollanda) Figlia di Ugo Capeto .",
+        "first_name": "Rolenda (Rollanda)",
+        "role": "Figlia di Ugo Capeto",
+        "dates": []
+    },
+    {
+        "full_name": "San Romacario Vescovo",
+        "first_name": "Romacario",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Roman Adame Rosales Sacerdote e martire",
+        "first_name": "Roman Adame Rosales",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Romana Venerata a Todi",
+        "first_name": "Romana",
+        "role": "Venerata a Todi",
+        "dates": [
+            {
+                "month": 2,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano Monaco a Subiaco",
+        "first_name": "Romano",
+        "role": "Monaco a Subiaco",
+        "dates": [
+            {
+                "month": 5,
+                "day": 22
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Romano (Roman) Archutowski Sacerdote e martire",
+        "first_name": "Romano (Roman) Archutowski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 4,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Romano (Roman) Lysko Sacerdote e martire",
+        "first_name": "Romano (Roman) Lysko",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Romano (Roman) Sitko Sacerdote e martire",
+        "first_name": "Romano (Roman) Sitko",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano di Antiochia Diacono e martire",
+        "first_name": "Romano di Antiochia",
+        "role": "Diacono e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano di Auxerre Vescovo",
+        "first_name": "Romano di Auxerre",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano di Blaye",
+        "first_name": "Romano di Blaye",
+        "role": null,
+        "dates": [
+            {
+                "month": 11,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano di Condat Abate",
+        "first_name": "Romano di Condat",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano di Roma Martire",
+        "first_name": "Romano di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano di Rouen Vescovo",
+        "first_name": "Romano di Rouen",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Romano il Melode Confessore",
+        "first_name": "Romano il Melode",
+        "role": "Confessore",
+        "dates": [
+            {
+                "month": 10,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Romarico Abate ven. a Remiremont",
+        "first_name": "Romarico",
+        "role": "Abate ven. a Remiremont",
+        "dates": [
+            {
+                "month": 12,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Romedio Eremita",
+        "first_name": "Romedio",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 1,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Romolo Sacerdote e abate",
+        "first_name": "Romolo",
+        "role": "Sacerdote e abate",
+        "dates": [
+            {
+                "month": 11,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Romolo Diacono venerato a Atripalda",
+        "first_name": "Romolo",
+        "role": "Diacono venerato a Atripalda",
+        "dates": [
+            {
+                "month": 9,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Romolo di Fiesole Vescovo e martire",
+        "first_name": "Romolo di Fiesole",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Romolo di Genova Vescovo",
+        "first_name": "Romolo di Genova",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Romualdo Abate",
+        "first_name": "Romualdo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 6,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Ronan (Ronano) di Quimper Vescovo",
+        "first_name": "Ronan (Ronano) di Quimper",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosa da Lima Vergine",
+        "first_name": "Rosa da Lima",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 8,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rosa da Viterbo Vergine",
+        "first_name": "Rosa da Viterbo",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 3,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosa Fan Hui Vergine e martire",
+        "first_name": "Rosa Fan Hui",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosa Francesca Maria Addolorata (Maria Rosa) Molas Vallv\u00e9 Vergine, Fondatrice",
+        "first_name": "Rosa Francesca Maria Addolorata (Maria Rosa) Molas Vallv\u00e9",
+        "role": "Vergine, Fondatrice",
+        "dates": [
+            {
+                "month": 6,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosa Venerini Vergine",
+        "first_name": "Rosa Venerini",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 5,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosalia Vergine, eremita di Palermo",
+        "first_name": "Rosalia",
+        "role": "Vergine, eremita di Palermo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rosalia (Giovanna Maria) Rendu Vergine",
+        "first_name": "Rosalia (Giovanna Maria) Rendu",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 2,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rosalia du Verdier de la Soriniere Vergine e martire",
+        "first_name": "Rosalia du Verdier de la Soriniere",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rosamunda",
+        "first_name": "Rosamunda",
+        "role": null,
+        "dates": [
+            {
+                "month": 4,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beate Rosaria (Piera Maria Vittoria) Quintana Argos e Serafina (Emanuela Giusta) Fernandez Ibero Vergini e martiri",
+        "first_name": "Rosaria (Piera Maria Vittoria) Quintana Argos e Serafina (Emanuela Giusta) Fernandez Ibero",
+        "role": "Vergini e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Roselina di Villeneuve Vergine e monaca certosina",
+        "first_name": "Roselina di Villeneuve",
+        "role": "Vergine e monaca certosina",
+        "dates": [
+            {
+                "month": 1,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rosina di Wenglingen Vergine, martire",
+        "first_name": "Rosina di Wenglingen",
+        "role": "Vergine, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Ruben di Ges\u00f9 Lopez Aguilar e sei compagni Religiosi e martiri",
+        "first_name": "Ruben di Ges\u00f9 Lopez Aguilar e sei compagni",
+        "role": "Religiosi e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Rubil (Ruben) Monaco",
+        "first_name": "Rubil (Ruben)",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 8,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Rudesindo Vescovo",
+        "first_name": "Rudesindo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufillo di Forlimpopoli Vescovo",
+        "first_name": "Rufillo di Forlimpopoli",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 7,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rufina Martire di Siviglia",
+        "first_name": "Rufina",
+        "role": "Martire di Siviglia",
+        "dates": [
+            {
+                "month": 7,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Rufina e Seconda Martiri di Roma",
+        "first_name": "Rufina e Seconda",
+        "role": "Martiri di Roma",
+        "dates": [
+            {
+                "month": 7,
+                "day": 10
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufiniano di Bayeux Vescovo",
+        "first_name": "Rufiniano di Bayeux",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufino Venerato a Mantova",
+        "first_name": "Rufino",
+        "role": "Venerato a Mantova",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufino di Assisi Vescovo e martire",
+        "first_name": "Rufino di Assisi",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufo",
+        "first_name": "Rufo",
+        "role": null,
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufo Martire",
+        "first_name": "Rufo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 17
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufo (Rufino) Martire, venerato a Capua",
+        "first_name": "Rufo (Rufino)",
+        "role": "Martire, venerato a Capua",
+        "dates": [
+            {
+                "month": 8,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufo di Avignone Vescovo",
+        "first_name": "Rufo di Avignone",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufo di Metz Vescovo",
+        "first_name": "Rufo di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ruggero Cadwallador Martire",
+        "first_name": "Ruggero Cadwallador",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Ruggero di Canne Vescovo",
+        "first_name": "Ruggero di Canne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ruggero di Todi",
+        "first_name": "Ruggero di Todi",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 5
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Ruggero Dickinson, Rodolfo Milner e Lorenzo Humphrey Martiri",
+        "first_name": "Ruggero Dickinson, Rodolfo Milner e Lorenzo Humphrey",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 7,
+                "day": 7
+            }
+        ]
+    },
+    {
+        "full_name": "San Ruggero d\u2019\u00c9lan Abate",
+        "first_name": "Ruggero d\u2019\u00c9lan",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ruggero Filcock Sacerdote gesuita, martire",
+        "first_name": "Ruggero Filcock",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Ruidche Vergine irlandese",
+        "first_name": "Ruidche",
+        "role": "Vergine irlandese",
+        "dates": [
+            {
+                "month": 2,
+                "day": 8
+            }
+        ]
+    },
+    {
+        "full_name": "San Rumoldo di Mechelen Martire",
+        "first_name": "Rumoldo di Mechelen",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Ruperto Vescovo",
+        "first_name": "Ruperto",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Ruperto di Bingen Eremita",
+        "first_name": "Ruperto di Bingen",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 5,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ruperto di Ottobeuren Abate",
+        "first_name": "Ruperto di Ottobeuren",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ruperto Mayer Martire",
+        "first_name": "Ruperto Mayer",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 1
+            }
+        ]
+    },
+    {
+        "full_name": "San Rustico di Clermont Vescovo",
+        "first_name": "Rustico di Clermont",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Rustico di Narbonne Vescovo",
+        "first_name": "Rustico di Narbonne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rusticola di Arles Badessa",
+        "first_name": "Rusticola di Arles",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 11
+            }
+        ]
+    },
+    {
+        "full_name": "San Rutilio Martire",
+        "first_name": "Rutilio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 2
+            }
+        ]
+    }
+]

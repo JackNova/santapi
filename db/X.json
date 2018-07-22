@@ -1,0 +1,46 @@
+[
+    {
+        "full_name": "San Xacatur di Tigranakert Martire Armeno",
+        "first_name": "Xacatur di Tigranakert",
+        "role": "Martire Armeno",
+        "dates": [
+            {
+                "month": 8,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Xenia (Eusebia di Milasa) Vergine",
+        "first_name": "Xenia (Eusebia di Milasa)",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "San Xi Guizi Giovane catecumeno, martire",
+        "first_name": "Xi Guizi",
+        "role": "Giovane catecumeno, martire",
+        "dates": [
+            {
+                "month": 7,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Xumpo (Michele) Martire in Giappone",
+        "first_name": "Xumpo (Michele)",
+        "role": "Martire in Giappone",
+        "dates": [
+            {
+                "month": 9,
+                "day": 10
+            }
+        ]
+    }
+]
