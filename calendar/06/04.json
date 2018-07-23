@@ -1,0 +1,156 @@
+[
+    {
+        "full_name": "Sant' Alonio Anacoreta",
+        "first_name": "Alonio",
+        "role": "Anacoreta",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Antonio Zawistowski e Stanislao Starowieyski Martiri",
+        "first_name": "Antonio Zawistowski e Stanislao Starowieyski",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Filippo Smaldone Sacerdote",
+        "first_name": "Filippo Smaldone",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Francesco Caracciolo Sacerdote",
+        "first_name": "Francesco Caracciolo",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francesco Pianzola Sacerdote e fondatore",
+        "first_name": "Francesco Pianzola",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Gualterio Abate",
+        "first_name": "Gualterio",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Menda Isategui Vergine mercedaria",
+        "first_name": "Menda Isategui",
+        "role": "Vergine mercedaria",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Metrofane di Bisanzio Vescovo",
+        "first_name": "Metrofane di Bisanzio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Nicola e Trano Anacoreti",
+        "first_name": "Nicola e Trano",
+        "role": "Anacoreti",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ottato di Milevi Vescovo",
+        "first_name": "Ottato di Milevi",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pacifico Ramati da Cerano",
+        "first_name": "Pacifico Ramati da Cerano",
+        "role": null,
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Petroc Abate",
+        "first_name": "Petroc",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Quirino di Siscia Vescovo e martire",
+        "first_name": "Quirino di Siscia",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    },
+    {
+        "full_name": "San Quirino di Tivoli Martire",
+        "first_name": "Quirino di Tivoli",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 6,
+                "day": 4
+            }
+        ]
+    }
+]

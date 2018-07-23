@@ -1,0 +1,332 @@
+[
+    {
+        "full_name": "Beato Andrea Laurenzo",
+        "first_name": "Andrea Laurenzo",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Andrea Zadeja Sacerdote e martire",
+        "first_name": "Andrea Zadeja",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Arnaldo de Amer Maestro Generale dell\u2019Ordine Mercedario",
+        "first_name": "Arnaldo de Amer",
+        "role": "Maestro Generale dell\u2019Ordine Mercedario",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Aroldo di Gloucester Martire",
+        "first_name": "Aroldo di Gloucester",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Dismas, il Buon Ladrone",
+        "first_name": "Dismas, il Buon Ladrone",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Dula Martire di Nicomedia",
+        "first_name": "Dula",
+        "role": "Martire di Nicomedia",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ermelando Abate di Aindre",
+        "first_name": "Ermelando",
+        "role": "Abate di Aindre",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Everardo di Nellemburg Monaco",
+        "first_name": "Everardo di Nellemburg",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francesco Bruno Francescano",
+        "first_name": "Francesco Bruno",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giacomo Bird Martire",
+        "first_name": "Giacomo Bird",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guglielmo di Norwich Fanciullo, martire",
+        "first_name": "Guglielmo di Norwich",
+        "role": "Fanciullo, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ilarione (Pawel) Januszewski",
+        "first_name": "Ilarione (Pawel) Januszewski",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Isacco Patriarca",
+        "first_name": "Isacco",
+        "role": "Patriarca",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Josaphata Michaelina Hordashevska",
+        "first_name": "Josaphata Michaelina Hordashevska",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Lucia Filippini Vergine",
+        "first_name": "Lucia Filippini",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Margherita Clitherow Martire in Inghilterra",
+        "first_name": "Margherita Clitherow",
+        "role": "Martire in Inghilterra",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Maria Alfonsina (Mariam Sultaneh) Danil Ghattas Religiosa e fondatrice",
+        "first_name": "Maria Alfonsina (Mariam Sultaneh) Danil Ghattas",
+        "role": "Religiosa e fondatrice",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria Rosa (Margaretha) Flesch Fondatrice",
+        "first_name": "Maria Rosa (Margaretha) Flesch",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Matrona di Tessalonica Martire",
+        "first_name": "Matrona di Tessalonica",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Mona di Milano Vescovo",
+        "first_name": "Mona di Milano",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Nicodemo di Mammola Asceta",
+        "first_name": "Nicodemo di Mammola",
+        "role": "Asceta",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Omeljan (Emilian) Kovc Parroco",
+        "first_name": "Omeljan (Emilian) Kovc",
+        "role": "Parroco",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pelagio di Laodicea Vescovo",
+        "first_name": "Pelagio di Laodicea",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Formica Mercedario",
+        "first_name": "Pietro Formica",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Placido Riccardi Benedettino",
+        "first_name": "Placido Riccardi",
+        "role": "Benedettino",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Procopio di Sazava Abate",
+        "first_name": "Procopio di Sazava",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Quirino di Roma Martire",
+        "first_name": "Quirino di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Riccardo di Pontoise Martire",
+        "first_name": "Riccardo di Pontoise",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Roberto di Bury St. Edmund\u2019s Fanciullo, martire",
+        "first_name": "Roberto di Bury St. Edmund\u2019s",
+        "role": "Fanciullo, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Tommaso da Costacciaro Eremita camaldolese",
+        "first_name": "Tommaso da Costacciaro",
+        "role": "Eremita camaldolese",
+        "dates": [
+            {
+                "month": 3,
+                "day": 25
+            }
+        ]
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "full_name": "Sant' Adelaide Imperatrice",
+        "first_name": "Adelaide",
+        "role": "Imperatrice",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Adelardo Monaco",
+        "first_name": "Adelardo",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Adone di Vienne Vescovo",
+        "first_name": "Adone di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Aggeo Profeta",
+        "first_name": "Aggeo",
+        "role": "Profeta",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Albina Martire",
+        "first_name": "Albina",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bartolomeo (Meo) da Firenze Francescano",
+        "first_name": "Bartolomeo (Meo) da Firenze",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Beano",
+        "first_name": "Beano",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Boboleno (o Bobuleno) di Bobbio Abate",
+        "first_name": "Boboleno (o Bobuleno) di Bobbio",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Clemente Marchisio Sacerdote e fondatore",
+        "first_name": "Clemente Marchisio",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Domenico Dosso Mercedario",
+        "first_name": "Domenico Dosso",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Elisabetta di San Francesco Clarissa",
+        "first_name": "Elisabetta di San Francesco",
+        "role": "Clarissa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Everardo del Friuli Marchese",
+        "first_name": "Everardo del Friuli",
+        "role": "Marchese",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Filippo Siphong Onphitak Protomartire della Thailandia",
+        "first_name": "Filippo Siphong Onphitak",
+        "role": "Protomartire della Thailandia",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Giacomo e Adolfo Martiri mercedari",
+        "first_name": "Giacomo e Adolfo",
+        "role": "Martiri mercedari",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giovanni Wauthier Sacerdote e martire",
+        "first_name": "Giovanni Wauthier",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Macario di Collesano Monaco",
+        "first_name": "Macario di Collesano",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria degli Angeli (Marianna Fontanella) Vergine carmelitana",
+        "first_name": "Maria degli Angeli (Marianna Fontanella)",
+        "role": "Vergine carmelitana",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Sante Martiri d'Africa",
+        "first_name": "Martiri d'Africa",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Martiri del Laos",
+        "first_name": "Martiri del Laos",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Onorato (Venceslao) Kazminsky Cappuccino",
+        "first_name": "Onorato (Venceslao) Kazminsky",
+        "role": "Cappuccino",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano Maggi Sacerdote",
+        "first_name": "Sebastiano Maggi",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 12,
+                "day": 16
+            }
+        ]
+    }
+]

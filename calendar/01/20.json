@@ -1,0 +1,233 @@
+[
+    {
+        "full_name": "San Fabiano Papa e martire",
+        "first_name": "Fabiano",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebastiano Martire",
+        "first_name": "Sebastiano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Angelo (Francesco) Paoli Sacerdote carmelitano",
+        "first_name": "Angelo (Francesco) Paoli",
+        "role": "Sacerdote carmelitano",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ascla Martire",
+        "first_name": "Ascla",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Basilio Antonio Maria Moreau Sacerdote e fondatore",
+        "first_name": "Basilio Antonio Maria Moreau",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Benedetto Ricasoli da Coltibuono Eremita",
+        "first_name": "Benedetto Ricasoli da Coltibuono",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bernardo di Poncelli Mercedario",
+        "first_name": "Bernardo di Poncelli",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Cipriano Michele Iwene Tansi Religioso",
+        "first_name": "Cipriano Michele Iwene Tansi",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Enrico di Uppsala Vescovo e martire",
+        "first_name": "Enrico di Uppsala",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Eusebio Eremita",
+        "first_name": "Eusebio",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Eustochia (Smeralda) Calafato di Messina",
+        "first_name": "Eustochia (Smeralda) Calafato di Messina",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Eutimio Abate",
+        "first_name": "Eutimio",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Fabiano Papa e martire",
+        "first_name": "Fabiano",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Fechin di Fobhar Abate",
+        "first_name": "Fechin di Fobhar",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Madonna del Miracolo Venerata a Roma",
+        "first_name": "Venerata a Roma",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Maria Cristina dell'Immacolata Concezione (Adelaide Brando) Religiosa e fondatrice",
+        "first_name": "Maria Cristina dell'Immacolata Concezione (Adelaide Brando)",
+        "role": "Religiosa e fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Molacca Monaco",
+        "first_name": "Molacca",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Neofito di Nicea Martire",
+        "first_name": "Neofito di Nicea",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebastiano Martire",
+        "first_name": "Sebastiano",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santo Stefano Min Kuk-ka Catechista e martire",
+        "first_name": "Stefano Min Kuk-ka",
+        "role": "Catechista e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Vulstano di Worcester Vescovo",
+        "first_name": "Vulstano di Worcester",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 20
+            }
+        ]
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "full_name": "Sant' Archinrico di Montmajour Abate",
+        "first_name": "Archinrico di Montmajour",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Elia, Geremia, Isaia, Samuele e Daniele e compagni Martiri",
+        "first_name": "Elia, Geremia, Isaia, Samuele e Daniele e compagni",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Filippa Mareri Vergine",
+        "first_name": "Filippa Mareri",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Giuliana di Nicomedia Vergine e martire",
+        "first_name": "Giuliana di Nicomedia",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giuseppe Allamano Sacerdote, Fondatore",
+        "first_name": "Giuseppe Allamano",
+        "role": "Sacerdote, Fondatore",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Luigi Antonio Ormi\u00e8res Sacerdote e fondatore",
+        "first_name": "Luigi Antonio Ormi\u00e8res",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 1,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Mariano Arciero Sacerdote",
+        "first_name": "Mariano Arciero",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Maruta Vescovo",
+        "first_name": "Maruta",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Nicola Paglia Sacerdote domenicano",
+        "first_name": "Nicola Paglia",
+        "role": "Sacerdote domenicano",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Panfilo e compagni Martiri di Cesarea di Palestina",
+        "first_name": "Panfilo e compagni",
+        "role": "Martiri di Cesarea di Palestina",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "San Simeone di Metz Vescovo",
+        "first_name": "Simeone di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 16
+            }
+        ]
+    }
+]

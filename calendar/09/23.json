@@ -1,0 +1,292 @@
+[
+    {
+        "full_name": "San Pio da Pietrelcina (Francesco Forgione) Sacerdote cappuccino",
+        "first_name": "Pio da Pietrelcina (Francesco Forgione)",
+        "role": "Sacerdote cappuccino",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Adamnano Abate",
+        "first_name": "Adamnano",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Alfonso da Burgos Mercedario",
+        "first_name": "Alfonso da Burgos",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Alfwold Re di Northumbria, martire",
+        "first_name": "Alfwold",
+        "role": "Re di Northumbria, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Andrea, Giovanni, Pietro e Antonio Martiri",
+        "first_name": "Andrea, Giovanni, Pietro e Antonio",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Bernardina Maria Jablonska Fondatrice",
+        "first_name": "Bernardina Maria Jablonska",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Costanzo di Ancona",
+        "first_name": "Costanzo di Ancona",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Cristoforo, Antonio e Giovanni Adolescenti, protomartiri d'America",
+        "first_name": "Cristoforo, Antonio e Giovanni",
+        "role": "Adolescenti, protomartiri d'America",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Diego Morata Cano Sacerdote e martire",
+        "first_name": "Diego Morata Cano",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Elena Duglioli Dall\u2019Olio Vedova",
+        "first_name": "Elena Duglioli Dall\u2019Olio",
+        "role": "Vedova",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Elisabetta Madre di Giovanni Battista",
+        "first_name": "Elisabetta",
+        "role": "Madre di Giovanni Battista",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Emilie Tavernier Gamelin",
+        "first_name": "Emilie Tavernier Gamelin",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francisco de Paula Victor Sacerdote",
+        "first_name": "Francisco de Paula Victor",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giuseppe Stanek Sacerdote pallottino, martire",
+        "first_name": "Giuseppe Stanek",
+        "role": "Sacerdote pallottino, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guglielmo Way Martire",
+        "first_name": "Guglielmo Way",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Lino Papa e martire",
+        "first_name": "Lino",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Acotanto Monaco",
+        "first_name": "Pietro Acotanto",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Pio da Pietrelcina (Francesco Forgione) Sacerdote cappuccino",
+        "first_name": "Pio da Pietrelcina (Francesco Forgione)",
+        "role": "Sacerdote cappuccino",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beate Purificazione di San Giuseppe Ximenez Ximenez e Maria Giuseppa di Santa Sofia Del Rio Messa Vergini e martiri",
+        "first_name": "Purificazione di San Giuseppe Ximenez Ximenez e Maria Giuseppa di Santa Sofia Del Rio Messa",
+        "role": "Vergini e martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Rebecca Moglie d\u2019Isacco",
+        "first_name": "Rebecca",
+        "role": "Moglie d\u2019Isacco",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            },
+            {
+                "month": 12,
+                "day": 24
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Sofia Ximenez Ximenez Madre di famiglia, martire",
+        "first_name": "Sofia Ximenez Ximenez",
+        "role": "Madre di famiglia, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Sosso (Sossio, Sosio) di Miseno Martire",
+        "first_name": "Sosso (Sossio, Sosio) di Miseno",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Tecla di Iconio Martire",
+        "first_name": "Tecla di Iconio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Ulpia Vittoria Martire venerata a Chiusi",
+        "first_name": "Ulpia Vittoria",
+        "role": "Martire venerata a Chiusi",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Vincenzo Ballester Far Sacerdote e martire",
+        "first_name": "Vincenzo Ballester Far",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Zaccaria Padre di Giovanni Battista",
+        "first_name": "Zaccaria",
+        "role": "Padre di Giovanni Battista",
+        "dates": [
+            {
+                "month": 9,
+                "day": 23
+            }
+        ]
+    }
+]

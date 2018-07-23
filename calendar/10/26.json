@@ -1,0 +1,250 @@
+[
+    {
+        "full_name": "Sant' Alfredo il Grande Re del Wessex",
+        "first_name": "Alfredo il Grande",
+        "role": "Re del Wessex",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Alor di Quimper Vescovo",
+        "first_name": "Alor di Quimper",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Amando di Strasburgo Vescovo",
+        "first_name": "Amando di Strasburgo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Aptonio di Angouleme Vescovo",
+        "first_name": "Aptonio di Angouleme",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Arnaldo da Queralt Mercedario",
+        "first_name": "Arnaldo da Queralt",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Beano di Mortlach Vescovo",
+        "first_name": "Beano di Mortlach",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bernardo de Figuerols Mercedario",
+        "first_name": "Bernardo de Figuerols",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bonaventura da Potenza Francescano Conventuale",
+        "first_name": "Bonaventura da Potenza",
+        "role": "Francescano Conventuale",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Cedda Vescovo",
+        "first_name": "Cedda",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Celina Chludzinska Borzecka Vedova, fondatrice",
+        "first_name": "Celina Chludzinska Borzecka",
+        "role": "Vedova, fondatrice",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Damiano da Finale Domenicano",
+        "first_name": "Damiano da Finale",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Eata di Hexham Vescovo",
+        "first_name": "Eata di Hexham",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Eliavo Martire in Bretagna",
+        "first_name": "Eliavo",
+        "role": "Martire in Bretagna",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Folco Scotti di Piacenza e Pavia Vescovo",
+        "first_name": "Folco Scotti di Piacenza e Pavia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Gaudioso (Gaudino) di Salerno Vescovo",
+        "first_name": "Gaudioso (Gaudino) di Salerno",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giuseppe Papamihali Sacerdote e martire",
+        "first_name": "Giuseppe Papamihali",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Luciano e Marciano Martiri, venerati a Vich",
+        "first_name": "Luciano e Marciano",
+        "role": "Martiri, venerati a Vich",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Mauro di Piacenza Vescovo",
+        "first_name": "Mauro di Piacenza",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Orsa Vergine e martire venerata a Pieve Vergonte 26 e ultima domenica di ottobre",
+        "first_name": "Orsa",
+        "role": "Vergine e martire venerata a Pieve Vergonte",
+        "dates": []
+    },
+    {
+        "full_name": "Santi Rogaziano e Felicissimo Martiri",
+        "first_name": "Rogaziano e Felicissimo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Rustico di Narbonne Vescovo",
+        "first_name": "Rustico di Narbonne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Sigebaldo di Metz Vescovo",
+        "first_name": "Sigebaldo di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    },
+    {
+        "full_name": "San Witta (o Vitta o Albino) Vescovo",
+        "first_name": "Witta (o Vitta o Albino)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 26
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "full_name": "San Nicola di Mira (di Bari) Vescovo",
+        "first_name": "Nicola di Mira (di Bari)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Angelica da Milazzo Terziaria",
+        "first_name": "Angelica da Milazzo",
+        "role": "Terziaria",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Apollinare di Trieste Martire",
+        "first_name": "Apollinare di Trieste",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Asella di Roma Vergine",
+        "first_name": "Asella di Roma",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Dionisia, Dativa, Leonzia, Terzo, Emiliano, Bonifacio, Maiorico e Servo Martiri",
+        "first_name": "Dionisia, Dativa, Leonzia, Terzo, Emiliano, Bonifacio, Maiorico e Servo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Eliodoro Ramos Garcia Coadiutore salesiano, martire",
+        "first_name": "Eliodoro Ramos Garcia",
+        "role": "Coadiutore salesiano, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Giuseppe Nguyen Duy Khang Catechista, martire",
+        "first_name": "Giuseppe Nguyen Duy Khang",
+        "role": "Catechista, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Janos Scheffler Vescovo e martire",
+        "first_name": "Janos Scheffler",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Luisa Maria Frias Canizares Vergine e martire",
+        "first_name": "Luisa Maria Frias Canizares",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Michele Lasaga Carazo Sacerdote salesiano, martire",
+        "first_name": "Michele Lasaga Carazo",
+        "role": "Sacerdote salesiano, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Nicola di Mira (di Bari) Vescovo",
+        "first_name": "Nicola di Mira (di Bari)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Obizio da Niardo",
+        "first_name": "Obizio da Niardo",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro Pascasio (Pedro Pascual) Vescovo mercedario, martire",
+        "first_name": "Pietro Pascasio (Pedro Pascual)",
+        "role": "Vescovo mercedario, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 6
+            }
+        ]
+    }
+]

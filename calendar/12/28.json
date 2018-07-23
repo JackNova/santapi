@@ -1,0 +1,96 @@
+[
+    {
+        "full_name": "Santi Innocenti Martiri",
+        "first_name": "Innocenti",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Antonio di Lerins Monaco",
+        "first_name": "Antonio di Lerins",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Caterina Volpicelli Vergine, Fondatrice",
+        "first_name": "Caterina Volpicelli",
+        "role": "Vergine, Fondatrice",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Gaspare Del Bufalo Sacerdote, Fondatore",
+        "first_name": "Gaspare Del Bufalo",
+        "role": "Sacerdote, Fondatore",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Gregorio da Chaors Mercedario 28 docembre",
+        "first_name": "Gregorio da Chaors",
+        "role": "Mercedario",
+        "dates": []
+    },
+    {
+        "full_name": "Beato Hryhorij Khomysyn Vescovo e martire ucraino",
+        "first_name": "Hryhorij Khomysyn",
+        "role": "Vescovo e martire ucraino",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Innocenti Martiri",
+        "first_name": "Innocenti",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Mattia Nazarei (Nazzareni) Badessa clarissa",
+        "first_name": "Mattia Nazarei (Nazzareni)",
+        "role": "Badessa clarissa",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    },
+    {
+        "full_name": "San Teona (Teone) d'Alessandria Vescovo",
+        "first_name": "Teona (Teone) d'Alessandria",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 28
+            }
+        ]
+    }
+]

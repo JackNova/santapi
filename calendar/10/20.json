@@ -1,0 +1,178 @@
+[
+    {
+        "full_name": "Sant' Adelina di Mortain Badessa",
+        "first_name": "Adelina di Mortain",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Alderaldo di Troyes Arcidiacono",
+        "first_name": "Alderaldo di Troyes",
+        "role": "Arcidiacono",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Andrea in Crisi (o il Calibita) Monaco",
+        "first_name": "Andrea in Crisi (o il Calibita)",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Berengario Aleman de Bellpuig Mercedario",
+        "first_name": "Berengario Aleman de Bellpuig",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Caprasio di Agen Martire",
+        "first_name": "Caprasio di Agen",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Cornelio il centurione",
+        "first_name": "Cornelio il centurione",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Diego de Cervantes Mercedario",
+        "first_name": "Diego de Cervantes",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giacomo degli Strepa (Strepar o Strzemie)",
+        "first_name": "Giacomo degli Strepa (Strepar o Strzemie)",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Irene del Portogallo Martire",
+        "first_name": "Irene del Portogallo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Jakob Kern Sacerdote premostratense",
+        "first_name": "Jakob Kern",
+        "role": "Sacerdote premostratense",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Leopardo di Osimo Vescovo",
+        "first_name": "Leopardo di Osimo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Maria Bertilla Boscardin Vergine",
+        "first_name": "Maria Bertilla Boscardin",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria di Ges\u00f9 Vergine mercedaria",
+        "first_name": "Maria di Ges\u00f9",
+        "role": "Vergine mercedaria",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Sindulfo (Sindolfo) Eremita",
+        "first_name": "Sindulfo (Sindolfo)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Kurti Sacerdote e martire",
+        "first_name": "Stefano Kurti",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Vitale di Salisburgo Vescovo",
+        "first_name": "Vitale di Salisburgo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 20
+            }
+        ]
+    }
+]

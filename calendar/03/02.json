@@ -1,0 +1,134 @@
+[
+    {
+        "full_name": "Sant' Agnese di Boemia Principessa, badessa",
+        "first_name": "Agnese di Boemia",
+        "role": "Principessa, badessa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Angela de la Cruz (Mar\u00eda de los \u00c1ngeles Guerrero Gonz\u00e1lez) Fondatrice",
+        "first_name": "Angela de la Cruz (Mar\u00eda de los \u00c1ngeles Guerrero Gonz\u00e1lez)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Arnolfo II di Villers Abate",
+        "first_name": "Arnolfo II di Villers",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Carlo il Buono Martire",
+        "first_name": "Carlo il Buono",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Carmelo (Girolamo Carmelo di Savoia) Mercedario, veggente, vescovo",
+        "first_name": "Carmelo (Girolamo Carmelo di Savoia)",
+        "role": "Mercedario, veggente, vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Ceadda (Chad) di Lichfield Abate e vescovo",
+        "first_name": "Ceadda (Chad) di Lichfield",
+        "role": "Abate e vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Engelmaro (Hubert) Unzeitig Sacerdote e martire",
+        "first_name": "Engelmaro (Hubert) Unzeitig",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Lorgio Martire",
+        "first_name": "Lorgio",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Luca Casali da Nicosia Abate",
+        "first_name": "Luca Casali da Nicosia",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Prospero di Como Vescovo",
+        "first_name": "Prospero di Como",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Quinto il Taumaturgo",
+        "first_name": "Quinto il Taumaturgo",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    },
+    {
+        "full_name": "San Troade Martire",
+        "first_name": "Troade",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 2
+            }
+        ]
+    }
+]

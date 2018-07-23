@@ -1,0 +1,112 @@
+[
+    {
+        "full_name": "Sant' Alberto di Gerusalemme Vescovo e martire",
+        "first_name": "Alberto di Gerusalemme",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Antonio Rondon Mercedario",
+        "first_name": "Antonio Rondon",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Claudio Laplace Martire",
+        "first_name": "Claudio Laplace",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Crescenzio di Roma Martire",
+        "first_name": "Crescenzio di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Gabriele Taurino Dufresse Vescovo e martire",
+        "first_name": "Gabriele Taurino Dufresse",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Materno di Colonia",
+        "first_name": "Materno di Colonia",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Notburga di Eben Domestica",
+        "first_name": "Notburga di Eben",
+        "role": "Domestica",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro II di Tarantasia Vescovo",
+        "first_name": "Pietro II di Tarantasia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Placilla (\u00c6lia Flaccilla) Imperatrice",
+        "first_name": "Placilla (\u00c6lia Flaccilla)",
+        "role": "Imperatrice",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo da Moncada Mercedario",
+        "first_name": "Raimondo da Moncada",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 14
+            }
+        ]
+    }
+]

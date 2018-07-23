@@ -1,0 +1,77 @@
+[
+    {
+        "full_name": "Sant' Augusto Chapdelaine Martire in Cina",
+        "first_name": "Augusto Chapdelaine",
+        "role": "Martire in Cina",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            },
+            {
+                "month": 2,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Antonia di Firenze Badessa",
+        "first_name": "Antonia di Firenze",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            },
+            {
+                "month": 2,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Augusto Chapdelaine Martire in Cina",
+        "first_name": "Augusto Chapdelaine",
+        "role": "Martire in Cina",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            },
+            {
+                "month": 2,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ilaro Papa",
+        "first_name": "Ilaro",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            },
+            {
+                "month": 2,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Osvaldo di Worcester Vescovo",
+        "first_name": "Osvaldo di Worcester",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 2,
+                "day": 28
+            },
+            {
+                "month": 2,
+                "day": 29
+            }
+        ]
+    }
+]

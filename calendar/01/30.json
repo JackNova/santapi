@@ -1,0 +1,303 @@
+[
+    {
+        "full_name": "Beata Aberilla Vergine",
+        "first_name": "Aberilla",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Adelelmo (Elesmo) di Burgos",
+        "first_name": "Adelelmo (Elesmo) di Burgos",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Alano Magno di Lilla",
+        "first_name": "Alano Magno di Lilla",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Alda (Aldegonda) Vergine e martire",
+        "first_name": "Alda (Aldegonda)",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            },
+            {
+                "month": 10,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Armentario di Pavia Vescovo",
+        "first_name": "Armentario di Pavia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Barsimeo (Barsamya) Vescovo di Edessa",
+        "first_name": "Barsimeo (Barsamya)",
+        "role": "Vescovo di Edessa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Batilde Regina dei Franchi",
+        "first_name": "Batilde",
+        "role": "Regina dei Franchi",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bronislao Bonaventura Markiewicz Sacerdote",
+        "first_name": "Bronislao Bonaventura Markiewicz",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Carmela Garcia Moyon Martire",
+        "first_name": "Carmela Garcia Moyon",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Columba Giuseppe Marmion",
+        "first_name": "Columba Giuseppe Marmion",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Davide Galv\u00e1n Berm\u00fadez Sacerdote e martire",
+        "first_name": "Davide Galv\u00e1n Berm\u00fadez",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ferrario Mercedario",
+        "first_name": "Ferrario",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francesco Taylor Sindaco di Dublino, martire",
+        "first_name": "Francesco Taylor",
+        "role": "Sindaco di Dublino, martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Giacinta Marescotti Religiosa",
+        "first_name": "Giacinta Marescotti",
+        "role": "Religiosa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Glastiano (Maglastiano) Vescovo",
+        "first_name": "Glastiano (Maglastiano)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria Bolognesi Mistica",
+        "first_name": "Maria Bolognesi",
+        "role": "Mistica",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Martina Martire",
+        "first_name": "Martina",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Mattia Vescovo di Gerusalemme",
+        "first_name": "Mattia",
+        "role": "Vescovo di Gerusalemme",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Muziano Maria Wiaux Religioso",
+        "first_name": "Muziano Maria Wiaux",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Paolo Ho Hyob Martire",
+        "first_name": "Paolo Ho Hyob",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pellegrino Vescovo di Triocala",
+        "first_name": "Pellegrino",
+        "role": "Vescovo di Triocala",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro I Zar dei Bulgari",
+        "first_name": "Pietro I",
+        "role": "Zar dei Bulgari",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Savina Matrona",
+        "first_name": "Savina",
+        "role": "Matrona",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sebastiano Valfr\u00e8 Sacerdote oratoriano",
+        "first_name": "Sebastiano Valfr\u00e8",
+        "role": "Sacerdote oratoriano",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sigismondo (Zygmunt) Pisarski Sacerdote e martire",
+        "first_name": "Sigismondo (Zygmunt) Pisarski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Teofilo il Giovane Soldato e martire",
+        "first_name": "Teofilo il Giovane",
+        "role": "Soldato e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Tommaso Khuong Sacerdote, martire nel Tonchino",
+        "first_name": "Tommaso Khuong",
+        "role": "Sacerdote, martire nel Tonchino",
+        "dates": [
+            {
+                "month": 1,
+                "day": 30
+            }
+        ]
+    }
+]

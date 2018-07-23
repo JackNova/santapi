@@ -1,0 +1,387 @@
+[
+    {
+        "full_name": "San Giuseppe Calasanzio Sacerdote",
+        "first_name": "Giuseppe Calasanzio",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Ludovico (Luigi IX) Re di Francia",
+        "first_name": "Ludovico (Luigi IX)",
+        "role": "Re di Francia",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Alessandro Dordi Sacerdote missionario, martire",
+        "first_name": "Alessandro Dordi",
+        "role": "Sacerdote missionario, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Antoniano e Astanzio di Vigonzone Martiri",
+        "first_name": "Antoniano e Astanzio di Vigonzone",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Aredio di Limoges Abate",
+        "first_name": "Aredio di Limoges",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ebba di Coldingham Principessa, badessa",
+        "first_name": "Ebba di Coldingham",
+        "role": "Principessa, badessa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Edberto (Egberto) Re del Northumberland",
+        "first_name": "Edberto (Egberto)",
+        "role": "Re del Northumberland",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Eduardo Cabanach Majem Sacerdote e martire",
+        "first_name": "Eduardo Cabanach Majem",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Erminia (Ermina) Venerata a Reims",
+        "first_name": "Erminia (Ermina)",
+        "role": "Venerata a Reims",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Eusebio di Roma Martire",
+        "first_name": "Eusebio di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ferm\u00edn Martorell Vies Sacerdote e martire",
+        "first_name": "Ferm\u00edn Martorell Vies",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francisco Llach Candell Sacerdote e martire",
+        "first_name": "Francisco Llach Candell",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Genesio di Arles Vescovo e martire",
+        "first_name": "Genesio di Arles",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Genesio di Brescello",
+        "first_name": "Genesio di Brescello",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Genesio di Roma Martire",
+        "first_name": "Genesio di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Geronzio Vescovo",
+        "first_name": "Geronzio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Giulio e Ermete",
+        "first_name": "Giulio e Ermete",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Giuseppe Calasanzio Sacerdote",
+        "first_name": "Giuseppe Calasanzio",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Gregorio di Utrecht Abate",
+        "first_name": "Gregorio di Utrecht",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Ludovico (Luigi IX) Re di Francia",
+        "first_name": "Ludovico (Luigi IX)",
+        "role": "Re di Francia",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Luigi della Consolata (Andrea Bordino) Fratello cottolenghino",
+        "first_name": "Luigi della Consolata (Andrea Bordino)",
+        "role": "Fratello cottolenghino",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Luigi Urbano Lanaspa Sacerdote domenicano, martire",
+        "first_name": "Luigi Urbano Lanaspa",
+        "role": "Sacerdote domenicano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Luis Alm\u00e9cija L\u00e1zaro Sacerdote e martire",
+        "first_name": "Luis Alm\u00e9cija L\u00e1zaro",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria del Transito (Cabanillas) di Ges\u00f9 Sacramentato",
+        "first_name": "Maria del Transito (Cabanillas) di Ges\u00f9 Sacramentato",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria Troncatti Religiosa",
+        "first_name": "Maria Troncatti",
+        "role": "Religiosa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Mena Patriarca di Costantinopoli",
+        "first_name": "Mena",
+        "role": "Patriarca di Costantinopoli",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Michele Carvalho Sacerdote gesuita, fondatore",
+        "first_name": "Michele Carvalho",
+        "role": "Sacerdote gesuita, fondatore",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Giovanni Charles Sacerdote e martire",
+        "first_name": "Paolo Giovanni Charles",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Patrizia di Costantinopoli Vergine",
+        "first_name": "Patrizia di Costantinopoli",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Pellegrino Martire",
+        "first_name": "Pellegrino",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Calidis Mercedario",
+        "first_name": "Pietro de Calidis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Vazquez Martire",
+        "first_name": "Pietro Vazquez",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ram\u00f3n Cabanach Majem Sacerdote e martire",
+        "first_name": "Ram\u00f3n Cabanach Majem",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Agde Abate",
+        "first_name": "Severo di Agde",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    },
+    {
+        "full_name": "San Tommaso Cantelupe Vescovo",
+        "first_name": "Tommaso Cantelupe",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 25
+            }
+        ]
+    }
+]

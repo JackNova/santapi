@@ -1,0 +1,442 @@
+[
+    {
+        "full_name": "San Giovanni Eudes Sacerdote",
+        "first_name": "Giovanni Eudes",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sara Moglie di Abramo",
+        "first_name": "Sara",
+        "role": "Moglie di Abramo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Agapito Le\u00f3n (Remigio Olalla Aldea) Religioso lasalliano, martire",
+        "first_name": "Agapito Le\u00f3n (Remigio Olalla Aldea)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Andrea il Tribuno e Compagni Soldati martiri",
+        "first_name": "Andrea il Tribuno e Compagni",
+        "role": "Soldati martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Angelo da Acquapagana",
+        "first_name": "Angelo da Acquapagana",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Bartolomeo di Simeri Eremita, fondatore e abate",
+        "first_name": "Bartolomeo di Simeri",
+        "role": "Eremita, fondatore e abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Bernardo Venerato a Candeleda",
+        "first_name": "Bernardo",
+        "role": "Venerato a Candeleda",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Bertolfo Abate",
+        "first_name": "Bertolfo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato D\u00e1maso Luis (Antol\u00edn Mart\u00ednez Mart\u00ednez) Religioso lasalliano, martire",
+        "first_name": "D\u00e1maso Luis (Antol\u00edn Mart\u00ednez Mart\u00ednez)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Dami\u00e1n G\u00f3mez Jim\u00e9nez Sacerdote e martire",
+        "first_name": "Dami\u00e1n G\u00f3mez Jim\u00e9nez",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Donato di Sisteron Eremita",
+        "first_name": "Donato di Sisteron",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beate Elvira della Nativit\u00e0 della Nostra Signora Torrentall\u00e9 Paraire e 8 compagne Vergini e martiri",
+        "first_name": "Elvira della Nativit\u00e0 della Nostra Signora Torrentall\u00e9 Paraire e 8 compagne",
+        "role": "Vergini e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ezechiele Moreno y Diaz",
+        "first_name": "Ezechiele Moreno y Diaz",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Felice Gonzalez Bustos Sacerdote e martire",
+        "first_name": "Felice Gonzalez Bustos",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francesco Ibanez Ibanez Sacerdote e martire",
+        "first_name": "Francesco Ibanez Ibanez",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giordano da Pisa (o da Rivalto) Domenicano",
+        "first_name": "Giordano da Pisa (o da Rivalto)",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Giovanni Eudes Sacerdote",
+        "first_name": "Giovanni Eudes",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Giulio di Roma Martire",
+        "first_name": "Giulio di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giusto Arevalo Mora Sacerdote e martire",
+        "first_name": "Giusto Arevalo Mora",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Gregorio Martos Mu\u00f1oz Sacerdote e martire",
+        "first_name": "Gregorio Martos Mu\u00f1oz",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guerrico Abate di Igny",
+        "first_name": "Guerrico",
+        "role": "Abate di Igny",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Italo Martire",
+        "first_name": "Italo",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Josafat Roque (Urbano Corral Gonz\u00e1lez) Religioso lasalliano, martire",
+        "first_name": "Josafat Roque (Urbano Corral Gonz\u00e1lez)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Julio Alfonso (Valeriano Ru\u00edz Peral) Religioso lasalliano, martire",
+        "first_name": "Julio Alfonso (Valeriano Ru\u00edz Peral)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ladislao Luis (Isidro Mu\u00f1oz Antol\u00edn) Religioso lasalliano, martire",
+        "first_name": "Ladislao Luis (Isidro Mu\u00f1oz Antol\u00edn)",
+        "role": "Religioso lasalliano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Leone II Abate di Cava",
+        "first_name": "Leone II",
+        "role": "Abate di Cava",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Ludovico d'Angi\u00f2 (di Tolosa) Vescovo",
+        "first_name": "Ludovico d'Angi\u00f2 (di Tolosa)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Ludovico Flores e Pietro de Zu\u00f1iga, sacerdoti religiosi, e 13 compagni marinai Martiri",
+        "first_name": "Ludovico Flores e Pietro de Zu\u00f1iga, sacerdoti religiosi, e 13 compagni marinai",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Magino di Tarragona Martire",
+        "first_name": "Magino di Tarragona",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Magno Venerato a Cuneo",
+        "first_name": "Magno",
+        "role": "Venerato a Cuneo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Magno di Anagni (o da Trani) Vescovo e martire",
+        "first_name": "Magno di Anagni (o da Trani)",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Michele Soriano Mercedario",
+        "first_name": "Michele Soriano",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Buitrago Morales Sacerdote e martire",
+        "first_name": "Pietro Buitrago Morales",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufino Venerato a Mantova",
+        "first_name": "Rufino",
+        "role": "Venerato a Mantova",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sara Moglie di Abramo",
+        "first_name": "Sara",
+        "role": "Moglie di Abramo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Sebaldo (Sinibaldo) Eremita",
+        "first_name": "Sebaldo (Sinibaldo)",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisto III Papa",
+        "first_name": "Sisto III",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "San Timoteo di Gaza Martire",
+        "first_name": "Timoteo di Gaza",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Tommaso Sitjar Forti\u00e1 Sacerdote gesuita, martire",
+        "first_name": "Tommaso Sitjar Forti\u00e1",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ugo Green Sacerdote e martire",
+        "first_name": "Ugo Green",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 19
+            }
+        ]
+    }
+]

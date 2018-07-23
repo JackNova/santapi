@@ -1,0 +1,134 @@
+[
+    {
+        "full_name": "Sant' Agapio di Cesarea Martire",
+        "first_name": "Agapio di Cesarea",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Aimone di Urti\u00e8res Vescovo di San Giovanni di Maurienne",
+        "first_name": "Aimone di Urti\u00e8res",
+        "role": "Vescovo di San Giovanni di Maurienne",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Celso e Clemente Martiri",
+        "first_name": "Celso e Clemente",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Francesca Siedliska (Maria di Ges\u00f9 Buon Pastore) Fondatrice",
+        "first_name": "Francesca Siedliska (Maria di Ges\u00f9 Buon Pastore)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Gelasio I Papa",
+        "first_name": "Gelasio I",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Jos\u00e9 Vila Barri Sacerdote e martire",
+        "first_name": "Jos\u00e9 Vila Barri",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Launo di Thouars Vescovo",
+        "first_name": "Launo di Thouars",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Liberale di Embrun Vescovo",
+        "first_name": "Liberale di Embrun",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Mauro di Cesena Vescovo",
+        "first_name": "Mauro di Cesena",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Mauro di Parenzo Vescovo e martire",
+        "first_name": "Mauro di Parenzo",
+        "role": "Vescovo e martire",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Pappolo di Metz Vescovo",
+        "first_name": "Pappolo di Metz",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    },
+    {
+        "full_name": "San Rufo",
+        "first_name": "Rufo",
+        "role": null,
+        "dates": [
+            {
+                "month": 11,
+                "day": 21
+            }
+        ]
+    }
+]

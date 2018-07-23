@@ -1,0 +1,189 @@
+[
+    {
+        "full_name": "Sant' Abo di Tiflis Martire",
+        "first_name": "Abo di Tiflis",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Andrea Bessette (Alfredo) Religioso",
+        "first_name": "Andrea Bessette (Alfredo)",
+        "role": "Religioso",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Andrea Corsini Vescovo",
+        "first_name": "Andrea Corsini",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Carlo da Sezze Religioso dei Frati Minori",
+        "first_name": "Carlo da Sezze",
+        "role": "Religioso dei Frati Minori",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Sant\u2019 Erminoldo di Prufening Abate, martire",
+        "first_name": "Erminoldo di Prufening",
+        "role": "Abate, martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Federico Prevosto di St-Vaast d'Arras",
+        "first_name": "Federico",
+        "role": "Prevosto di St-Vaast d'Arras",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Felice di Nantes Vescovo",
+        "first_name": "Felice di Nantes",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Giovanni de Ribera",
+        "first_name": "Giovanni de Ribera",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Giuliano e Basilissa Martire in Tebaide",
+        "first_name": "Giuliano e Basilissa",
+        "role": "Martire in Tebaide",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Guido (Guy) di Auxerre Vescovo",
+        "first_name": "Guido (Guy) di Auxerre",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Macario lo Scozzese Abate",
+        "first_name": "Macario lo Scozzese",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Nilammone Anacoreta",
+        "first_name": "Nilammone",
+        "role": "Anacoreta",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Pier Tommaso Patriarca latino di Costantinopoli",
+        "first_name": "Pier Tommaso",
+        "role": "Patriarca latino di Costantinopoli",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Raffaella Maria del Sacro Cuore (Rafaela Porras y Aill\u00f3n) Fondatrice",
+        "first_name": "Raffaella Maria del Sacro Cuore (Rafaela Porras y Aill\u00f3n)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "San Raimondo de Blanes Protomartire mercedario",
+        "first_name": "Raimondo de Blanes",
+        "role": "Protomartire mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Rita Amata di Ges\u00f9 (Rita L\u00f3pez de Almeida) Fondatrice",
+        "first_name": "Rita Amata di Ges\u00f9 (Rita L\u00f3pez de Almeida)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Talulla Vergine irlandese",
+        "first_name": "Talulla",
+        "role": "Vergine irlandese",
+        "dates": [
+            {
+                "month": 1,
+                "day": 6
+            }
+        ]
+    }
+]

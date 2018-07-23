@@ -1,0 +1,145 @@
+[
+    {
+        "full_name": "Santi Abramo e Coren Confessori",
+        "first_name": "Abramo e Coren",
+        "role": "Confessori",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Alessandro da Verona Predicatore",
+        "first_name": "Alessandro da Verona",
+        "role": "Predicatore",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Baiulo (e Liberato) Martiri romani",
+        "first_name": "Baiulo (e Liberato)",
+        "role": "Martiri romani",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Colino Sacerdote francescano",
+        "first_name": "Colino",
+        "role": "Sacerdote francescano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Domenico di Silos Abate",
+        "first_name": "Domenico di Silos",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Filogonio di Antiochia Vescovo",
+        "first_name": "Filogonio di Antiochia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giovanni de Molina Mercedario",
+        "first_name": "Giovanni de Molina",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Liberato (Liberale) Martire a Roma",
+        "first_name": "Liberato (Liberale)",
+        "role": "Martire a Roma",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Lorenzo Company Mercedario",
+        "first_name": "Lorenzo Company",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Michele (Michal) Piaszczynski Sacerdote e martire",
+        "first_name": "Michele (Michal) Piaszczynski",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ursicino del Giura Eremita e fondatore",
+        "first_name": "Ursicino del Giura",
+        "role": "Eremita e fondatore",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Vincenzo Romano Sacerdote",
+        "first_name": "Vincenzo Romano",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    },
+    {
+        "full_name": "San Zeffirino (o Zefirino) Papa e martire (?)",
+        "first_name": "Zeffirino (o Zefirino)",
+        "role": "Papa e martire (?)",
+        "dates": [
+            {
+                "month": 12,
+                "day": 20
+            }
+        ]
+    }
+]

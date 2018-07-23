@@ -1,0 +1,171 @@
+[
+    {
+        "full_name": "Beato Arnaldo",
+        "first_name": "Arnaldo",
+        "role": null,
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Artemide Zatti Salesiano Coadiutore",
+        "first_name": "Artemide Zatti",
+        "role": "Salesiano Coadiutore",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Clemente Maria Hofbauer Sacerdote",
+        "first_name": "Clemente Maria Hofbauer",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Sant\u2019 Eusebio II Vescovo di Vercelli",
+        "first_name": "Eusebio II",
+        "role": "Vescovo di Vercelli",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giovanni Balicki Sacerdote",
+        "first_name": "Giovanni Balicki",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guglielmo Hart Sacerdote e martire",
+        "first_name": "Guglielmo Hart",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Leocrizia (Lucrezia) di Cordova Vergine e martire",
+        "first_name": "Leocrizia (Lucrezia) di Cordova",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ludovico de la Pena Mercedario",
+        "first_name": "Ludovico de la Pena",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Luisa de Marillac Vedova e religiosa",
+        "first_name": "Luisa de Marillac",
+        "role": "Vedova e religiosa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            },
+            {
+                "month": 5,
+                "day": 9
+            }
+        ]
+    },
+    {
+        "full_name": "San Menigno di Pario Martire",
+        "first_name": "Menigno di Pario",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Monaldo da Ancona, Francesco da Petriolo e Antonio Cantoni da Milano Martiri",
+        "first_name": "Monaldo da Ancona, Francesco da Petriolo e Antonio Cantoni da Milano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro Pasquale Mercedario",
+        "first_name": "Pietro Pasquale",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pio Conde Conde Sacerdote salesiano, martire",
+        "first_name": "Pio Conde Conde",
+        "role": "Sacerdote salesiano, martire",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Sisebuto Abate",
+        "first_name": "Sisebuto",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Zaccaria Papa",
+        "first_name": "Zaccaria",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 3,
+                "day": 15
+            }
+        ]
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "full_name": "Sant' Ilario di Poitiers Vescovo e dottore della Chiesa",
+        "first_name": "Ilario di Poitiers",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Agrizio di Treviri Vescovo",
+        "first_name": "Agrizio di Treviri",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Amedeo di Clermont Monaco",
+        "first_name": "Amedeo di Clermont",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Chentingerno (Kentingern) Vescovo e abate",
+        "first_name": "Chentingerno (Kentingern)",
+        "role": "Vescovo e abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Domenico e Giuseppe Pham Trong Kham e Luca Thin Martiri",
+        "first_name": "Domenico e Giuseppe Pham Trong Kham e Luca Thin",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Emilio Szramek Sacerdote e martire",
+        "first_name": "Emilio Szramek",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Erbino (Ervan) Re di Cornovaglia",
+        "first_name": "Erbino (Ervan)",
+        "role": "Re di Cornovaglia",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            },
+            {
+                "month": 5,
+                "day": 29
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Ermilio e Stratonico Martiri",
+        "first_name": "Ermilio e Stratonico",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Francesca dell\u2019Incarnazione (Mar\u00eda Francisca Espejo y Martos) Vergine e martire",
+        "first_name": "Francesca dell\u2019Incarnazione (Mar\u00eda Francisca Espejo y Martos)",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francesco Maria Greco Sacerdote e fondatore",
+        "first_name": "Francesco Maria Greco",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Goffredo di Cappenberg Monaco",
+        "first_name": "Goffredo di Cappenberg",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Gumesindo e Servidio Martiri a Cordova",
+        "first_name": "Gumesindo e Servidio",
+        "role": "Martiri a Cordova",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ilario di Poitiers Vescovo e dottore della Chiesa",
+        "first_name": "Ilario di Poitiers",
+        "role": "Vescovo e dottore della Chiesa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Ivetta (Iutta) di Huy Vedova",
+        "first_name": "Ivetta (Iutta) di Huy",
+        "role": "Vedova",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Leonzio di Cesarea di Cappadocia Vescovo",
+        "first_name": "Leonzio di Cesarea di Cappadocia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Matteo de Lana Mercedario",
+        "first_name": "Matteo de Lana",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Capitolias Martire",
+        "first_name": "Pietro di Capitolias",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Remigio di Reims Vescovo",
+        "first_name": "Remigio di Reims",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Tegwy",
+        "first_name": "Tegwy",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Vero II di Vienne Vescovo",
+        "first_name": "Vero II di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Veronica da Binasco Vergine",
+        "first_name": "Veronica da Binasco",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Vittoria Valverde Gonzalez Vergine e martire",
+        "first_name": "Vittoria Valverde Gonzalez",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    },
+    {
+        "full_name": "San Vivenzio",
+        "first_name": "Vivenzio",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 13
+            }
+        ]
+    }
+]

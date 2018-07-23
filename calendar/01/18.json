@@ -1,0 +1,160 @@
+[
+    {
+        "full_name": "Beato Andrea Grego da Peschiera Domenicano",
+        "first_name": "Andrea Grego da Peschiera",
+        "role": "Domenicano",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Beatrice II d'Este Monaca",
+        "first_name": "Beatrice II d'Este",
+        "role": "Monaca",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Cosconio, Zenone e Melanippo Martiri",
+        "first_name": "Cosconio, Zenone e Melanippo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Cristina (Mattia) Ciccarelli da L'Aquila Vergine",
+        "first_name": "Cristina (Mattia) Ciccarelli da L'Aquila",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Deicolo Abate",
+        "first_name": "Deicolo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Facio (Fazio) di Cremona",
+        "first_name": "Facio (Fazio) di Cremona",
+        "role": null,
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beate Felicita Pricet, Monica Pichery, Carla Lucas e Vittoria Gusteau Martiri",
+        "first_name": "Felicita Pricet, Monica Pichery, Carla Lucas e Vittoria Gusteau",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giovanni de Laers Mercedario",
+        "first_name": "Giovanni de Laers",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Margherita d'Ungheria Principessa e religiosa",
+        "first_name": "Margherita d'Ungheria",
+        "role": "Principessa e religiosa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria Teresa Fasce Agostiniana",
+        "first_name": "Maria Teresa Fasce",
+        "role": "Agostiniana",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            },
+            {
+                "month": 10,
+                "day": 12
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Prisca Martire",
+        "first_name": "Prisca",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Regina Protmann Fondatrice",
+        "first_name": "Regina Protmann",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Successo, Paolo e Lucio Vescovi e martiri",
+        "first_name": "Successo, Paolo e Lucio",
+        "role": "Vescovi e martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    },
+    {
+        "full_name": "San Volusiano di Tours Vescovo",
+        "first_name": "Volusiano di Tours",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 18
+            }
+        ]
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "full_name": "Sant' Acardo (Aicardo) di Jumieges Abate",
+        "first_name": "Acardo (Aicardo) di Jumieges",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Albino di Lione Vescovo",
+        "first_name": "Albino di Lione",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Anton Maria Schwartz Fondatore",
+        "first_name": "Anton Maria Schwartz",
+        "role": "Fondatore",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Apro di Toul Vescovo",
+        "first_name": "Apro di Toul",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Baldo Penitente a Sens",
+        "first_name": "Baldo",
+        "role": "Penitente a Sens",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Camillo Costanzo Sacerdote gesuita, martire",
+        "first_name": "Camillo Costanzo",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Carlo da Montegranelli Fondatore, eremita",
+        "first_name": "Carlo da Montegranelli",
+        "role": "Fondatore, eremita",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Caterina Fieschi Adorno da Genova Vedova",
+        "first_name": "Caterina Fieschi Adorno da Genova",
+        "role": "Vedova",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Cristiano da Perugia",
+        "first_name": "Cristiano da Perugia",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Emila e Geremia Martiri di Cordova",
+        "first_name": "Emila e Geremia",
+        "role": "Martiri di Cordova",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Francesco, Giacomo, Sancio, Ildefonso, Giovanni e Dionisio Martiri mercedari",
+        "first_name": "Francesco, Giacomo, Sancio, Ildefonso, Giovanni e Dionisio",
+        "role": "Martiri mercedari",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giordano di Pulsano Abate",
+        "first_name": "Giordano di Pulsano",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Giovanni Battista e Giacinto de los \u00c1ngeles Martiri indios",
+        "first_name": "Giovanni Battista e Giacinto de los \u00c1ngeles",
+        "role": "Martiri indios",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ladislao (Wladyslaw) Miegon Sacerdote e martire",
+        "first_name": "Ladislao (Wladyslaw) Miegon",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Serva di Dio Lavinia Sernardi",
+        "first_name": "Lavinia Sernardi",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Niceta il Goto Martire",
+        "first_name": "Niceta il Goto",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Nicomede di Roma Martire",
+        "first_name": "Nicomede di Roma",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo Manna Missionario",
+        "first_name": "Paolo Manna",
+        "role": "Missionario",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            },
+            {
+                "month": 1,
+                "day": 16
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pasquale Penades Jornet Sacerdote e martire",
+        "first_name": "Pasquale Penades Jornet",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Rolando (Orlando) de' Medici Eremita",
+        "first_name": "Rolando (Orlando) de' Medici",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Stratone, Valerio, Macrobio e Gordiano Martiri",
+        "first_name": "Stratone, Valerio, Macrobio e Gordiano",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Tommasuccio di Foligno (da Nocera)",
+        "first_name": "Tommasuccio di Foligno (da Nocera)",
+        "role": null,
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Valeriano di Tournus Martire",
+        "first_name": "Valeriano di Tournus",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 9,
+                "day": 15
+            }
+        ]
+    }
+]

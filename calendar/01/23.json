@@ -1,0 +1,112 @@
+[
+    {
+        "full_name": "Sant' Amasio Vescovo",
+        "first_name": "Amasio",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Andrea Chong (Tyong) Hwa-Gyong Catechista e martire",
+        "first_name": "Andrea Chong (Tyong) Hwa-Gyong",
+        "role": "Catechista e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Clemente ed Agatangelo Martiri",
+        "first_name": "Clemente ed Agatangelo",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Emerenziana Vergine e martire",
+        "first_name": "Emerenziana",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giovanni Infante Mercedario",
+        "first_name": "Giovanni Infante",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ildefonso (Idelfonso) da Toledo Vescovo",
+        "first_name": "Ildefonso (Idelfonso) da Toledo",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Maimbodo Martire presso Besancon",
+        "first_name": "Maimbodo",
+        "role": "Martire presso Besancon",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Margherita Molli Mistica",
+        "first_name": "Margherita Molli",
+        "role": "Mistica",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Messalina di Foligno Martire",
+        "first_name": "Messalina di Foligno",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Severiano e Aquila Sposi, martiri",
+        "first_name": "Severiano e Aquila",
+        "role": "Sposi, martiri",
+        "dates": [
+            {
+                "month": 1,
+                "day": 23
+            }
+        ]
+    }
+]

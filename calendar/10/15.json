@@ -1,0 +1,277 @@
+[
+    {
+        "full_name": "Santa Teresa di Ges\u00f9 (d'Avila) Vergine e Dottore della Chiesa",
+        "first_name": "Teresa di Ges\u00f9 (d'Avila)",
+        "role": "Vergine e Dottore della Chiesa",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Aurelia di Ratisbona Reclusa",
+        "first_name": "Aurelia di Ratisbona",
+        "role": "Reclusa",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Aurelia di Strasburgo",
+        "first_name": "Aurelia di Strasburgo",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Barses (Barsen) di Edessa Vescovo",
+        "first_name": "Barses (Barsen) di Edessa",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Capuano di Cahors Vescovo",
+        "first_name": "Capuano di Cahors",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Deodato di Vienne Vescovo",
+        "first_name": "Deodato di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Elisabetta di Hoven Monaca",
+        "first_name": "Elisabetta di Hoven",
+        "role": "Monaca",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Sant\u2019 Eusebia Vergine di Vercelli",
+        "first_name": "Eusebia",
+        "role": "Vergine di Vercelli",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ferdinando Sorita Mercedario",
+        "first_name": "Ferdinando Sorita",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Filippa de Chantemilan",
+        "first_name": "Filippa de Chantemilan",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Filippo di Namur",
+        "first_name": "Filippo di Namur",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Fortunata Martire venerata a Patria",
+        "first_name": "Fortunata",
+        "role": "Martire venerata a Patria",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Gonsalvo (Gundisalvo) da Lagos",
+        "first_name": "Gonsalvo (Gundisalvo) da Lagos",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Gualtiero di Quincy Abate",
+        "first_name": "Gualtiero di Quincy",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guglielmo de Eril Mercedario",
+        "first_name": "Guglielmo de Eril",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guglielmo di Flor\u00e8ge Monaco",
+        "first_name": "Guglielmo di Flor\u00e8ge",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Leonardo di Vandoeuvre Eremita",
+        "first_name": "Leonardo di Vandoeuvre",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Maddalena da Nagasaki Martire",
+        "first_name": "Maddalena da Nagasaki",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Narciso Bast\u00e9 Bast\u00e9 Sacerdote gesuita, martire",
+        "first_name": "Narciso Bast\u00e9 Bast\u00e9",
+        "role": "Sacerdote gesuita, martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Verdaguer Saurina Sacerdote e martire",
+        "first_name": "Pedro Verdaguer Saurina",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Sancio da Soria Mercedario",
+        "first_name": "Sancio da Soria",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "San Severo di Treviri Vescovo",
+        "first_name": "Severo di Treviri",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Sofia (o Suia o Suina) Vergine e martire",
+        "first_name": "Sofia (o Suia o Suina)",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Tecla di Kitzingen Badessa",
+        "first_name": "Tecla di Kitzingen",
+        "role": "Badessa",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Teresa di Ges\u00f9 (d'Avila) Vergine e Dottore della Chiesa",
+        "first_name": "Teresa di Ges\u00f9 (d'Avila)",
+        "role": "Vergine e Dottore della Chiesa",
+        "dates": [
+            {
+                "month": 10,
+                "day": 15
+            }
+        ]
+    }
+]

@@ -10,6 +10,7 @@ from string import ascii_uppercase
 import json
 
 from helpers import cached_in_db
+from helpers import cache_in_calendar
 from requests_html import HTMLSession
 
 SaintDay = namedtuple('SaintDay', ['month', 'day'])
@@ -29,6 +30,10 @@ SESSION = HTMLSession()
 def create_url(letter, page):
     page_label = f'more{page}.html' if page > 1 else ''
     return f"http://www.santiebeati.it/{letter}/{page_label}"
+
+
+def create_calendar_url(month, day):
+    return "http://www.santiebeati.it/{:02d}/{:02d}".format(month, day)
 
 
 def parse_saint_days(days):
@@ -90,6 +95,12 @@ def scrape_all_name_pages(letter):
     return results
 
 
+@cache_in_calendar
+def scrape_calendar_page(month, day):
+    url = create_calendar_url(month, day)
+    return scrape_page(url)
+
+
 def scrape_all_names():
     results = []
     for letter in ascii_uppercase:
@@ -97,6 +108,13 @@ def scrape_all_names():
         results += xs
         print(f"letter {letter} DONE")
     return results
+
+
+def scrape_all_calendar():
+    for month, day in [(month, day) for month in range(1, 13)
+                       for day in range(1, 32)]:
+        scrape_calendar_page(month=month, day=day)
+        print(f"{month}/{day} DONE")
 
 
 def create_calendar(saint_results_dicts):
@@ -111,6 +129,6 @@ def create_calendar(saint_results_dicts):
             xs = [str(saint_date.get('month')), str(saint_date.get('day'))]
             key = '-'.join(xs)
             saints_calendar[key].append(saint)
-    
+
     with open('db/calendar.json', 'w') as calendar_file:
         calendar_file.write(json.dumps(saints_calendar, indent=4))

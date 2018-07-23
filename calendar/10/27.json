@@ -1,0 +1,156 @@
+[
+    {
+        "full_name": "Santa Balsamia",
+        "first_name": "Balsamia",
+        "role": null,
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Bartolomeo di Breganze Vescovo di Vicenza",
+        "first_name": "Bartolomeo di Breganze",
+        "role": "Vescovo di Vicenza",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Cesare Taparelli di Genola Sacerdote gesuita",
+        "first_name": "Cesare Taparelli di Genola",
+        "role": "Sacerdote gesuita",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Desiderio di Auxerre Vescovo",
+        "first_name": "Desiderio di Auxerre",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Emelina Eremita e conversa cistercense",
+        "first_name": "Emelina",
+        "role": "Eremita e conversa cistercense",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Evaristo Papa e martire",
+        "first_name": "Evaristo",
+        "role": "Papa e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Gaudioso di Abitine Vescovo",
+        "first_name": "Gaudioso di Abitine",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Namazio di Clermont Vescovo",
+        "first_name": "Namazio di Clermont",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Odran (Otterano) di Iona Monaco",
+        "first_name": "Odran (Otterano) di Iona",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Lauro Mercedario",
+        "first_name": "Pietro de Lauro",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pietro de Pazzis Mercedario",
+        "first_name": "Pietro de Pazzis",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Salvatore (Salvador) Mollar Ventura Religioso e martire",
+        "first_name": "Salvatore (Salvador) Mollar Ventura",
+        "role": "Religioso e martire",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Teodulo (o Teodoro II) Vescovo di Sion",
+        "first_name": "Teodulo (o Teodoro II)",
+        "role": "Vescovo di Sion",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    },
+    {
+        "full_name": "San Trasea di Eumenia Vescovo",
+        "first_name": "Trasea di Eumenia",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 10,
+                "day": 27
+            }
+        ]
+    }
+]

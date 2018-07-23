@@ -1,0 +1,215 @@
+[
+    {
+        "full_name": "San Giovanni da Kety (Canzio) Sacerdote",
+        "first_name": "Giovanni da Kety (Canzio)",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Antonio de Sant'Anna Galvao Francescano",
+        "first_name": "Antonio de Sant'Anna Galvao",
+        "role": "Francescano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Bincema Vergine e martire",
+        "first_name": "Bincema",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Cherilde Reclusa a St. Georgen",
+        "first_name": "Cherilde",
+        "role": "Reclusa a St. Georgen",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Cotelinda Reclusa a St. Georgen",
+        "first_name": "Cotelinda",
+        "role": "Reclusa a St. Georgen",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Dagoberto II Martire",
+        "first_name": "Dagoberto II",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Dieci Martiri di Creta",
+        "first_name": "Dieci Martiri di Creta",
+        "role": null,
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Garibaldo di Ratisbona Vescovo",
+        "first_name": "Garibaldo di Ratisbona",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giacomo Aymerich Mercedario",
+        "first_name": "Giacomo Aymerich",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Giovanni da Kety (Canzio) Sacerdote",
+        "first_name": "Giovanni da Kety (Canzio)",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Giovanni Stone Sacerdote agostiniano, martire",
+        "first_name": "Giovanni Stone",
+        "role": "Sacerdote agostiniano, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Giuseppe Cho Yun-ho Martire",
+        "first_name": "Giuseppe Cho Yun-ho",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Hartmann (Artmanno) di Bressanone Vescovo",
+        "first_name": "Hartmann (Artmanno) di Bressanone",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Sant' Ivo (Yves) di Chartres Vescovo",
+        "first_name": "Ivo (Yves) di Chartres",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Maria Margherita d'Youville (Dufrost De Lajemmerais) Fondatrice",
+        "first_name": "Maria Margherita d'Youville (Dufrost De Lajemmerais)",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Niccol\u00f2 (Nicola) Fattore Sacerdote francescano",
+        "first_name": "Niccol\u00f2 (Nicola) Fattore",
+        "role": "Sacerdote francescano",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Paolo (Pablo) Melendez Gonzalo Padre di famiglia, martire",
+        "first_name": "Paolo (Pablo) Melendez Gonzalo",
+        "role": "Padre di famiglia, martire",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Servolo il Paralitico Mendicante",
+        "first_name": "Servolo il Paralitico",
+        "role": "Mendicante",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            }
+        ]
+    },
+    {
+        "full_name": "San Torlaco (Thorl\u00e0k Thorhallsson) Vescovo",
+        "first_name": "Torlaco (Thorl\u00e0k Thorhallsson)",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 12,
+                "day": 23
+            },
+            {
+                "month": 7,
+                "day": 20
+            }
+        ]
+    }
+]

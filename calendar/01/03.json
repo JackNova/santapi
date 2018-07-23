@@ -1,0 +1,134 @@
+[
+    {
+        "full_name": "Sant' Antero Papa",
+        "first_name": "Antero",
+        "role": "Papa",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Ciriaco Elia Chavara Sacerdote e fondatore",
+        "first_name": "Ciriaco Elia Chavara",
+        "role": "Sacerdote e fondatore",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Daniele di Padova Martire",
+        "first_name": "Daniele di Padova",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Fintan di Dun Blesci Benedettino",
+        "first_name": "Fintan di Dun Blesci",
+        "role": "Benedettino",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Fiorenzo di Vienne Vescovo",
+        "first_name": "Fiorenzo di Vienne",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Genoveffa (Genevieve) Vergine",
+        "first_name": "Genoveffa (Genevieve)",
+        "role": "Vergine",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Gordio di Cesarea di Cappadocia Martire",
+        "first_name": "Gordio di Cesarea di Cappadocia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Guglielmo Vives Mercedario",
+        "first_name": "Guglielmo Vives",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Imbenia Martire",
+        "first_name": "Imbenia",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Luciano di Lentini Vescovo",
+        "first_name": "Luciano di Lentini",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "San Teogene Martire",
+        "first_name": "Teogene",
+        "role": "Martire",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Teopempto e Teonas (Teopompo e Sinesio) Martiri a Nicomedia",
+        "first_name": "Teopempto e Teonas (Teopompo e Sinesio)",
+        "role": "Martiri a Nicomedia",
+        "dates": [
+            {
+                "month": 1,
+                "day": 3
+            }
+        ]
+    }
+]

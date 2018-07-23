@@ -11,3 +11,8 @@ rm -rf db/*.json
 pip install -r requirements.txt
 python main.py
 ```
+
+## TODO
+
+[] calendar in sorted order
+[] create rest api

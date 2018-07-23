@@ -1,0 +1,431 @@
+[
+    {
+        "full_name": "Sant' Agilo Abate",
+        "first_name": "Agilo",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Alfredo Ildefonso Schuster Cardinale, arcivescovo di Milano",
+        "first_name": "Alfredo Ildefonso Schuster",
+        "role": "Cardinale, arcivescovo di Milano",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato \u00c1ngel Alonso Escribano Sacerdote degli Operai Diocesani, martire",
+        "first_name": "\u00c1ngel Alonso Escribano",
+        "role": "Sacerdote degli Operai Diocesani, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Antonio Garc\u00eda Padilla Sacerdote e martire",
+        "first_name": "Antonio Garc\u00eda Padilla",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Aurelio Leyva Garz\u00f3n Sacerdote e martire",
+        "first_name": "Aurelio Leyva Garz\u00f3n",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Bononio Abate",
+        "first_name": "Bononio",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Diego Ventaja Milan e Emanuele Medina Olmos Vescovi e martiri",
+        "first_name": "Diego Ventaja Milan e Emanuele Medina Olmos",
+        "role": "Vescovi e martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Dionisio Ullivarri Barajuan Coadiutore salesiano, martire",
+        "first_name": "Dionisio Ullivarri Barajuan",
+        "role": "Coadiutore salesiano, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Domingo Campoy Calvano Sacerdote e martire",
+        "first_name": "Domingo Campoy Calvano",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Ero di Armenteira Abate",
+        "first_name": "Ero di Armenteira",
+        "role": "Abate",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Eustachio van Lieshout Sacerdote",
+        "first_name": "Eustachio van Lieshout",
+        "role": "Sacerdote",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Fantino il Giovane Monaco",
+        "first_name": "Fantino il Giovane",
+        "role": "Monaco",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Felice e Adautto Martiri",
+        "first_name": "Felice e Adautto",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Fiacrio (Fiacre)",
+        "first_name": "Fiacrio (Fiacre)",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Fortunato, Gaio ed Ante Martiri salernitani",
+        "first_name": "Fortunato, Gaio ed Ante",
+        "role": "Martiri salernitani",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Francisco Rodr\u00edguez Carmona Sacerdote e martire",
+        "first_name": "Francisco Rodr\u00edguez Carmona",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Gaudenzia Vergine e martire",
+        "first_name": "Gaudenzia",
+        "role": "Vergine e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Gioacchino da Albocacer (Jos\u00e9 Ferrer Adell) Sacerdote e martire",
+        "first_name": "Gioacchino da Albocacer (Jos\u00e9 Ferrer Adell)",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Giovanni Giovenale Ancina Vescovo",
+        "first_name": "Giovanni Giovenale Ancina",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Juan Garrido Requena Sacerdote e martire",
+        "first_name": "Juan Garrido Requena",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Juan Manuel Felices Pardo Sacerdote e martire",
+        "first_name": "Juan Manuel Felices Pardo",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santa Margherita Ward Martire in Inghilterra",
+        "first_name": "Margherita Ward",
+        "role": "Martire in Inghilterra",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beata Maria Rafols Fondatrice",
+        "first_name": "Maria Rafols",
+        "role": "Fondatrice",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Mariano Morate Dom\u00ednguez Sacerdote e martire",
+        "first_name": "Mariano Morate Dom\u00ednguez",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Santi Martiri della Colonia Suffetana",
+        "first_name": "Martiri della Colonia Suffetana",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Nicol\u00e1s Gonz\u00e1lez Ferrer Sacerdote e martire",
+        "first_name": "Nicol\u00e1s Gonz\u00e1lez Ferrer",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pammachio di Roma",
+        "first_name": "Pammachio di Roma",
+        "role": null,
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Pedro Antonio Alm\u00e9cija Morales Sacerdote e martire",
+        "first_name": "Pedro Antonio Alm\u00e9cija Morales",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Pietro di Trevi Eremita",
+        "first_name": "Pietro di Trevi",
+        "role": "Eremita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Raimondo di Santa Grazia Mercedario",
+        "first_name": "Raimondo di Santa Grazia",
+        "role": "Mercedario",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Premostratense",
+        "first_name": "Riccardo",
+        "role": "Premostratense",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beati Riccardo Leigh, Edoardo Shelley, Riccardo Martin e Giovanni Roche Martiri",
+        "first_name": "Riccardo Leigh, Edoardo Shelley, Riccardo Martin e Giovanni Roche",
+        "role": "Martiri",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Riccardo Lloyd Giovane laico, martire",
+        "first_name": "Riccardo Lloyd",
+        "role": "Giovane laico, martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Santiago Mesa Leyva Sacerdote e martire",
+        "first_name": "Santiago Mesa Leyva",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Segundo Arce Maj\u00f3n Sacerdote e martire",
+        "first_name": "Segundo Arce Maj\u00f3n",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Stefano Nehm\u00e9 Monaco maronita",
+        "first_name": "Stefano Nehm\u00e9",
+        "role": "Monaco maronita",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "San Teodosio di Oria Vescovo",
+        "first_name": "Teodosio di Oria",
+        "role": "Vescovo",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Torcuato P\u00e9rez L\u00f3pez Sacerdote e martire",
+        "first_name": "Torcuato P\u00e9rez L\u00f3pez",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    },
+    {
+        "full_name": "Beato Vincenzo Cabanes Badenas Sacerdote e martire",
+        "first_name": "Vincenzo Cabanes Badenas",
+        "role": "Sacerdote e martire",
+        "dates": [
+            {
+                "month": 8,
+                "day": 30
+            }
+        ]
+    }
+]
